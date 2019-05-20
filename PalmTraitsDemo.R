@@ -1,8 +1,14 @@
-## Script used to make the Scientific Data paper Figures v.1 by Renske Onstein: maps and the distribution of traits
-# Author: Jun Ying Lim
+## R script to make Fig. 3 of Kissling et al.: 
+## PalmTraits 1.0, a species-level functional trait database for palms worldwide
+## 
+## Author of script: Jun Ying Lim
+## Modifications and additional annotations: W. Daniel Kissling
+
+# CLEAN WORKSPACE ====================
+rm(list=ls())
 
 ## DIRECTORIES ====================
-main.dir <- "~/Dropbox/Projects/2019/palms/projects/palmTraits/demo/PalmTraitsDemo/"
+main.dir <- "~/Dropbox/Projects/2019/palms/projects/palmTraits/repo/PalmTraitsDemo/"
 fig.dir <- file.path(main.dir, "figs")
 data.dir <- file.path(main.dir, "data")
 
@@ -17,14 +23,22 @@ library(reshape2); library(plyr)
 library(ape)
 
 # general plotting packages
-library(viridis); library(ggplot2);library(wesanderson); library(ggpubr); library(cowplot); library(viridis); library(ggrepel); library(scatterpie)
+library(viridis); library(ggplot2);library(wesanderson); library(cowplot); library(ggrepel); library(scatterpie); library(ggtree)
+
+# You will need to install ggtree which is crucial for the plotting in this script, run the following code to ensure that all dependent packages are also installed and updated
+# devtools::install_github('GuangchuangYu/ggtree', force = TRUE)
+
 
 ## IMPORT DATA ====================
-# load spatial data 
+# Load spatial data
+#     these polygons represent TDWG level 3 units ('botanical countries') as available from the
+#     World Geographical Scheme for Recording Plant Distributions (WGSRPD) 
+#     http://www.tdwg.org/standards/109
+#     https://github.com/tdwg/wgsrpd 
 shape <- readOGR(dsn = file.path(main.dir, "tdwg_level3_shp", "."), layer = "level3")
 shape@data$id <- rownames(shape@data)
 
-# simplify polygons for easier plotting
+# "Simplify" polygons for easier plotting
 shape2 <- gSimplify(spgeom = shape, tol = 0.01, topologyPreserve = TRUE) 
 shape <- SpatialPolygonsDataFrame(shape2, shape@data)
 shape_centroid <- gCentroid(shape, byid = TRUE)
@@ -33,37 +47,48 @@ shape@data$centroid_lat <- shape_centroid$y
 shape_fort <- fortify(shape, id = id)
 shape_gg <- merge(shape_fort, shape@data, by = "id")
 
-# load palm trait data
-traitData <- read.csv(file.path(data.dir, "PalmTraits_10.csv"), stringsAsFactors = FALSE)
+# Load palm trait data
+traitData <- read.csv(file.path(data.dir, "PalmTraits_19.csv"), stringsAsFactors = FALSE)
 
-# load palm occurence data
-occ <- read.csv(file.path(data.dir, "palms_in_tdwg3.csv"))
+# Load palm occurence data
+#     These are palm species occurrences within TDWG level 3 units ('botanical countries')
+#     as provided by the world checklist of palms, available from the Royal Botanic Gardens Kew
+#     http://wcsp.science.kew.org/
+#     Govaerts, R. & Dransfield, J. (2005). World checklist of palms. Royal Botanic Gardens Kew
+#     Richmond.
+#     Downloaded on July 2015
+occ <- read.csv(file.path(data.dir, "palms_in_tdwg3.csv"), stringsAsFactors = FALSE)
 occ$SpecName <- gsub(occ$SpecName, pattern = "_", replacement = " ")
 
-# load phylogeny
+# Load phylogeny
+#     This is a Maximum Clade Credibility (MCC) phylogenetic tree as used by Onstein et al. (2017)
+#     Nature Ecology & Evolution 1: 1903-1911.
+#     and by Onstein et al. (2018), Proceedings of the Royal Society B: Biological Sciences, 285,
+#     20180882.
+#     Available from DRYAD: https://datadryad.org/resource/doi:10.5061/dryad.cm4nm
 palmPhylo <- read.nexus(file.path(data.dir, "TREE.nex"))
 palmPhylo$tip.label <- gsub(palmPhylo$tip.label, pattern = "_", replacement = " ")
 
+# Identify species that differ between the phylogeny and trait dataset
 setdiff(palmPhylo$tip.label, traitData$SpecName)
 setdiff(traitData$SpecName, palmPhylo$tip.label)
 
-# exclude those taxa for now
+# Exclude those taxa from the phylogeny and the trait dataset
 intersectTaxa <- intersect(traitData$SpecName, palmPhylo$tip.label)
 traitDataSubset <- subset(traitData, SpecName %in% intersectTaxa)
 palmPhyloSubset <- drop.tip(palmPhylo,
                             tip = palmPhylo$tip.label[!palmPhylo$tip.label %in% intersectTaxa])
 
-## VIGNETTE 1: MAPPING GROWTH FORM PROPORTION ONTO WORLD MAP
+################################################################
+## FIGURE 3a from Kissling et al.: MAPPING GROWTH FORM PROPORTION ONTO WORLD MAP
 # Merge palm occurrences at the TDWG unit scale with trait data
-occ_trait <- merge(occ, traitData[c("SpecName", "Climbing", "Acaulescence", "Errect")], by = "SpecName", all.x = TRUE)
+occ_trait <- merge(occ, traitData[c("SpecName", "Climbing", "Acaulescent", "Erect")], by = "SpecName", all.x = TRUE)
 
-# Only include species with are mono-morphic (i.e., unambiguously )
-occ_trait_subset <- subset(occ_trait, !(Climbing > 1 | Acaulescence > 1 | Errect > 1))
+# Only include species with are mono-morphic (i.e., unambiguously a specific growth form )
+occ_trait_subset <- subset(occ_trait, !(Climbing > 1 | Acaulescent > 1 | Erect > 1))
 
-# Some minor changes to original geom_scatterpie_legend function so labels and size of pies can be more easily modified
+# Some minor changes to original geom_scatterpie_legend function (original source code from ggtree) so labels and size of pies can be more easily modified
 geom_scatterpie_legend2 <- function (radius, x, y, n = 5, labeller) {
-  #radius = rnorm(n = 10, 1,1)
-  #n = 4; round_digit = 0
   if (length(radius) > n) {
     radius <- unique(sapply(seq(min(radius), max(radius),
                                 length.out = n), round))
@@ -91,18 +116,22 @@ geom_scatterpie_legend2 <- function (radius, x, y, n = 5, labeller) {
                  data = dd, hjust = "left", inherit.aes = FALSE))
 }
 
-# Calculate mean proportion of each growth form, here, we can simply
+# Calculate mean proportion of each growth form in each TDWG unit
 tdwg_growthform <- ddply(.data = occ_trait_subset, .variable = .(Area_code_L3),
                          .fun = summarise,
                          Climber = mean(Climbing, na.rm = TRUE),
-                         Acaulescent = mean(Acaulescence, na.rm = TRUE),
-                         Erect = mean(Errect, na.rm = TRUE),
+                         Acaulescent = mean(Acaulescent, na.rm = TRUE),
+                         Erect = mean(Erect, na.rm = TRUE),
                          Nsp = length(unique(SpecName)) )
+
+# Merge growth form proportion with botanical country polygons
 tdwg_growthform2 <- merge(x = tdwg_growthform, y = shape@data, all.x = TRUE,
                           by.x = "Area_code_L3",
                           by.y = "LEVEL3_COD")
+
+
+# Plot map
 tdwg_growthform2$radius <- log10(tdwg_growthform2$Nsp) * 2.5 # plotting parameter
-sum(tdwg_growthform2$Nsp == 0)
 traitCols <- c("navyblue",wes_palette("Zissou1", n = 5)[c(5,3)])
 growthform_plot <- ggplot() +
   # Plot base world map polygons (Antarctica excluded for clarity)
@@ -110,7 +139,8 @@ growthform_plot <- ggplot() +
                data = subset(shape_gg, !LEVEL3_COD == "ANT"), fill = "grey40") +
   geom_scatterpie(aes(y = centroid_lat, x= centroid_long, group = Area_code_L3, r = radius),
                   data = tdwg_growthform2,
-                  cols = c("Climber","Acaulescent","Erect"), colour = NA, alpha = 0.9) +
+                  cols = c("Climber","Acaulescent","Erect"),
+                  colour = NA, alpha = 0.9) +
   coord_equal() +
   scale_fill_manual(name = "Growth Form", values = traitCols) +
   theme(legend.position = "bottom",
@@ -122,39 +152,45 @@ growthform_plot_wleg <- growthform_plot + geom_scatterpie_legend2(radius = tdwg_
 
 ggsave(growthform_plot_wleg, filename = file.path(fig.dir, "growthform_piechart.pdf"), width = 9, height = 4.8)
 
-## VIGNETTE 2: MAPPING GROWTH FORM ONTO PHYLOGENY ========
-
+########################################################################
+## FIGURE 3b from Kissling et al.: MAPPING GROWTH FORM ONTO PHYLOGENY
 # Convert trait values into binary values for plotting
 rownames(traitDataSubset) <- traitDataSubset$SpecName
 traitDataSubset_PA <- as.data.frame(ifelse( is.na(traitDataSubset), NA,  ifelse(traitDataSubset >= 1, 1, NA )))
 traitDataSubset_PA[,1:3] <- traitDataSubset[,1:3] # restore the taxonomic classifications
 
-# Plot circular phylogeny with subfamilies highlighted
-cladeCol <- c(wes_palette("IsleofDogs2", 5, type = "discrete"), "grey20")
-barsize = 2; ofs = 20
-
-traitListToPlot <- c("Acaulescence", "Climbing", "Errect")
+traitListToPlot <- c("Acaulescent", "Climbing", "Erect")
 for(i in 1:length(traitListToPlot)){
   traitDataSubset_PA[traitListToPlot[i]] <- factor(ifelse(is.na(traitDataSubset_PA[traitListToPlot[i]]), NA, i))
 }
+
+
+# Plot phylogeny with growth forms highlighted
+cladeCol <- c(wes_palette("IsleofDogs2", 5, type = "discrete"), "grey20")
 traitListCols <- c("navyblue",wes_palette("Zissou1", n = 5)[c(5,3)])
-#c(wes_palette("Cavalcanti1", 3, type = "discrete"))
-
-phyloCladePlot <- ggtree(palmPhyloSubset, layout = "circular", size = 0.2) +
-  geom_cladelabel(node = 3025, barsize = barsize, color = cladeCol[c(1,6)], label = "Arecoideae", hjust = 1, offset = ofs, offset.text = 1.2) + #"Arecoideae"
-  geom_cladelabel(node = 4380, barsize = barsize, color = cladeCol[c(2,6)], label = "Ceroxyloideae", hjust = 1, offset = ofs, offset.text = 0.8) +#"Ceroxyloideae"
-  geom_cladelabel(node = 4425, barsize = barsize, color = cladeCol[c(3,6)], label = "Calamoideae", hjust = 0, offset = ofs, offset.text = 1.2) +#"Calamoideae"
-  geom_cladelabel(node = 2531, barsize = barsize, color = cladeCol[c(4,6)], label = "Coryphoideae", hjust = 1, offset = ofs, offset.text = 1.2) + #"Coryphoideae"
-  geom_cladelabel(node = 1, barsize = barsize, extend = 0.5, color = cladeCol[c(5,6)], label = "Nypoideae", hjust = 0.5, offset = ofs, offset.text = 3) #+ #"Nypoideae"
-
-traitCoveragePlot <- gheatmap(phyloCladePlot, traitDataSubset_PA[traitListToPlot], colnames = FALSE, width = 0.15) +
+phyloCladePlot <- ggtree(palmPhyloSubset, layout = "circular", size = 0.2)
+traitCoveragePlot <- gheatmap(phyloCladePlot, traitDataSubset_PA[traitListToPlot], colnames = FALSE, width = 0.3, color = "transparent") +
   scale_fill_manual(values = traitListCols,
                     breaks = c("1", "2", "3"),
-                    labels = c("Acaulescent", "Climber","Erect"))
+                    labels = c("Acaulescent", "Climbing", "Erect"),
+                    expand = c(0,0)) + 
+  theme(legend.title = element_blank())
 ggsave(plot = traitCoveragePlot, file.path(fig.dir, "phyloTrait.pdf"), height = 10, width = 10)
 # ignore error message, it is due to our code coercing the plotting of different variables in different colours as opposed to a plotting of factor levels across variables
 
-## VIGNETTE 3: Perform a principal component analysis
+# Alternative phylogeny plot using tip labels
+# traitDataSubset$GrowthForm <- NA
+# traitDataSubset$GrowthForm[traitDataSubset$Acaulescent == 1] <- 1
+# traitDataSubset$GrowthForm[traitDataSubset$Climbing == 1] <- 2
+# traitDataSubset$GrowthForm[traitDataSubset$Erect == 1] <- 3
+# test <- phyloCladePlot %<+% traitDataSubset +
+#   geom_tippoint(aes(colour = factor(GrowthForm))) +
+#   scale_colour_manual(values = traitListCols)
+# ggsave("~/Desktop/asdq.pdf", test)
+
+########################################################################
+## FIGURE 3c from Kissling et al.: Perform a principal component analysis to explore information of
+## continuous traits in the context of growth forms
 # Standardize variables
 traitData$logBladeLength <- log(traitData$Max_Blade_Length_m)
 traitData$logFruitLength <- log(traitData$AverageFruitLength_cm)
@@ -179,9 +215,9 @@ traitPcaAxes$label <- rownames(traitPcaAxes)
 # Group points by life form
 traitPcaCoordRes$LifeForm <- NA
 traitPcaCoordRes$LifeForm[traitPcaCoordRes$Climbing == 1] <- "Climbing"
-traitPcaCoordRes$LifeForm[traitPcaCoordRes$Acaulescence == 1] <- "Acaulescent"
-traitPcaCoordRes$LifeForm[traitPcaCoordRes$Errect == 1] <- "Erect"
-traitPcaCoordRes$LifeForm[rowSums(traitPcaCoordRes[c("Climbing", "Acaulescence","Errect")]) > 1] <- NA
+traitPcaCoordRes$LifeForm[traitPcaCoordRes$Acaulescent == 1] <- "Acaulescent"
+traitPcaCoordRes$LifeForm[traitPcaCoordRes$Erect == 1] <- "Erect"
+traitPcaCoordRes$LifeForm[rowSums(traitPcaCoordRes[c("Climbing", "Acaulescent","Erect")]) > 1] <- NA
 
 growthformPCA <- ggplot(data = subset(traitPcaCoordRes, !is.na(LifeForm))) + 
   geom_point(shape = 21, alpha = 0.7,aes(y = PC1, x = PC2, color = LifeForm), size = 2) +
@@ -194,3 +230,19 @@ growthformPCA <- ggplot(data = subset(traitPcaCoordRes, !is.na(LifeForm))) +
 
 
 ggsave(growthformPCA, filename = file.path(fig.dir, "growthformPCA.pdf"), height= 5, width = 6)
+
+########################################################################
+# Combining and annotating sub-figures into a single panelled figure
+growthform_leg <- get_legend(growthform_plot_wleg + theme(legend.justification="center"))
+fig_panel <- plot_grid(growthform_plot_wleg + theme(legend.position = "none"),
+                       plot_grid(traitCoveragePlot + theme(legend.position = "none"),
+                                 growthformPCA + theme(legend.position = "none"),
+                                 labels= c("b", "c"),
+                    nrow =1, rel_widths = c(0.5, 0.5)),
+          nrow= 2, labels = "a", 
+          rel_heights = c(1, 1.5))
+
+# Add legend
+fig_panel_wleg <- plot_grid(fig_panel, growthform_leg, nrow = 2, rel_heights = c(0.95, 0.05))
+ggsave(fig_panel_wleg, filename = file.path(fig.dir, "fig3_combined.pdf"), width = 10, height = 10)
+
