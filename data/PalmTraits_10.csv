@@ -1,22 +1,22 @@
-SpecName,accGenus,accSpecies,PalmTribe,PalmSubfamily,Climbing,Acaulescence,Errect,UnderstoreyCanopy,StemSolitary,MaxStemHeight_m,MaxStemDia_cm,StemArmed,LeavesArmed,MaxLeafNumber,Max_Blade_Length_m,Max_Rachis_Length_m,Max_Petiole_length_m,AverageFruitLength_cm,MinFruitLength_cm,MaxFruitLength_cm,AverageFruitWidth_cm,MinFruitWidth_cm,MaxFruitWidth_cm,FruitSizeBinary,FruitShape,FruitColor,FruitTexture,FruitColorChange,FruitNotes,Extra reference / note
+SpecName,accGenus,accSpecies,PalmTribe,PalmSubfamily,Climbing,Acaulescent,Erect,UnderstoreyCanopy,StemSolitary,MaxStemHeight_m,MaxStemDia_cm,StemArmed,LeavesArmed,MaxLeafNumber,Max_Blade_Length_m,Max_Rachis_Length_m,Max_Petiole_length_m,AverageFruitLength_cm,MinFruitLength_cm,MaxFruitLength_cm,AverageFruitWidth_cm,MinFruitWidth_cm,MaxFruitWidth_cm,FruitSizeBinary,FruitShape,FruitColor,FruitTexture,FruitColorChange,FruitNotes,Extra reference / note
 Acanthophoenix crinita,Acanthophoenix,crinita,Areceae,Arecoideae,0,0,1,canopy,1,10,20,1,1,15,2.3,,,0.65,0.6,0.7,0.5,,,small,,black,,,,
 Acanthophoenix rousselii,Acanthophoenix,rousselii,Areceae,Arecoideae,0,0,1,canopy,1,25,30,1,1,,3,,,2,,,0.8,,,small,ovoid,black,,,,
 Acanthophoenix rubra,Acanthophoenix,rubra,Areceae,Arecoideae,0,0,1,canopy,1,15,18,1,1,20,3.1,3,,1,,,0.7,,,small,ovoid,black,,,,
 Acoelorrhaphe wrightii,Acoelorrhaphe,wrightii,Trachycarpeae,Coryphoideae,0,0,1,canopy,0,9.1,15,0,1,25,1.3,0.7,0.65,0.7,,,0.7,0.5,0.9,small,ovoid,"orange- brown, becomming black",,1,,
 Acrocomia aculeata,Acrocomia,aculeata,Cocoseae,Arecoideae,0,0,1,canopy,1,12,50,1,1,30,3.5,2.5,,4.25,3.5,5,4.6,3.8,5.4,large,ovoid,yellowish green,smooth,,Fruit: epicarp brittle and easily cracking at maturity,
 Acrocomia crispa,Acrocomia,crispa,Cocoseae,Arecoideae,0,0,1,canopy,1,18,35,1,1,15,3,,0.65,2.5,,,1.8,,,small,globose,yellow to orange,,,,
-Acrocomia emensis,Acrocomia,emensis,Cocoseae,Arecoideae,0,1,0,understorey,1,0,,1,1,,,,,2.00,,,2.00,,,small,,,,,,Kew herbaria
+Acrocomia emensis,Acrocomia,emensis,Cocoseae,Arecoideae,0,1,0,understorey,1,0,,1,1,,,,,2,,,2,,,small,,,,,,Kew herbaria
 Acrocomia glaucescens,Acrocomia,glaucescens,Cocoseae,Arecoideae,0,0,1,,1,,,1,1,,,,,,,,,,,,,,,,,
 Acrocomia hassleri,Acrocomia,hassleri,Cocoseae,Arecoideae,0,1,0,understorey,1,0,,1,1,6,0.9,0.54,0.51,2.25,1.5,3,2.25,1.5,3,small,,brown,minutely bristly,,,Field Guide to the Palms of the Americas
-Acrocomia intumescens,Acrocomia,intumescens,Cocoseae,Arecoideae,0,0,1,,1,,,1,1,,,,,4.60,3.80,5.40,4.60,3.80,5.40,large,,,,,,Vianet al. 217
+Acrocomia intumescens,Acrocomia,intumescens,Cocoseae,Arecoideae,0,0,1,,1,,,1,1,,,,,4.6,3.8,5.4,4.6,3.8,5.4,large,,,,,,Vianet al. 217
 Acrocomia media,Acrocomia,media,Cocoseae,Arecoideae,0,0,1,canopy,1,15,30,1,1,,,,,,,,,,,,ovoid,,,,,
-Acrocomia totai,Acrocomia,totai,Cocoseae,Arecoideae,0,0,1,,1,,,1,1,,,,,3.00,2.50,3.50,3.00,2.50,3.50,small,,,,,,Vianet al. 217
+Acrocomia totai,Acrocomia,totai,Cocoseae,Arecoideae,0,0,1,,1,,,1,1,,,,,3,2.5,3.5,3,2.5,3.5,small,,,,,,Vianet al. 217
 Actinokentia divaricata,Actinokentia,divaricata,Areceae,Arecoideae,0,0,1,canopy,1,9,9,0,0,7,2.35,2.1,1.3,2.6,1.8,3.4,1.1,0.8,1.4,small,globose,purplish,,,,Kew herbaria
-Actinokentia huerlimannii,Actinokentia,huerlimannii,Areceae,Arecoideae,0,0,1,canopy,1,9,36,0,0,10,1.2,,0.22,3,,,1.30,,,small,globose,,,,,Moore 197
+Actinokentia huerlimannii,Actinokentia,huerlimannii,Areceae,Arecoideae,0,0,1,canopy,1,9,36,0,0,10,1.2,,0.22,3,,,1.3,,,small,globose,,,,,Moore 197
 Actinorhytis calapparia,Actinorhytis,calapparia,Areceae,Arecoideae,0,0,1,canopy,1,40,30,0,0,13,4.76,4.3,0.51,10,,,5.5,5,6,large,ovoid,reddish,,,,
-Adonidia maturbongsii,Adonidia,maturbongsii,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.3,,,1.00,,,small,,,,,,Kew herbaria
+Adonidia maturbongsii,Adonidia,maturbongsii,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.3,,,1,,,small,,,,,,Kew herbaria
 Adonidia merrillii,Adonidia,merrillii,Areceae,Arecoideae,0,0,1,canopy,1,7,30,0,0,17,2.2,2,0.22,2.5,,,1.3,,,small,elongate,red,,,,
-Aiphanes acanthophylla,Aiphanes,acanthophylla,Cocoseae,Arecoideae,0,0,1,,,,,,1,,,,,1.4,,,1.40,,,small,,bright red,,,,Kew herbaria
+Aiphanes acanthophylla,Aiphanes,acanthophylla,Cocoseae,Arecoideae,0,0,1,,,,,,1,,,,,1.4,,,1.4,,,small,,bright red,,,,Kew herbaria
 Aiphanes acaulis,Aiphanes,acaulis,Cocoseae,Arecoideae,0,1,0,understorey,1,0,,0,1,10,1.83,1.33,0.33,1,,,1,,,small,,from purple to vine red,,,,
 Aiphanes bicornis,Aiphanes,bicornis,Cocoseae,Arecoideae,0,0,1,understorey,1,0.5,2.5,1,1,13,0.54,0.54,,0.6,,,0.8,,,small,ovoid,red-orange,,,,
 Aiphanes buenaventurae,Aiphanes,buenaventurae,Cocoseae,Arecoideae,0,0,1,,,,,,1,,,,,,,,,,,,,,,,,
@@ -39,7 +39,7 @@ Aiphanes multiplex,Aiphanes,multiplex,Cocoseae,Arecoideae,0,0,1,,,,,,1,,,,,1.6,,
 Aiphanes parvifolia,Aiphanes,parvifolia,Cocoseae,Arecoideae,0,0,1,understorey,1,2,3,0,1,10,0.95,0.7,0.28,0.85,0.7,1,,,,small,,orange to red,,,,
 Aiphanes pilaris,Aiphanes,pilaris,Cocoseae,Arecoideae,0,0,1,canopy,1,7,15,1,1,10,,,,4.7,,,4.7,,,large,ovoid,brown,corky at maturity,,,
 Aiphanes simplex,Aiphanes,simplex,Cocoseae,Arecoideae,0,0,1,understorey,0,4,2,1,1,9,0.96,0.7,0.29,0.9,,,0.9,0.8,1,small,ovoid,red,,,,
-Aiphanes spicata,Aiphanes,spicata,Cocoseae,Arecoideae,0,1,0,understorey,1,0.3,2,0,1,12,1.05,0.8,0.25,1,,,0.90,,,small,,,,,,Palmworld
+Aiphanes spicata,Aiphanes,spicata,Cocoseae,Arecoideae,0,1,0,understorey,1,0.3,2,0,1,12,1.05,0.8,0.25,1,,,0.9,,,small,,,,,,Palmworld
 Aiphanes stergiosii,Aiphanes,stergiosii,Cocoseae,Arecoideae,0,0,1,,,,,1,1,,,,,,,,,,,,ovoid,red-orange,,,,Jstor Global Plants
 Aiphanes tricuspidata,Aiphanes,tricuspidata,Cocoseae,Arecoideae,0,0,1,understorey,1,4.5,6,1,1,10,1.38,1.2,0.2,0.75,,,0.75,0.6,1,small,,reddish-brown; speckled brown and red,,,,
 Aiphanes ulei,Aiphanes,ulei,Cocoseae,Arecoideae,0,0,1,canopy,1,6,5,1,1,15,2.5,1.8,0.75,0.7,,,0.7,,1,small,,red,,,,
@@ -51,7 +51,7 @@ Allagoptera campestris,Allagoptera,campestris,Cocoseae,Arecoideae,0,1,0,understo
 Allagoptera caudescens,Allagoptera,caudescens,Cocoseae,Arecoideae,0,0,1,canopy,1,8,25,0,0,16,4,,0.61,4.25,4,4.5,3.25,3,3.5,large,ovoid,greenish brown,,,,
 Allagoptera leucocalyx,Allagoptera,leucocalyx,Cocoseae,Arecoideae,0,1,0,understorey,1,2,,0,0,30,2,1.3,0.75,2.65,2.3,3,1.75,1.5,2,small,ovoid,yellowish green,densely covered with brown hairs; loose cottony hairs,,,
 Ammandra decasperma,Ammandra,decasperma,Phytelepheae,Ceroxyloideae,0,1,0,understorey,1,1.5,15,0,0,10,4.5,4,3.25,10,,,10,8,12,large,globose,dark brown,,,,
-Aphandra natalia,Aphandra,natalia,Phytelepheae,Ceroxyloideae,0,0,1,canopy,1,11,30,0,0,36,6,5.4,1.6,4.75,,3.2,3.20,,,large,rounded,brown,with prominent warty projections,,,Kew herbaria
+Aphandra natalia,Aphandra,natalia,Phytelepheae,Ceroxyloideae,0,0,1,canopy,1,11,30,0,0,36,6,5.4,1.6,4.75,,3.2,3.2,,,large,rounded,brown,with prominent warty projections,,,Kew herbaria
 Archontophoenix alexandrae,Archontophoenix,alexandrae,Areceae,Arecoideae,0,0,1,canopy,1,30,30,0,0,12,4.5,4,0.55,1.1,0.8,1.4,0.85,0.6,1.1,small,ovoid,bright red,"smooth, waxy and glossy",,,
 Archontophoenix cunninghamiana,Archontophoenix,cunninghamiana,Areceae,Arecoideae,0,0,1,canopy,1,30,30,0,0,12,4.5,4,0.55,1.25,1,1.5,1.1,,1.5,small,ovoid,bright red,waxy,,,
 Archontophoenix maxima,Archontophoenix,maxima,Areceae,Arecoideae,0,0,1,canopy,1,22,30,0,0,11,5,3.4,1.7,1.25,1.1,1.4,0.9,0.7,1.1,small,globose,red,"smooth, waxy and glossy",,,
@@ -62,7 +62,7 @@ Areca abdulrahmanii,Areca,abdulrahmanii,Areceae,Arecoideae,0,1,0,understorey,1,2
 Areca ahmadii,Areca,ahmadii,Areceae,Arecoideae,0,1,0,understorey,1,0.08,2.5,0,0,,1,0.58,0.47,4.3,,,2,,,large,globose,black ,,,,Kew herbaria
 Areca andersonii,Areca,andersonii,Areceae,Arecoideae,0,1,0,understorey,1,2.5,1.3,0,0,,0.8,0.8,,2.1,,,0.7,,,small,ovoid,deep green,,,,Kew herbaria
 Areca arundinacea,Areca,arundinacea,Areceae,Arecoideae,0,1,0,understorey,0,2.5,0.8,0,0,8,0.5,,,1.9,,,1.1,,,small,elongate,bright red,,,,Kew herbaria
-Areca bakeri,Areca,bakeri,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,6.26,6,6.5,1.40,1.3,1.45,large,,young fruit dark green,,,,"Kew herbaria, Heatubun 211"
+Areca bakeri,Areca,bakeri,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,6.26,6,6.5,1.4,1.3,1.45,large,,young fruit dark green,,,,"Kew herbaria, Heatubun 211"
 Areca brachypoda,Areca,brachypoda,Areceae,Arecoideae,0,1,0,understorey,1,0.06,0.3,0,0,,1.15,,0.45,2.2,,,0.5,,,small,globose,,,,,
 Areca caliso,Areca,caliso,Areceae,Arecoideae,0,0,1,canopy,1,6,12,0,0,6,2.15,,,3,,,1.6,,,small,globose,Bright orange,,,,Palmpedia
 Areca camarinensis,Areca,camarinensis,Areceae,Arecoideae,0,0,1,understorey,1,3,9,0,0,,1.5,,,5,3.5,5.5,1.7,1.5,2.5,large,globose,green to orange to red,,,,Kew herbaria
@@ -110,7 +110,7 @@ Arenga distincta,Arenga,distincta,Caryoteae,Coryphoideae,0,0,1,understorey,0,5,1
 Arenga engleri,Arenga,engleri,Caryoteae,Coryphoideae,0,0,1,understorey,0,4,15,0,0,8,4.5,3,1.55,1.5,,,1.5,,,small,,orange to reddish,,,,
 Arenga hastata,Arenga,hastata,Caryoteae,Coryphoideae,0,0,1,understorey,0,2,1.2,0,0,6,1,,,0.7,,,0.7,,,small,globose,purple-brown,,,,
 Arenga hookeriana,Arenga,hookeriana,Caryoteae,Coryphoideae,0,0,1,understorey,0,0.5,2,0,0,10,1.3,0.8,0.55,1.2,,,1.2,,,small,globose,orange-red,,,,
-Arenga listeri,Arenga,listeri,Caryoteae,Coryphoideae,0,0,1,canopy,1,20,30,0,0,14,7,5.5,1.55,1.5,1.3,1.7,1.00,,,small,globose,ripening white to pink to red,smooth,1,,Kew herbaria
+Arenga listeri,Arenga,listeri,Caryoteae,Coryphoideae,0,0,1,canopy,1,20,30,0,0,14,7,5.5,1.55,1.5,1.3,1.7,1,,,small,globose,ripening white to pink to red,smooth,1,,Kew herbaria
 Arenga longicarpa,Arenga,longicarpa,Caryoteae,Coryphoideae,0,0,1,understorey,0,3,7,0,0,,2.5,,,1.8,,,1,,,small,globose,purple,,,,
 Arenga longipes,Arenga,longipes,Caryoteae,Coryphoideae,0,1,0,understorey,0,0.25,5,0,0,5,,,,,,,,,,,elongate,,,,,
 Arenga micrantha,Arenga,micrantha,Caryoteae,Coryphoideae,0,0,1,understorey,1,2,15,0,0,,3,2,,,,,,,,,,,,,,
@@ -124,7 +124,7 @@ Arenga retroflorescens,Arenga,retroflorescens,Caryoteae,Coryphoideae,0,1,0,under
 Arenga ryukyuensis,Arenga,ryukyuensis,Caryoteae,Coryphoideae,0,0,1,understorey,0,2,20,0,0,,3,2,,1.8,,,1.8,,,small,,orange to reddish,,,,
 Arenga talamauensis,Arenga,talamauensis,Caryoteae,Coryphoideae,0,0,1,understorey,0,2,,0,0,,12,,,,,,,,,,ovoid,,,,,
 Arenga tremula,Arenga,tremula,Caryoteae,Coryphoideae,0,0,1,understorey,0,4,12,0,0,6,10,8,2.1,1.3,,,1.1,,,small,globose,deep red,,,,Kew herbaria
-Arenga undulatifolia,Arenga,undulatifolia,Caryoteae,Coryphoideae,0,0,1,canopy,0,10,30,0,0,10,7,5,2.1,5,,,4.50,,,large,,ovoid grayish green color; young fruits green suffused with magenta; dark green,,,,Kew herbaria
+Arenga undulatifolia,Arenga,undulatifolia,Caryoteae,Coryphoideae,0,0,1,canopy,0,10,30,0,0,10,7,5,2.1,5,,,4.5,,,large,,ovoid grayish green color; young fruits green suffused with magenta; dark green,,,,Kew herbaria
 Arenga westerhoutii,Arenga,westerhoutii,Caryoteae,Coryphoideae,0,0,1,canopy,1,20,60,0,0,15,8,7,,7,,,6,5,7,large,ovoid,greenish black; blackish,,,,
 Arenga wightii,Arenga,wightii,Caryoteae,Coryphoideae,0,0,1,canopy,0,7,30,0,0,6,10,,,2.5,,,3,,,small,,greenish black,,,,
 Asterogyne guianensis,Asterogyne,guianensis,Geonomateae,Arecoideae,0,0,1,understorey,1,3,5,0,0,18,1.2,0.9,0.65,2.5,,,1.5,,,small,globose,red,,,,Kew herbaria
@@ -317,25 +317,25 @@ Bactris tomentosa,Bactris,tomentosa,Cocoseae,Arecoideae,0,0,1,understorey,0,3,1.
 Bactris turbinocarpa,Bactris,turbinocarpa,Cocoseae,Arecoideae,0,0,1,understorey,0,1.7,2.5,1,1,13,1.61,1.04,0.62,3,2.5,3.5,1.75,1.5,2,small,ovoid,brownish tomentose,covered with short stiff bristles,,,
 Bactris vulgaris,Bactris,vulgaris,Cocoseae,Arecoideae,0,0,1,understorey,0,3,3.5,1,1,9,1.8,,,1.7,,,1.7,1,2.4,small,globose,purplish,,1,,
 Balaka diffusa,Balaka,diffusa,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,4.1,4,4.2,1.65,1.6,1.7,large,,orange-red,,,,Hodel 21
-Balaka longirostris,Balaka,longirostris,Areceae,Arecoideae,0,0,1,canopy,1,7,5,0,0,,1.5,,,3.50,2.5,4,1.2,1.1,1.3,small,,bright red,,,,Hodel 21
+Balaka longirostris,Balaka,longirostris,Areceae,Arecoideae,0,0,1,canopy,1,7,5,0,0,,1.5,,,3.5,2.5,4,1.2,1.1,1.3,small,,bright red,,,,Hodel 21
 Balaka macrocarpa,Balaka,macrocarpa,Areceae,Arecoideae,0,0,1,understorey,1,4,,0,0,,,,0.97,4,,,1.5,,,large,ovoid,orange-red,,,,palmpedia
 Balaka microcarpa,Balaka,microcarpa,Areceae,Arecoideae,0,0,1,canopy,1,10,,0,0,5,,,,1.7,1.4,2,0.8,0.7,1,small,globose,bright red,,,,Hodel 21
-Balaka pauciflora,Balaka,pauciflora,Areceae,Arecoideae,0,0,1,understorey,1,1,0.7,0,0,9,,,,1.5,,,0.90,,,small,globose,,,,,Hodel 21
-Balaka samoensis,Balaka,samoensis,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,3.5,2.5,4.5,0.80,1.1,1.3,small,globose,bright orange-red,,,,"Kew herbaria, Hodel 21"
+Balaka pauciflora,Balaka,pauciflora,Areceae,Arecoideae,0,0,1,understorey,1,1,0.7,0,0,9,,,,1.5,,,0.9,,,small,globose,,,,,Hodel 21
+Balaka samoensis,Balaka,samoensis,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,3.5,2.5,4.5,0.8,1.1,1.3,small,globose,bright orange-red,,,,"Kew herbaria, Hodel 21"
 Balaka seemannii,Balaka,seemannii,Areceae,Arecoideae,0,0,1,canopy,1,7,4,0,0,7,1.5,1,0.55,1.95,1.4,2.5,0.9,0.5,1.3,small,elongate,bright red,,,,Kew herbaria
 Balaka streptostachys,Balaka,streptostachys,Areceae,Arecoideae,0,0,1,canopy,1,7,10,0,0,10,3,2.55,0.5,2.15,1.8,2.5,1.1,0.8,1.4,small,ovoid,orange-red,,,,Hodel 21
 Balaka tahitensis,Balaka,tahitensis,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.05,1.5,2.5,0.65,1,1.2,small,ovoid,orange-red,,,,"Kew herbaria, Hodel 21"
 Barcella odora,Barcella,odora,Cocoseae,Arecoideae,0,1,0,understorey,1,0,,0,0,7,2,2,,3.5,,,2.5,,,small,,orange,,,,
 Basselinia deplanchei,Basselinia,deplanchei,Areceae,Arecoideae,0,0,1,canopy,2,8,2.5,0,0,10,4,,,0.6,,,0.5,,,small,ovoid,yellow to black,,,,Kew herbaria
-Basselinia eriostachys,Basselinia,eriostachys,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,0.63,,,0.60,,,small,,"bright yellow, red",,,,Kew herbaria
+Basselinia eriostachys,Basselinia,eriostachys,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,0.63,,,0.6,,,small,,"bright yellow, red",,,,Kew herbaria
 Basselinia favieri,Basselinia,favieri,Areceae,Arecoideae,0,0,1,canopy,1,15,18,0,0,10,3.95,3.5,0.5,0.8,,,0.8,,,small,globose,reddish-brown to black,,,,Kew herbaria
 Basselinia glabrata,Basselinia,glabrata,Areceae,Arecoideae,0,0,1,canopy,1,15,15,0,0,10,2.15,2,0.17,1.2,,,0.6,0.4,0.5,small,ovoid,green to black,,,,Kew herbaria
 Basselinia gracilis,Basselinia,gracilis,Areceae,Arecoideae,0,0,1,canopy,0,8,10,0,0,11,1.23,1,0.25,0.4,,,0.4,,,small,ovoid,bright black,,,,Kew herbaria
 Basselinia humboldtiana,Basselinia,humboldtiana,Areceae,Arecoideae,0,0,1,canopy,1,15,10,0,0,8,1.6,,0.08,1,,,0.8,,,small,ovoid,dark brown,,,,palmpedia
 Basselinia iterata,Basselinia,iterata,Areceae,Arecoideae,0,0,1,canopy,1,10,9,0,0,6,1.95,1.5,0.5,0.9,,,0.8,,,small,elongate,black?,,,,Kew herbaria
-Basselinia moorei,Basselinia,moorei,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.3,,,1.30,,,small,,bright red,,,,palmpedia
-Basselinia pancheri,Basselinia,pancheri,Areceae,Arecoideae,0,0,1,canopy,1,15,10,0,0,9,1.55,1.3,0.28,0.70,0.6,0.8,0.75,0.6,0.9,small,ovoid,shiny black,,,,palmpedia
-Basselinia porphyrea,Basselinia,porphyrea,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1,,,1.00,,,small,,"brown, black",,,,endemia.nc
+Basselinia moorei,Basselinia,moorei,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.3,,,1.3,,,small,,bright red,,,,palmpedia
+Basselinia pancheri,Basselinia,pancheri,Areceae,Arecoideae,0,0,1,canopy,1,15,10,0,0,9,1.55,1.3,0.28,0.7,0.6,0.8,0.75,0.6,0.9,small,ovoid,shiny black,,,,palmpedia
+Basselinia porphyrea,Basselinia,porphyrea,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1,,,1,,,small,,"brown, black",,,,endemia.nc
 Basselinia sordida,Basselinia,sordida,Areceae,Arecoideae,0,0,1,canopy,1,12,15,0,0,10,2.18,2,0.2,0.7,,,0.95,0.9,1,small,,green,,,,Kew herbaria
 Basselinia tomentosa,Basselinia,tomentosa,Areceae,Arecoideae,0,0,1,canopy,1,20,25,0,0,10,1,0.7,0.33,0.75,0.7,0.8,0.55,0.5,0.6,small,globose,black,,,,Kew herbaria
 Basselinia velutina,Basselinia,velutina,Areceae,Arecoideae,0,0,1,canopy,1,15,22,0,0,12,3.35,3,0.4,1.1,,,0.9,,,small,,"blackish, black",,,,Kew herbaria
@@ -373,7 +373,7 @@ Burretiokentia vieillardii,Burretiokentia,vieillardii,Areceae,Arecoideae,0,0,1,c
 Butia archeri,Butia,archeri,Cocoseae,Arecoideae,0,1,0,understorey,1,1,20,0,0,12,1,0.8,0.22,1.9,1.8,2,1.4,1.5,1.6,small,,brown; yellowish,,,,
 Butia campicola,Butia,campicola,Cocoseae,Arecoideae,0,1,0,understorey,2,0,,0,0,9,0.77,0.77,,1.75,1.5,2,1,1.1,1.7,small,globose,brown,,,,
 Butia capitata,Butia,capitata,Cocoseae,Arecoideae,0,0,1,canopy,1,6,50,0,1,32,2.58,1.71,0.99,2.65,1.8,3.5,1.7,1.2,2.2,small,,"yellowish or orange-brown; yellow or reddish, bright yellow, dehiscent?",,,,Kew herbaria
-Butia catarinensis,Butia,catarinensis,Cocoseae,Arecoideae,0,0,1,,,,,0,,,,,,2.5,,,1.20,,,small,,yellow,,,,"Kumagai et al. 213, palmpedia"
+Butia catarinensis,Butia,catarinensis,Cocoseae,Arecoideae,0,0,1,,,,,0,,,,,,2.5,,,1.2,,,small,,yellow,,,,"Kumagai et al. 213, palmpedia"
 Butia eriospatha,Butia,eriospatha,Cocoseae,Arecoideae,0,0,1,canopy,1,6,50,0,1,30,3.5,2.5,,1.9,1.8,2,1.75,1.4,2.2,small,,yellowish,,,,
 Butia exilata,Butia,exilata,Cocoseae,Arecoideae,0,0,1,,,,,0,,,,,,,,,,,,,,,,,,
 Butia exospadix,Butia,exospadix,Cocoseae,Arecoideae,0,1,0,understorey,1,0,20,0,0,7,,,,1.6,1.2,2,,,,small,ovoid,purple,,,,
@@ -400,7 +400,7 @@ Calamus acaulis,Calamus,acaulis,Calameae,Calamoideae,0,1,0,understorey,1,0,3.5,0
 Calamus acidus,Calamus,acidus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,,,overlapping scales,,,
 Calamus acuminatus,Calamus,acuminatus,Calameae,Calamoideae,1,0,0,canopy,0,40,2,0,1,24,0.5,0.5,,0.7,,,0.6,,,small,ovoid,"pale straw-coloured, reddish chocolate",overlapping scales,,,Kew herbaria
 Calamus adspersus,Calamus,adspersus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,,,overlapping scales,,,
-Calamus aidae,Calamus,aidae,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.3,,,0.50,,,small,globose,,overlapping scales,,,kew herbaria
+Calamus aidae,Calamus,aidae,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.3,,,0.5,,,small,globose,,overlapping scales,,,kew herbaria
 Calamus albidus,Calamus,albidus,Calameae,Calamoideae,1,0,0,canopy,0,6,4,0,1,,0.5,0.5,,2.5,,,1.5,,,small,globose,brownish,"overlapping scales fringed with dense, brown hairs",,,
 Calamus albus,Calamus,albus,Calameae,Calamoideae,1,0,0,canopy,,,3.6,0,1,,,,,,,,,,,,elongate,,overlapping scales,,,
 Calamus altiscandens,Calamus,altiscandens,Calameae,Calamoideae,1,0,0,canopy,,,0.35,0,1,,1.6,1.6,,0.5,,,0.4,,,small,globose,,overlapping scales,,,
@@ -424,10 +424,10 @@ Calamus bankae,Calamus,bankae,Calameae,Calamoideae,1,0,0,canopy,,,11,0,1,,0.74,0
 Calamus baratangensis,Calamus,baratangensis,Calameae,Calamoideae,1,0,0,canopy,0,25,2,0,1,,1,1,,1.25,,,0.9,,,small,globose,,overlapping scales,,,
 Calamus barbatus,Calamus,barbatus,Calameae,Calamoideae,1,0,0,canopy,0,15,2,0,1,,1.1,1.1,,,,,,,,,globose,,overlapping scales,,,
 Calamus basui,Calamus,basui,Calameae,Calamoideae,1,0,0,canopy,0,20,3,0,1,,1,1,,1.5,,,1,,,small,ovoid,,overlapping scales,,,
-Calamus batanensis,Calamus,batanensis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1,,,0.50,,,small,globose,blacksih purple,overlapping scales,,,Kew herbaria
+Calamus batanensis,Calamus,batanensis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1,,,0.5,,,small,globose,blacksih purple,overlapping scales,,,Kew herbaria
 Calamus beccarii,Calamus,beccarii,Calameae,Calamoideae,1,0,0,canopy,0,50,4,0,1,,0.8,0.8,,1.2,,,1.2,,,small,,yellowish-brown,overlapping scales,,,
 Calamus benkulensis,Calamus,benkulensis,Calameae,Calamoideae,1,0,0,canopy,0,20,1,0,1,,1,1,0,0.6,,,0.4,,,small,ovoid,young fruit reddish brown,overlapping scales,,,Kew herbaria
-Calamus bicolor,Calamus,bicolor,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.3,,,0.20,,,small,globose,pale pink,overlapping scales,,,kew herbaria
+Calamus bicolor,Calamus,bicolor,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.3,,,0.2,,,small,globose,pale pink,overlapping scales,,,kew herbaria
 Calamus billitonensis,Calamus,billitonensis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,globose,,overlapping scales,,,
 Calamus bimaniferus,Calamus,bimaniferus,Calameae,Calamoideae,1,0,0,both,0,3,1,0,1,,0.4,0.4,,0.8,,,0.8,,,small,globose,yellowish brown,overlapping scales,,,
 Calamus blumei,Calamus,blumei,Calameae,Calamoideae,1,0,0,canopy,2,60,2,0,1,,1,0.75,0.28,2.2,,,1.7,,,small,ovoid,whitish or yellowish or green,overlapping scales,,,Kew herbaria
@@ -454,7 +454,7 @@ Calamus concinnus,Calamus,concinnus,Calameae,Calamoideae,0,0,1,canopy,0,6,8,0,1,
 Calamus congestiflorus,Calamus,congestiflorus,Calameae,Calamoideae,1,0,0,canopy,0,20,5,0,1,,0.3,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus conirostris,Calamus,conirostris,Calameae,Calamoideae,1,0,0,canopy,2,10,1,0,1,,3.64,,0.565,3,,,2,,,small,ovoid,"jet black, glossy brownish-black",overlapping scales,,,Kew herbaria
 Calamus conjugatus,Calamus,conjugatus,Calameae,Calamoideae,0,1,0,understorey,0,0,,0,1,,,,,,,,,,,,,,overlapping scales,,,
-Calamus convallium,Calamus,convallium,Calameae,Calamoideae,1,0,0,canopy,0,20,1.5,0,1,,1.2,,,3.12,,,1.20,1.1,1.3,small,ovoid,greeny-brown,overlapping scales,,,Kew herbaria
+Calamus convallium,Calamus,convallium,Calameae,Calamoideae,1,0,0,canopy,0,20,1.5,0,1,,1.2,,,3.12,,,1.2,1.1,1.3,small,ovoid,greeny-brown,overlapping scales,,,Kew herbaria
 Calamus corneri,Calamus,corneri,Calameae,Calamoideae,1,0,0,canopy,0,20,0.5,0,1,,0.6,0.5,0.14,,,,,,,,ovoid,,overlapping scales,,,
 Calamus corrugatus,Calamus,corrugatus,Calameae,Calamoideae,1,0,0,canopy,0,15,0.5,0,1,,0.35,0.35,,1,,,0.7,,,small,globose,,overlapping scales,,,
 Calamus crassifolius,Calamus,crassifolius,Calameae,Calamoideae,1,0,0,canopy,0,10,1.8,0,1,,0.75,0.7,0.07,,,,,,,,,,overlapping scales,,,
@@ -473,11 +473,11 @@ Calamus didymocarpus,Calamus,didymocarpus,Calameae,Calamoideae,1,0,0,canopy,,,,0
 Calamus diepenhorstii,Calamus,diepenhorstii,Calameae,Calamoideae,1,0,0,canopy,0,20,3.5,0,1,,1.8,1.8,,2,,,1.7,,,small,elongate,"brownish or yellowish, orange-brown",overlapping scales,,,Kew herbaria
 Calamus digitatus,Calamus,digitatus,Calameae,Calamoideae,1,0,0,canopy,0,5,1,0,1,,,,,1,,,1,,,small,pyramidal,yellow,overlapping scales,,,
 Calamus dilaceratus,Calamus,dilaceratus,Calameae,Calamoideae,1,0,0,canopy,0,20,4,0,1,,2,2,,1,,,0.8,,,small,,yellow,overlapping scales,,,
-Calamus dimorphacanthus,Calamus,dimorphacanthus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.6,,,0.50,,,small,,green,overlapping scales,,,Kew herbaria
+Calamus dimorphacanthus,Calamus,dimorphacanthus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.6,,,0.5,,,small,,green,overlapping scales,,,Kew herbaria
 Calamus dioicus,Calamus,dioicus,Calameae,Calamoideae,1,0,0,canopy,0,10,0.4,0,1,,0.22,0.22,,0.8,,,0.8,,,small,,yellowish white,overlapping scales,,,
 Calamus discolor,Calamus,discolor,Calameae,Calamoideae,1,0,0,canopy,,,3.6,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus distentus,Calamus,distentus,Calameae,Calamoideae,1,0,0,canopy,1,8,30,0,1,,0.84,,,,,,,,,,ovoid,,overlapping scales,,,
-Calamus divaricatus,Calamus,divaricatus,Calameae,Calamoideae,1,0,0,canopy,0,15,7.5,0,1,,1,,,1.5,1.4,1.6,0.90,,,small,globose,"chestnut, purple brown",overlapping scales,,,Kew herbaria
+Calamus divaricatus,Calamus,divaricatus,Calameae,Calamoideae,1,0,0,canopy,0,15,7.5,0,1,,1,,,1.5,1.4,1.6,0.9,,,small,globose,"chestnut, purple brown",overlapping scales,,,Kew herbaria
 Calamus dongnaiensis,Calamus,dongnaiensis,Calameae,Calamoideae,0,0,1,understorey,0,0,,0,1,,,,,3,,,1.5,,,small,globose,brown,"overlapping scales, scale margins whitish",,,
 Calamus dransfieldii,Calamus,dransfieldii,Calameae,Calamoideae,1,0,0,canopy,1,22,3.5,0,1,,1.5,1.5,,1.8,,,1.8,,,small,,yellow,overlapping scales,,,
 Calamus egregius,Calamus,egregius,Calameae,Calamoideae,1,0,0,canopy,0,50,5,0,1,,1.5,1.5,,2,,,1.6,,,small,globose,brown,overlapping grooved scales,,,
@@ -497,7 +497,7 @@ Calamus faberi,Calamus,faberi,Calameae,Calamoideae,1,0,0,canopy,0,15,2,0,1,,0.75
 Calamus farinosus,Calamus,farinosus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus fertilis,Calamus,fertilis,Calameae,Calamoideae,1,0,0,canopy,2,30,4.5,0,1,,2.54,2.2,,1.48,1.15,1.8,0.85,0.75,1,small,ovoid,white,overlapping scales,,,Kew herbaria
 Calamus filipendulus,Calamus,filipendulus,Calameae,Calamoideae,1,0,0,canopy,0,5,0.6,0,1,,1,1,,1.4,,,0.9,,,small,,"cream, straw colour to yellowish with tin brown margins",overlapping scales,,,Kew herbaria
-Calamus filispadix,Calamus,filispadix,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.15,,,0.90,,,small,,,overlapping scales,,,Kew herbaria
+Calamus filispadix,Calamus,filispadix,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.15,,,0.9,,,small,,,overlapping scales,,,Kew herbaria
 Calamus fimbriatus,Calamus,fimbriatus,Calameae,Calamoideae,1,0,0,canopy,0,,1.65,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus fissijugatus,Calamus,fissijugatus,Calameae,Calamoideae,1,0,0,canopy,,,3.6,0,1,,0.3,0.3,,,,,,,,,,,overlapping scales,,,
 Calamus flabellatus,Calamus,flabellatus,Calameae,Calamoideae,1,0,0,canopy,0,30,0.6,0,1,,0.45,,,1.1,,,0.7,,,small,,greenish,overlapping scales,,,
@@ -537,7 +537,7 @@ Calamus inops,Calamus,inops,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,
 Calamus insignis,Calamus,insignis,Calameae,Calamoideae,1,0,0,canopy,2,40,2,0,1,,2.09,2,,1.1,1,1.2,0.7,,,small,ovoid,"yellowish, pale yellowish-brown",overlapping scales,,,
 Calamus interruptus,Calamus,interruptus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus javensis,Calamus,javensis,Calameae,Calamoideae,1,0,0,canopy,0,10,1,0,1,,0.6,0.6,,1.35,1.2,1.5,1,0.8,1.2,small,globose,"whitish, greenish white",overlapping scales,,,
-Calamus jenningsianus,Calamus,jenningsianus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,2,,,1.70,,,small,,purple and white,overlapping scales,,,kew herbaria
+Calamus jenningsianus,Calamus,jenningsianus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,2,,,1.7,,,small,,purple and white,overlapping scales,,,kew herbaria
 Calamus kandariensis,Calamus,kandariensis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,globose,,overlapping scales,,,
 Calamus karnatakensis,Calamus,karnatakensis,Calameae,Calamoideae,1,0,0,canopy,0,35,3,0,1,,1.2,1.2,,0.8,,,0.8,,,small,ovoid,yellowish,overlapping scales,,,
 Calamus karuensis,Calamus,karuensis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,globose,black,overlapping scales,,,Kew herbaria
@@ -571,7 +571,7 @@ Calamus luridus,Calamus,luridus,Calameae,Calamoideae,1,0,0,canopy,0,20,2,0,1,,1.
 Calamus macgregorii,Calamus,macgregorii,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,globose,,overlapping scales,,,
 Calamus macrochlamys,Calamus,macrochlamys,Calameae,Calamoideae,1,0,0,canopy,0,50,2.6,0,1,,1.05,0.95,,1.1,1,1.15,1.15,1,1.15,small,ovoid,yellowish brown,overlapping scales,,,Kew herbaria
 Calamus macrorhynchus,Calamus,macrorhynchus,Calameae,Calamoideae,0,0,1,understorey,0,3,4,0,1,,1,1,,2.7,,,1.5,,,small,,reddish brown,"overlapping scales fringed with dense,brown hairs",,,
-Calamus macrosphaerion,Calamus,macrosphaerion,Calameae,Calamoideae,1,0,0,canopy,1,40,5,0,1,,7,,,2.5,,,2.00,,,small,,white,overlapping scales,,,Kew herbaria
+Calamus macrosphaerion,Calamus,macrosphaerion,Calameae,Calamoideae,1,0,0,canopy,1,40,5,0,1,,7,,,2.5,,,2,,,small,,white,overlapping scales,,,Kew herbaria
 Calamus maiadum,Calamus,maiadum,Calameae,Calamoideae,0,0,1,understorey,1,3,5,0,1,,2.2,2.2,,,,,,,,,,,overlapping scales,,,
 Calamus malawaliensis,Calamus,malawaliensis,Calameae,Calamoideae,1,0,0,canopy,,7,0.4,0,1,,0.4,,,0.75,0.7,0.8,0.72,,,small,ovoid,"straw-coloured, shiny",overlapping scales,,,Kew herbaria
 Calamus manan,Calamus,manan,Calameae,Calamoideae,1,0,0,canopy,1,100,11,0,1,,5,5,,2.8,,,2,,,small,ovoid,yellowish,overlapping scales,,,
@@ -581,12 +581,12 @@ Calamus maritimus,Calamus,maritimus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,
 Calamus mattanensis,Calamus,mattanensis,Calameae,Calamoideae,1,0,0,canopy,2,15,1.8,0,1,,2,2,,1.5,,,1,,,small,,"green to yellow-whitish, brown",overlapping scales,,,Kew herbaria
 Calamus maturbongsii,Calamus,maturbongsii,Calameae,Calamoideae,1,0,0,canopy,0,30,2.2,0,1,,1,1,,1.5,,,1.2,,,small,ovoid,,overlapping scales,,,
 Calamus mayrii,Calamus,mayrii,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,globose,,overlapping scales,,,
-Calamus megaphyllus,Calamus,megaphyllus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.15,,,0.90,,,small,ovoid,,overlapping scales,,,kew herbaria
+Calamus megaphyllus,Calamus,megaphyllus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.15,,,0.9,,,small,ovoid,,overlapping scales,,,kew herbaria
 Calamus meghalayensis,Calamus,meghalayensis,Calameae,Calamoideae,1,0,0,both,,2,0.6,0,1,,0.3,0.3,,1,,,1,,,small,globose,yellowish,overlapping scales,,,
 Calamus melanacanthos,Calamus,melanacanthos,Calameae,Calamoideae,1,0,0,canopy,1,,,0,1,,,,,,,,,,,,,,,,,
 Calamus melanochrous,Calamus,melanochrous,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,1,,,2.4,,,1.8,,,small,ovoid,black,overlapping scales,,,
 Calamus melanoloma,Calamus,melanoloma,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,globose,,overlapping scales,,,
-Calamus melanorhynchus,Calamus,melanorhynchus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.3,,,1.00,,,small,,,overlapping scales,,,kew herbaria
+Calamus melanorhynchus,Calamus,melanorhynchus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.3,,,1,,,small,,,overlapping scales,,,kew herbaria
 Calamus merrillii,Calamus,merrillii,Calameae,Calamoideae,1,0,0,canopy,,60,,0,1,,,,,1,,,1,,,small,,"white, grey green",overlapping scales,,,kew herbaria
 Calamus mesilauensis,Calamus,mesilauensis,Calameae,Calamoideae,1,0,0,canopy,0,10,0.8,0,1,,0.5,0.5,,2,1.8,,2,2.3,,small,,"deep reddish brown, red",overlapping scales,,,Kew herbaria
 Calamus metzianus,Calamus,metzianus,Calameae,Calamoideae,1,0,0,canopy,0,15,2,0,1,,1.5,1.5,,1.7,,,1.1,,,small,,yellow,overlapping scales,,,
@@ -597,7 +597,7 @@ Calamus minahassae,Calamus,minahassae,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,
 Calamus mindorensis,Calamus,mindorensis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.77,,,0.75,,,small,ovoid,,overlapping scales,,,Kew herbaria
 Calamus minor,Calamus,minor,Calameae,Calamoideae,1,0,0,both,0,3,1,0,1,,0.7,0.7,,,,,,,,,,,overlapping scales,,,
 Calamus minutus,Calamus,minutus,Calameae,Calamoideae,0,1,0,understorey,1,0.6,1.3,0,1,,0.6,0.6,,0.8,,,0.8,,,small,,"chestnut brown scales, dull",overlapping scales,,,Kew herbaria
-Calamus mitis,Calamus,mitis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.5,,,1.20,,,small,globose,creaming-white,overlapping scales,,,Kew herbaria
+Calamus mitis,Calamus,mitis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.5,,,1.2,,,small,globose,creaming-white,overlapping scales,,,Kew herbaria
 Calamus modestus,Calamus,modestus,Calameae,Calamoideae,0,0,1,understorey,0,1.5,2,0,1,,0.8,0.8,,1.5,,,0.6,,,small,,orange-brown,overlapping scales,,,
 Calamus mogeae,Calamus,mogeae,Calameae,Calamoideae,1,0,0,both,0,4,8,0,1,,,,,1.4,,,0.75,,,small,ovoid,,overlapping scales,,,
 Calamus moorhousei,Calamus,moorhousei,Calameae,Calamoideae,1,0,0,canopy,0,,1.1,0,1,,1,1,,,,,,,,,ovoid,,overlapping scales,,,
@@ -609,7 +609,7 @@ Calamus multinervis,Calamus,multinervis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1
 Calamus multisetosus,Calamus,multisetosus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,,,overlapping scales,,,
 Calamus multispicatus,Calamus,multispicatus,Calameae,Calamoideae,1,0,0,canopy,0,5,1.5,0,1,,1.3,1.3,,1,,,1,,,small,,yellowish brown,overlapping scales,,,
 Calamus muricatus,Calamus,muricatus,Calameae,Calamoideae,1,0,0,canopy,1,10,1.5,0,1,,0.7,,,1,,,0.98,0.9,1.06,small,ovoid,pale brown,overlapping scales,,,Kew herbaria
-Calamus myriacanthus,Calamus,myriacanthus,Calameae,Calamoideae,0,0,1,understorey,1,3,4.5,0,1,,2.5,2.5,,0.5,,,0.50,0.35,,small,,reddish brown,overlapping scales,,,kew herbaria
+Calamus myriacanthus,Calamus,myriacanthus,Calameae,Calamoideae,0,0,1,understorey,1,3,4.5,0,1,,2.5,2.5,,0.5,,,0.5,0.35,,small,,reddish brown,overlapping scales,,,kew herbaria
 Calamus myriocarpus,Calamus,myriocarpus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,,,overlapping scales,,,
 Calamus myriocladus,Calamus,myriocladus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,,,overlapping scales,,,
 Calamus nagbettai,Calamus,nagbettai,Calameae,Calamoideae,1,0,0,canopy,0,25,10,0,1,,3,3,,1.6,,,1,,,small,ovoid,brown,overlapping scales,,,
@@ -623,7 +623,7 @@ Calamus nielsenii,Calamus,nielsenii,Calameae,Calamoideae,1,0,0,both,0,1,0.8,0,1,
 Calamus nigricans,Calamus,nigricans,Calameae,Calamoideae,1,0,0,canopy,0,,1.32,0,1,,1,1,,,,,,,,,,,overlapping scales,,,
 Calamus occidentalis,Calamus,occidentalis,Calameae,Calamoideae,1,0,0,canopy,1,100,7,0,1,,3,3,,1.85,1.8,1.9,1.3,1.2,1.4,small,ovoid,,overlapping scales,,,
 Calamus oligostachys,Calamus,oligostachys,Calameae,Calamoideae,1,0,0,canopy,0,7,1,0,1,,0.6,0.6,,0.7,,,0.7,,,small,,yellowish,overlapping scales,,,
-Calamus opacus,Calamus,opacus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.94,,,0.60,,,small,,,overlapping scales,,,Kew herbaria
+Calamus opacus,Calamus,opacus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.94,,,0.6,,,small,,,overlapping scales,,,Kew herbaria
 Calamus optimus,Calamus,optimus,Calameae,Calamoideae,1,0,0,canopy,0,50,1.5,0,1,,1,1,,1.4,,,1.1,,,small,globose,pale yellowish-brown,overlapping scales,,,
 Calamus ornatus,Calamus,ornatus,Calameae,Calamoideae,1,0,0,canopy,0,60,8,0,1,,4.83,4,0.95,3,,,2,,,small,,"black, yellow-brown, deep-brown",overlapping scales,,,Kew herbaria
 Calamus orthostachyus,Calamus,orthostachyus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.33,,,0.71,,,small,,young fruits green,overlapping scales,,,Kew herbaria
@@ -631,7 +631,7 @@ Calamus ovoideus,Calamus,ovoideus,Calameae,Calamoideae,1,0,0,canopy,0,100,8,0,1,
 Calamus oxleyanus,Calamus,oxleyanus,Calameae,Calamoideae,1,0,0,canopy,2,15,3,0,1,,2.9,2.5,0.45,1.2,1,1.4,0.85,0.7,1,small,globose,yellowish brown,overlapping scales,,,
 Calamus oxycarpus,Calamus,oxycarpus,Calameae,Calamoideae,0,0,1,understorey,0,3,2,0,1,,0.5,0.5,,3,,,1.7,,,small,ovoid,reddish brown,"overlapping scales fringed with dense, brown hairs",,,
 Calamus pachypus,Calamus,pachypus,Calameae,Calamoideae,1,0,0,canopy,1,26,6,0,1,,4,4,,1.25,1,1.5,1.1,0.85,1.35,small,,white,overlapping scales,,,Kew herbaria
-Calamus pachystachys,Calamus,pachystachys,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.1,,,1.10,,,small,globose,,overlapping scales,,,Kew herbaria
+Calamus pachystachys,Calamus,pachystachys,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.1,,,1.1,,,small,globose,,overlapping scales,,,Kew herbaria
 Calamus pachystemonus,Calamus,pachystemonus,Calameae,Calamoideae,1,0,0,canopy,0,15,1,0,1,,0.2,0.2,,0.5,,,0.5,,,small,globose,brown,overlapping scales,,,
 Calamus padangensis,Calamus,padangensis,Calameae,Calamoideae,0,0,1,,0,,0.7,0,1,,0.4,0.4,,,,,,,,,globose,,overlapping scales,,,
 Calamus palustris,Calamus,palustris,Calameae,Calamoideae,1,0,0,canopy,0,30,5,0,1,,3,3,,1.5,1.2,1.8,1.2,1,1.4,small,globose,yellowish; yellowish white,"overlapping scales, not groowed",,,
@@ -663,12 +663,12 @@ Calamus pseudofeanus,Calamus,pseudofeanus,Calameae,Calamoideae,1,0,0,canopy,,,4,
 Calamus pseudomollis,Calamus,pseudomollis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus pseudorivalis,Calamus,pseudorivalis,Calameae,Calamoideae,1,0,0,canopy,0,30,3,0,1,,1,1,,1.5,,,1,,,small,,yellowish,overlapping scales,,,
 Calamus pseudotenuis,Calamus,pseudotenuis,Calameae,Calamoideae,1,0,0,canopy,0,15,5,0,1,,1.5,1.5,,1.5,,,1.5,,,small,globose,"yellow, white with dark brown margins",overlapping scales,,,Kew herbaria
-Calamus pseudoulur,Calamus,pseudoulur,Calameae,Calamoideae,1,0,0,canopy,0,20,2,0,1,,2.4,2.4,,2.2,,,2.10,,,small,globose,red brown,overlapping scales,,,Kew herbaria
+Calamus pseudoulur,Calamus,pseudoulur,Calameae,Calamoideae,1,0,0,canopy,0,20,2,0,1,,2.4,2.4,,2.2,,,2.1,,,small,globose,red brown,overlapping scales,,,Kew herbaria
 Calamus pseudozebrinus,Calamus,pseudozebrinus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus psilocladus,Calamus,psilocladus,Calameae,Calamoideae,1,0,0,canopy,1,5,1.2,0,1,,0.55,0.55,,0.8,,,0.8,,,small,globose,ivory,overlapping scales,,,kew herbaria
 Calamus pulaiensis,Calamus,pulaiensis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus pulcher,Calamus,pulcher,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,,,overlapping scales,,,
-Calamus pycnocarpus,Calamus,pycnocarpus,Calameae,Calamoideae,1,0,0,canopy,0,30,0.5,0,1,,0.4,0.4,,2.75,2,3.49,1.80,1.5,2.1,small,ovoid,"orange-yellow, chestnut",overlapping scales,,,
+Calamus pycnocarpus,Calamus,pycnocarpus,Calameae,Calamoideae,1,0,0,canopy,0,30,0.5,0,1,,0.4,0.4,,2.75,2,3.49,1.8,1.5,2.1,small,ovoid,"orange-yellow, chestnut",overlapping scales,,,
 Calamus pygmaeus,Calamus,pygmaeus,Calameae,Calamoideae,0,1,0,understorey,0,0.3,1,0,1,,0.75,0.75,,0.75,,,0.75,,,small,ovoid,straw-coloured brown scales,overlapping scales,,,
 Calamus quinquenervius,Calamus,quinquenervius,Calameae,Calamoideae,1,0,0,canopy,1,70,,0,1,,2,,,1.95,1.6,2.3,,,,small,ovoid,,overlapping scales,,,
 Calamus radiatus,Calamus,radiatus,Calameae,Calamoideae,1,0,0,canopy,0,5,0.7,0,1,,0.2,0.2,,1.2,,,1.2,,,small,,yellow,overlapping scales,,,
@@ -681,7 +681,7 @@ Calamus reticulatus,Calamus,reticulatus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1
 Calamus reyesianus,Calamus,reyesianus,Calameae,Calamoideae,1,0,0,canopy,0,,,0,1,,,,,2,,,2,,,small,,white,overlapping scales,,,
 Calamus rhabdocladus,Calamus,rhabdocladus,Calameae,Calamoideae,1,0,0,canopy,0,40,6,0,1,,1.5,1.5,,1.4,,,0.8,,,small,,reddish or yellowish,overlapping scales,,,
 Calamus rheedei,Calamus,rheedei,Calameae,Calamoideae,1,0,0,canopy,0,,1.3,0,1,,0.8,0.8,,2.2,,,1.5,,,small,globose,brown,overlapping spinelike scales,,,
-Calamus rhomboideus,Calamus,rhomboideus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,2.45,,,2.00,,,small,,orange,overlapping scales,,,Kew herbaria
+Calamus rhomboideus,Calamus,rhomboideus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,2.45,,,2,,,small,,orange,overlapping scales,,,Kew herbaria
 Calamus rhytidomus,Calamus,rhytidomus,Calameae,Calamoideae,1,0,0,canopy,0,,2.09,0,1,,,,,1.5,,,1.1,,,small,ovoid,,overlapping scales,,,
 Calamus ridleyanus,Calamus,ridleyanus,Calameae,Calamoideae,1,0,0,canopy,0,30,1,0,1,,1.3,1.3,,1.25,,,0.68,,,small,globose,pale brown when young,overlapping scales,,,Kew herbaria
 Calamus robinsonianus,Calamus,robinsonianus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
@@ -701,10 +701,10 @@ Calamus schaeferianus,Calamus,schaeferianus,Calameae,Calamoideae,1,0,0,canopy,,,
 Calamus schistoacanthus,Calamus,schistoacanthus,Calameae,Calamoideae,1,0,0,canopy,0,,0.99,0,1,,,,,1.3,,,0.9,,,small,globose,"straw-brown, yellow-brown",overlapping scales,,,palmweb
 Calamus schlechterianus,Calamus,schlechterianus,Calameae,Calamoideae,1,0,0,canopy,2,8,2.2,1,1,,1.73,1.32,,,,,,,,,,,overlapping scales,,,
 Calamus scipionum,Calamus,scipionum,Calameae,Calamoideae,1,0,0,canopy,0,50,7,0,1,,2.3,2.3,,1.4,,1.4,0.9,,,small,globose,greenish,overlapping scales,,,
-Calamus scleracanthus,Calamus,scleracanthus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.1,,,1.00,,,small,ovoid,,overlapping scales,,,kew herbaria
+Calamus scleracanthus,Calamus,scleracanthus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,1.1,,,1,,,small,ovoid,,overlapping scales,,,kew herbaria
 Calamus sedens,Calamus,sedens,Calameae,Calamoideae,0,1,0,understorey,1,2,6,0,1,,2,2,,0.8,,,0.8,,,small,,red-brown,overlapping scales,,,
 Calamus semierectus,Calamus,semierectus,Calameae,Calamoideae,1,0,0,canopy,1,15,5,0,1,,2,2,,1.5,,,1,,,small,globose,brown,overlapping scales,,,
-Calamus semoi,Calamus,semoi,Calameae,Calamoideae,1,0,0,canopy,,20,1.2,0,1,,2,2,,1.8,,,2.10,,,small,ovoid,orange-red,overlapping scales,,,kew herbaria
+Calamus semoi,Calamus,semoi,Calameae,Calamoideae,1,0,0,canopy,,20,1.2,0,1,,2,2,,1.8,,,2.1,,,small,ovoid,orange-red,overlapping scales,,,kew herbaria
 Calamus senalingensis,Calamus,senalingensis,Calameae,Calamoideae,1,0,0,canopy,1,15,0.9,0,1,,1,1,,,,,,,,,globose,,overlapping scales,,,
 Calamus sepikensis,Calamus,sepikensis,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Calamus seriatus,Calamus,seriatus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,,,,,,
@@ -713,7 +713,7 @@ Calamus sessilifolius,Calamus,sessilifolius,Calameae,Calamoideae,1,0,0,canopy,,,
 Calamus setulosus,Calamus,setulosus,Calameae,Calamoideae,1,0,0,canopy,0,,1.1,0,1,,0.85,0.85,,,,,,,,,,,overlapping scales,,,
 Calamus shendurunii,Calamus,shendurunii,Calameae,Calamoideae,1,0,0,canopy,0,20,2,0,1,,1,1,,1.8,,,1.8,,,small,globose,greenish,overlapping scales,,,
 Calamus siamensis,Calamus,siamensis,Calameae,Calamoideae,1,0,0,canopy,0,25,4,0,1,,1.5,1.5,,0.8,,,0.8,,,small,,whitish or yellowish,overlapping scales,,,
-Calamus simplex,Calamus,simplex,Calameae,Calamoideae,1,0,0,canopy,0,6,0.8,0,1,,,,,2.59,,,1.70,,,small,globose,"dull maroon brown, almost black",overlapping scales,,,Kew herbaria
+Calamus simplex,Calamus,simplex,Calameae,Calamoideae,1,0,0,canopy,0,6,0.8,0,1,,,,,2.59,,,1.7,,,small,globose,"dull maroon brown, almost black",overlapping scales,,,Kew herbaria
 Calamus simplicifolius,Calamus,simplicifolius,Calameae,Calamoideae,1,0,0,canopy,0,50,6,0,1,,2,2,,3,,,2.3,,,small,pyramidal,yellowish,overlapping scales,,,
 Calamus siphonospathus,Calamus,siphonospathus,Calameae,Calamoideae,1,0,0,canopy,1,30,6,0,1,,1.5,1.5,,0.6,,,0.4,,,small,globose,yellowish brown,overlapping scales,,,
 Calamus solitarius,Calamus,solitarius,Calameae,Calamoideae,1,0,0,canopy,1,50,1.5,0,1,,0.9,0.9,,0.8,,,0.8,,,small,globose,yellowish,overlapping scales,,,
@@ -770,7 +770,7 @@ Calamus wuliangshanensis,Calamus,wuliangshanensis,Calameae,Calamoideae,1,0,0,can
 Calamus yentuensis,Calamus,yentuensis,Calameae,Calamoideae,0,0,1,,,,,0,1,,,,,,,,,,,,,,,,,
 Calamus zebrinus,Calamus,zebrinus,Calameae,Calamoideae,1,0,0,canopy,0,35,3.6,0,1,,2.2,2.2,,1.15,0.8,1.5,0.95,0.8,1.1,small,,yellowish brown,overlapping scales,,,Dransfield and Baker 23
 Calamus zeylanicus,Calamus,zeylanicus,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
-Calamus zollingeri,Calamus,zollingeri,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.5,,,0.50,,,small,globose,dark brown,overlapping scales,,,kew herbaria
+Calamus zollingeri,Calamus,zollingeri,Calameae,Calamoideae,1,0,0,canopy,,,,0,1,,,,,0.5,,,0.5,,,small,globose,dark brown,overlapping scales,,,kew herbaria
 Calamus zonatus,Calamus,zonatus,Calameae,Calamoideae,1,0,0,canopy,2,10,0.7,0,1,,1,,,0.8,,,0.8,,,small,,greenish-white,overlapping scales,,,
 Calyptrocalyx albertisianus,Calyptrocalyx,albertisianus,Areceae,Arecoideae,0,0,1,canopy,2,15,15,0,0,18,4.5,4,,2.85,1.5,4.2,1.8,1,2.6,small,,red,,,,
 Calyptrocalyx amoenus,Calyptrocalyx,amoenus,Areceae,Arecoideae,0,0,1,understorey,2,5,5,0,0,12,1.9,,,1.1,0.9,1.3,0.8,0.6,1,small,ovoid,crimson,,,,
@@ -798,8 +798,8 @@ Calyptrocalyx pusillus,Calyptrocalyx,pusillus,Areceae,Arecoideae,0,0,1,understor
 Calyptrocalyx sessiliflorus,Calyptrocalyx,sessiliflorus,Areceae,Arecoideae,0,0,1,understorey,1,3,8,0,0,10,0.9,,0.17,0.9,,,0.5,,,small,globose,bright crimson,smooth,,,
 Calyptrocalyx spicatus,Calyptrocalyx,spicatus,Areceae,Arecoideae,0,0,1,canopy,1,14,25,0,0,12,3.7,,,5,4,6,5,2,3,large,ovoid,orange to bright red,smooth,,,
 Calyptrocalyx yamutumene,Calyptrocalyx,yamutumene,Areceae,Arecoideae,0,0,1,understorey,0,2.5,3,0,0,14,1.2,,,1.7,1.6,1.8,1.1,1,1.2,small,,red,"smooth, glossy",,,
-Calyptrogyne allenii,Calyptrogyne,allenii,Geonomateae,Arecoideae,0,0,1,understorey,1,2.5,2.6,0,0,17,,,,1.15,,,0.50,,,small,,green to black,,,,kew herbaria
-Calyptrogyne anomala,Calyptrogyne,anomala,Geonomateae,Arecoideae,0,1,0,understorey,1,0.3,4,0,0,16,1.16,0.7,0.51,1,,,0.50,,,small,globose,black,,,,kew herbaria
+Calyptrogyne allenii,Calyptrogyne,allenii,Geonomateae,Arecoideae,0,0,1,understorey,1,2.5,2.6,0,0,17,,,,1.15,,,0.5,,,small,,green to black,,,,kew herbaria
+Calyptrogyne anomala,Calyptrogyne,anomala,Geonomateae,Arecoideae,0,1,0,understorey,1,0.3,4,0,0,16,1.16,0.7,0.51,1,,,0.5,,,small,globose,black,,,,kew herbaria
 Calyptrogyne baudensis,Calyptrogyne,baudensis,Geonomateae,Arecoideae,0,0,1,understorey,1,3,6,0,0,14,1.21,1.21,,1.75,1.6,1.9,1,,,small,,black,minutelt warty,,,
 Calyptrogyne coloradensis,Calyptrogyne,coloradensis,Geonomateae,Arecoideae,0,0,1,,1,,,0,0,,0.26,0.26,,,,,,,,,globose,,,,no data on fruits or stems or leaves,
 Calyptrogyne condensata,Calyptrogyne,condensata,Geonomateae,Arecoideae,0,1,0,understorey,1,0,8,0,0,,,,,1.25,1,1.5,,,,small,,brown,,,,Field guide to palms of Americas
@@ -813,7 +813,7 @@ Calyptrogyne osensis,Calyptrogyne,osensis,Geonomateae,Arecoideae,0,0,1,understor
 Calyptrogyne panamensis,Calyptrogyne,panamensis,Geonomateae,Arecoideae,0,0,1,understorey,1,1,5,0,0,12,0.767,0.77,,1.12,0.88,1.52,0.63,0.5,0.79,small,ovoid,black,,,,
 Calyptrogyne pubescens,Calyptrogyne,pubescens,Geonomateae,Arecoideae,0,1,0,understorey,1,0,0,0,0,10,2,,,1.25,1.1,1.4,0.75,0.7,0.8,small,,black,,,,Field guide to palms of Americas
 Calyptrogyne sanblasensis,Calyptrogyne,sanblasensis,Geonomateae,Arecoideae,0,0,1,understorey,1,1.7,6,0,0,16,1.52,1.52,,1.05,0.9,1.26,0.66,0.58,0.72,small,globose,yellow,,,,
-Calyptrogyne trichostachys,Calyptrogyne,trichostachys,Geonomateae,Arecoideae,0,1,0,understorey,1,0.44,11.5,0,0,19,1.17,1.17,,0.8,,1,0.60,,,small,globose,purple black,,,,"kew herbaria, Field guide to palms of Americas"
+Calyptrogyne trichostachys,Calyptrogyne,trichostachys,Geonomateae,Arecoideae,0,1,0,understorey,1,0.44,11.5,0,0,19,1.17,1.17,,0.8,,1,0.6,,,small,globose,purple black,,,,"kew herbaria, Field guide to palms of Americas"
 Calyptrogyne tutensis,Calyptrogyne,tutensis,Geonomateae,Arecoideae,0,0,1,understorey,1,0.7,4.4,0,0,18,0.77,0.77,,1.35,1.28,1.4,0.6,0.57,0.65,small,globose,"purple, shiny",,,no data on fruit color,palmpedia
 Calyptronoma occidentalis,Calyptronoma,occidentalis,Geonomateae,Arecoideae,0,0,1,canopy,1,12,29,0,0,10,4.3,3,1.35,1.28,0.98,1.58,0.72,0.59,0.85,small,globose,,,,,
 Calyptronoma plumeriana,Calyptronoma,plumeriana,Geonomateae,Arecoideae,0,0,1,canopy,1,10,20.3,0,0,16,4.78,4,0.83,2.5,,,,,,small,globose,purple red,,,,palmpedia
@@ -835,7 +835,7 @@ Caryota sympetala,Caryota,sympetala,Caryoteae,Coryphoideae,0,0,1,canopy,0,6,6,0,
 Caryota urens,Caryota,urens,Caryoteae,Coryphoideae,0,0,1,canopy,1,20,65,0,0,20,6.6,6,0.65,2,,,1.75,1.5,2,small,globose,purple; reddish to blackish,,0,,
 Caryota zebrina,Caryota,zebrina,Caryoteae,Coryphoideae,0,0,1,canopy,1,20,40,0,0,,9,7,2.1,2.5,,,1.5,,,small,globose,young green,,,,Kew herbaria
 Ceratolobus concolor,Ceratolobus,concolor,Calameae,Calamoideae,1,0,0,canopy,0,15,0.7,0,1,,1.26,1.26,0.09,2,,,2,,,small,,orange-brown,overlapping scales,,,
-Ceratolobus discolor,Ceratolobus,discolor,Calameae,Calamoideae,1,0,0,canopy,0,20,3,0,1,,2,,,2.1,,,1.75,1.50,2,small,globose,orange-brown,overlapping scales,,,
+Ceratolobus discolor,Ceratolobus,discolor,Calameae,Calamoideae,1,0,0,canopy,0,20,3,0,1,,2,,,2.1,,,1.75,1.5,2,small,globose,orange-brown,overlapping scales,,,
 Ceratolobus glaucescens,Ceratolobus,glaucescens,Calameae,Calamoideae,1,0,0,canopy,0,10,0.8,0,1,,1.1,1.1,,1.2,,,0.5,,,small,globose,brownish,overlapping scales,,,
 Ceratolobus kingianus,Ceratolobus,kingianus,Calameae,Calamoideae,1,0,0,canopy,0,15,3,0,1,,2,2,0.55,1.1,,,0.8,,,small,elongate,,overlapping scales,,,
 Ceratolobus pseudoconcolor,Ceratolobus,pseudoconcolor,Calameae,Calamoideae,1,0,0,canopy,0,10,0.5,0,1,,1,1,,1.4,,,0.7,,,small,,greenish-brown at maturity,overlapping scales,,,Kew herbaria
@@ -846,7 +846,7 @@ Ceroxylon ceriferum,Ceroxylon,ceriferum,Ceroxyleae,Ceroxyloideae,0,0,1,canopy,1,
 Ceroxylon echinulatum,Ceroxylon,echinulatum,Ceroxyleae,Ceroxyloideae,0,0,1,canopy,1,20,30,0,0,23,4.2,3.35,0.97,2,,,2,1,2,small,,orange-red,densely covered with short blunt spines; finely warty,,,
 Ceroxylon parvifrons,Ceroxylon,parvifrons,Ceroxyleae,Ceroxyloideae,0,0,1,canopy,1,15,35,0,0,17,3.6,2.7,,2,,,2,1.5,2.5,small,,orange-red to bright red,smooth,,,
 Ceroxylon parvum,Ceroxylon,parvum,Ceroxyleae,Ceroxyloideae,0,0,1,canopy,1,10,17,0,0,20,2.5,1.68,0.94,1.5,,,1.5,1.2,2,small,ovoid,orange-red,smooth,,,
-Ceroxylon peruvianum,Ceroxylon,peruvianum,Ceroxyleae,Ceroxyloideae,0,0,1,,1,,,0,0,,,,,2.15,2,2.3,2.10,2,2.2,small,,green to red,,,,palmweb
+Ceroxylon peruvianum,Ceroxylon,peruvianum,Ceroxyleae,Ceroxyloideae,0,0,1,,1,,,0,0,,,,,2.15,2,2.3,2.1,2,2.2,small,,green to red,,,,palmweb
 Ceroxylon pityrophyllum,Ceroxylon,pityrophyllum,Ceroxyleae,Ceroxyloideae,0,0,1,,1,,,0,0,,,,,,,,,,,,,,,,,
 Ceroxylon quindiuense,Ceroxylon,quindiuense,Ceroxyleae,Ceroxyloideae,0,0,1,canopy,1,60,40,0,0,30,6.2,5.4,0.92,1.8,,,1.8,1.7,1.9,small,ovoid,orange-red to bright red,smooth,,,
 Ceroxylon sasaimae,Ceroxylon,sasaimae,Ceroxyleae,Ceroxyloideae,0,0,1,canopy,1,15,30,0,0,15,3.15,3,,1.65,,,1.65,1.5,1.8,small,pyramidal,orange-red,smooth,,,
@@ -956,7 +956,7 @@ Chamaedorea warscewiczii,Chamaedorea,warscewiczii,Chamaedoreeae,Arecoideae,0,0,1
 Chamaedorea whitelockiana,Chamaedorea,whitelockiana,Chamaedoreeae,Arecoideae,0,0,1,understorey,1,2,1.3,0,0,7,0.65,0.35,0.33,0.75,,,0.75,0.7,0.8,small,globose,black,,,,
 Chamaedorea woodsoniana,Chamaedorea,woodsoniana,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,12,10,0,0,6,2,1.5,0.55,2,1,2,1,,,small,,golden orange ripening black,,1,,
 Chamaedorea zamorae,Chamaedorea,zamorae,Chamaedoreeae,Arecoideae,0,0,1,understorey,1,3,2.5,0,0,,0.6,0.6,,1.25,1,1.5,1.1,1,1.2,small,,green maturing red and perhaps ageing black,,1,,
-Chamaerops humilis,Chamaerops,humilis,Trachycarpeae,Coryphoideae,0,2,2,canopy,0,6,25,0,1,15,1,,,1.30,1,1.6,1.44,,,small,ovoid,brown,,,,Kew herbaria
+Chamaerops humilis,Chamaerops,humilis,Trachycarpeae,Coryphoideae,0,2,2,canopy,0,6,25,0,1,15,1,,,1.3,1,1.6,1.44,,,small,ovoid,brown,,,,Kew herbaria
 Chambeyronia lepidota,Chambeyronia,lepidota,Areceae,Arecoideae,0,0,1,canopy,1,15,15,0,0,10,0.45,,,3,,,2,,,small,,crimson,,,,
 Chambeyronia macrocarpa,Chambeyronia,macrocarpa,Areceae,Arecoideae,0,0,1,canopy,1,20,27,0,0,10,2.5,2.5,,4.5,,,2.5,,,large,,crimson,,,,
 Chelyocarpus chuco,Chelyocarpus,chuco,Cryosophileae,Coryphoideae,0,0,1,canopy,2,12,12,0,0,22,2.1,2,2.2,1.75,,,1.75,1.5,2,small,ovoid,yellowish green becomming dark brown when ripe,smooth,1,,
@@ -964,7 +964,7 @@ Chelyocarpus dianeurus,Chelyocarpus,dianeurus,Cryosophileae,Coryphoideae,0,0,1,c
 Chelyocarpus repens,Chelyocarpus,repens,Cryosophileae,Coryphoideae,0,0,1,understorey,1,1,9,0,0,20,1.8,1.5,1.9,2.5,,,2.5,,,small,elongate,greenish,smooth,,,
 Chelyocarpus ulei,Chelyocarpus,ulei,Cryosophileae,Coryphoideae,0,0,1,canopy,1,8,7,0,0,15,1.76,2.3,2.85,1.85,,,2.25,2,3,small,ovoid,brown,markedly cracked and corky; corky-warhy,,,
 Chuniophoenix hainanensis,Chuniophoenix,hainanensis,Chuniophoeniceae,Coryphoideae,0,0,1,understorey,0,5,15,0,0,20,,,,2.5,,,2.25,2,2.5,small,ovoid,"red, orange or purple; ripen green to scarlet",,,,
-Chuniophoenix humilis,Chuniophoenix,humilis,Chuniophoeniceae,Coryphoideae,0,0,1,,0,,,0,0,,,,,1.6,,,1.60,,,small,,red,,,,palmpedia
+Chuniophoenix humilis,Chuniophoenix,humilis,Chuniophoeniceae,Coryphoideae,0,0,1,,0,,,0,0,,,,,1.6,,,1.6,,,small,,red,,,,palmpedia
 Chuniophoenix nana,Chuniophoenix,nana,Chuniophoeniceae,Coryphoideae,0,0,1,understorey,0,2,2,0,0,20,0.25,,,1.6,,,1.6,,,small,ovoid,red; scarlet,,,,
 Clinosperma bracteale,Clinosperma,bracteale,Areceae,Arecoideae,0,0,1,canopy,1,15,10,0,0,15,1.8,1.5,0.33,1,,,1.15,1,1.1,small,ovoid,green,,,,Kew herbaria
 Clinosperma lanuginosa,Clinosperma,lanuginosa,Areceae,Arecoideae,0,0,1,canopy,1,6,10,0,0,5,1.5,,0.53,2.25,2,2.5,1.05,0.9,1.2,small,globose,green,,,,Kew herbaria
@@ -1043,7 +1043,7 @@ Copernicia berteroana,Copernicia,berteroana,Trachycarpeae,Coryphoideae,0,0,1,can
 Copernicia brittonorum,Copernicia,brittonorum,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,12,18,0,0,,,,,1.35,,,1.35,1.2,1.5,small,globose,black,,,,
 Copernicia burretiana,Copernicia,burretiana,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,,,,globose,,,,,
 Copernicia cowellii,Copernicia,cowellii,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,2.5,17,0,0,,,,,1.5,,,1.5,1.3,1.7,small,ovoid,black,,,,
-Copernicia curbeloi,Copernicia,curbeloi,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,1.8,,,1.80,,,small,,black,,,,palmpedia
+Copernicia curbeloi,Copernicia,curbeloi,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,1.8,,,1.8,,,small,,black,,,,palmpedia
 Copernicia curtissii,Copernicia,curtissii,Trachycarpeae,Coryphoideae,0,0,1,canopy,2,7,25,0,1,,,,,,,,,,,,globose,,,,,
 Copernicia ekmanii,Copernicia,ekmanii,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,12,20,0,1,,,,,2,,,1.7,,,small,elongate,black,,,,
 Copernicia fallaensis,Copernicia,fallaensis,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,20,80,0,,,,,,,,,,,,,globose,,,,,
@@ -1087,17 +1087,17 @@ Cyphophoenix elegans,Cyphophoenix,elegans,Areceae,Arecoideae,0,0,1,canopy,1,15,1
 Cyphophoenix fulcita,Cyphophoenix,fulcita,Areceae,Arecoideae,0,0,1,canopy,1,13,25,0,0,8,5.5,2.5,2.75,2.3,,,1.3,,,small,globose,black,,,,palmpedia
 Cyphophoenix nucele,Cyphophoenix,nucele,Areceae,Arecoideae,0,0,1,canopy,1,15,20,0,0,8,2,,,2.1,,,1.2,,,small,globose,red,,,,Kew herbaria
 Cyphosperma balansae,Cyphosperma,balansae,Areceae,Arecoideae,0,0,1,canopy,1,15,20,0,0,20,3.4,3.1,0.33,1.25,,,1.1,1,1.2,small,ovoid,"brown, red",,,,Kew herbaria
-Cyphosperma naboutinense,Cyphosperma,naboutinense,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,1.3,,,0.80,,,small,,dark orange,,,,palmweb
+Cyphosperma naboutinense,Cyphosperma,naboutinense,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,1.3,,,0.8,,,small,,dark orange,,,,palmweb
 Cyphosperma tanga,Cyphosperma,tanga,Areceae,Arecoideae,0,0,1,understorey,1,5,20,0,0,,3,,,0.9,,,0.6,,,small,,greenish yellow,,,,Kew herbaria
 Cyphosperma trichospadix,Cyphosperma,trichospadix,Areceae,Arecoideae,0,0,1,canopy,1,7,8,0,0,10,2.5,,,1.85,,,1.1,,,small,ovoid,pale yellow,,,,palmpedia
-Cyphosperma voutmelense,Cyphosperma,voutmelense,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.3,,,1.50,,,small,,green,,,,Kew herbaria
-Cyrtostachys bakeri,Cyrtostachys,bakeri,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.35,,,0.50,,,small,,black,,,,Kew herbaria
-Cyrtostachys barbata,Cyrtostachys,barbata,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.2,,,0.50,,,small,,,,,,Heatubun et al. 29
+Cyphosperma voutmelense,Cyphosperma,voutmelense,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.3,,,1.5,,,small,,green,,,,Kew herbaria
+Cyrtostachys bakeri,Cyrtostachys,bakeri,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.35,,,0.5,,,small,,black,,,,Kew herbaria
+Cyrtostachys barbata,Cyrtostachys,barbata,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.2,,,0.5,,,small,,,,,,Heatubun et al. 29
 Cyrtostachys elegans,Cyrtostachys,elegans,Areceae,Arecoideae,0,0,1,canopy,0,20,30,0,0,9,3.5,3.5,,1.45,1.2,1.7,0.55,0.5,0.6,small,,green to black,,,,palmweb
 Cyrtostachys excelsa,Cyrtostachys,excelsa,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
 Cyrtostachys glauca,Cyrtostachys,glauca,Areceae,Arecoideae,0,0,1,canopy,0,21.6,15,0,0,8,4.1,4.1,0.8,1,,,0.5,,,small,globose,"dark purple-black, smooth",,,,Kew herbaria
 Cyrtostachys loriae,Cyrtostachys,loriae,Areceae,Arecoideae,0,0,1,canopy,1,30,30,0,0,14,4.8,4.8,1.15,1.2,0.8,1.6,0.45,0.4,0.5,small,,green to black,,,,palmweb
-Cyrtostachys renda,Cyrtostachys,renda,Areceae,Arecoideae,0,0,1,canopy,0,20,10,0,0,7,1.8,1.8,,0.90,0.8,1,0.50,0.4,0.6,small,ovoid,black,,,,Kew herbaria
+Cyrtostachys renda,Cyrtostachys,renda,Areceae,Arecoideae,0,0,1,canopy,0,20,10,0,0,7,1.8,1.8,,0.9,0.8,1,0.5,0.4,0.6,small,ovoid,black,,,,Kew herbaria
 Daemonorops acamptostachys,Daemonorops,acamptostachys,Calameae,Calamoideae,0,1,0,understorey,1,2,5,1,1,10,2.5,2.5,,0.8,,,0.9,,,small,,brown,overlapping scales,,,palmweb
 Daemonorops acehensis,Daemonorops,acehensis,Calameae,Calamoideae,1,0,0,canopy,0,5,2.5,,1,,2,2,,2.2,,,1.8,,,small,ovoid,reddish brown,overlapping scales,,,palmweb
 Daemonorops affinis,Daemonorops,affinis,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,globose,,overlapping scales,,,
@@ -1111,12 +1111,12 @@ Daemonorops beguinii,Daemonorops,beguinii,Calameae,Calamoideae,1,0,0,canopy,1,50
 Daemonorops binnendijkii,Daemonorops,binnendijkii,Calameae,Calamoideae,1,0,0,canopy,0,25,,,1,,,,,1.3,,,,,,small,globose,,overlapping scales,,,
 Daemonorops brachystachys,Daemonorops,brachystachys,Calameae,Calamoideae,0,0,1,understorey,0,3,7.5,1,1,,3.6,3.6,1.8,2.5,,,2,,,small,globose,"reddish brown, dragons blood encrusted scales",overlapping scales,,,palmweb
 Daemonorops brevicaulis,Daemonorops,brevicaulis,Calameae,Calamoideae,0,1,0,understorey,,0,,,1,,,,,,,,,,,,,,,,,
-Daemonorops calapparia,Daemonorops,calapparia,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,1.72,,,1.80,,,small,,,overlapping scales,,,Kew herbaria
+Daemonorops calapparia,Daemonorops,calapparia,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,1.72,,,1.8,,,small,,,overlapping scales,,,Kew herbaria
 Daemonorops calicarpa,Daemonorops,calicarpa,Calameae,Calamoideae,0,1,0,understorey,0,0,,0,1,7,5,4,2.1,1.7,,,1.65,,,small,elongate,light brown scales,overlapping scales,,,palmweb
 Daemonorops clemensiana,Daemonorops,clemensiana,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Daemonorops collarifera,Daemonorops,collarifera,Calameae,Calamoideae,1,0,0,canopy,0,7,3.5,1,1,,2.5,2.5,0.55,1.675,1.35,2,1.675,1.35,2,small,ovoid,"pale brown, sometimes dark-edged scales",overlapping scales,,,palmweb
 Daemonorops confusa,Daemonorops,confusa,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,1.6,,,,,,overlapping scales,,,
-Daemonorops crinita,Daemonorops,crinita,Calameae,Calamoideae,1,0,0,canopy,0,20,0.8,1,1,,1.23,,0.22,1.4,1.7,,1.40,,,small,globose,red Smooth,overlapping scales,,,"palmweb, Kew herbaria"
+Daemonorops crinita,Daemonorops,crinita,Calameae,Calamoideae,1,0,0,canopy,0,20,0.8,1,1,,1.23,,0.22,1.4,1.7,,1.4,,,small,globose,red Smooth,overlapping scales,,,"palmweb, Kew herbaria"
 Daemonorops cristata,Daemonorops,cristata,Calameae,Calamoideae,1,0,0,canopy,0,10,3,1,1,,2.5,2.5,0.33,1.8,,,1.4,,,small,,yellowish brown scales,overlapping scales,,,palmweb
 Daemonorops curranii,Daemonorops,curranii,Calameae,Calamoideae,1,0,0,canopy,0,20,3.5,0,1,,3.5,3.5,0.55,1.3,1.2,,,,,small,globose,green to brown,overlapping scales,,,Kew herbaria
 Daemonorops depressiuscula,Daemonorops,depressiuscula,Calameae,Calamoideae,1,0,0,canopy,0,10,3.5,1,1,,2.8,2.8,0.45,1.23,0.95,1.5,1.35,1,1.7,small,ovoid,"yellowish, dull orange",overlapping scales,,,Kew herbaria
@@ -1128,7 +1128,7 @@ Daemonorops elongata,Daemonorops,elongata,Calameae,Calamoideae,2,0,2,canopy,0,15
 Daemonorops fissa,Daemonorops,fissa,Calameae,Calamoideae,1,0,0,canopy,0,30,3.5,1,1,,3.9,3.5,0.5,1.7,,,1.7,,,small,elongate,cinmon brown,overlapping scales,,,
 Daemonorops fissilis,Daemonorops,fissilis,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,,,,,,
 Daemonorops forbesii,Daemonorops,forbesii,Calameae,Calamoideae,1,0,0,canopy,0,6,2,1,1,,1.5,,0.28,1.85,,,1.8,,,small,ovoid,,overlapping scales,,,
-Daemonorops formicaria,Daemonorops,formicaria,Calameae,Calamoideae,1,0,0,canopy,2,20,2,1,1,,1.5,1.1,0.33,1.15,0.9,1.40,0.8,0.8,1.4,small,,pale brown scales,overlapping scales,,,palmweb
+Daemonorops formicaria,Daemonorops,formicaria,Calameae,Calamoideae,1,0,0,canopy,2,20,2,1,1,,1.5,1.1,0.33,1.15,0.9,1.4,0.8,0.8,1.4,small,,pale brown scales,overlapping scales,,,palmweb
 Daemonorops geniculata,Daemonorops,geniculata,Calameae,Calamoideae,1,0,0,canopy,2,20,4.5,0,1,,5,5,0.8,2.2,,,2.2,,,small,ovoid,yellowish brown,overlapping scales,,,
 Daemonorops gracilipes,Daemonorops,gracilipes,Calameae,Calamoideae,2,0,2,understorey,0,3,2.5,1,1,,2,,0.65,,,,,,,,ovoid,green with sparse dragon blood,overlapping scales,,,Kew herbaria
 Daemonorops gracilis,Daemonorops,gracilis,Calameae,Calamoideae,1,0,0,canopy,0,,1,1,1,,1.3,,0.45,0.65,,,,,,small,ovoid,,overlapping scales,,,
@@ -1163,18 +1163,18 @@ Daemonorops mollis,Daemonorops,mollis,Calameae,Calamoideae,1,0,0,canopy,0,10,4,1
 Daemonorops mollispina,Daemonorops,mollispina,Calameae,Calamoideae,1,0,0,canopy,0,8,5,0,1,,2,2,,1.5,,,1.5,,,small,,brown,overlapping scales,,,
 Daemonorops monticola,Daemonorops,monticola,Calameae,Calamoideae,1,0,0,canopy,0,5,4,0,1,,3,3,0.8,1.5,,,1.5,,,small,globose,reddish brown,overlapping scales,,,
 Daemonorops nigra,Daemonorops,nigra,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,,,overlapping scales,,,
-Daemonorops nuichuaensis,Daemonorops,nuichuaensis,Calameae,Calamoideae,0,1,0,understorey,,0,,,1,,,,,2,,,2.00,,,small,,reddish-brown,,,,palmweb
+Daemonorops nuichuaensis,Daemonorops,nuichuaensis,Calameae,Calamoideae,0,1,0,understorey,,0,,,1,,,,,2,,,2,,,small,,reddish-brown,,,,palmweb
 Daemonorops oblata,Daemonorops,oblata,Calameae,Calamoideae,1,0,0,canopy,0,10,2,1,1,,0.9,3,0.55,2,,,2.65,2.5,2.8,small,ovoid,"pale green to ivory when fresh, creamy yellow, straw-coloured on drying",overlapping scales,1,,Kew herbaria
 Daemonorops oblonga,Daemonorops,oblonga,Calameae,Calamoideae,1,0,0,canopy,0,12,4.5,0,1,,3.5,,0.59,2.1,,,0.8,,,small,ovoid,brown,overlapping scales,,,Kew herbaria
 Daemonorops ochrolepis,Daemonorops,ochrolepis,Calameae,Calamoideae,1,0,0,canopy,2,15,1.5,1,1,,2,,0.4,1.6,,,1.5,,,small,,young green,overlapping scales,,,Kew herbaria
 Daemonorops ocreata,Daemonorops,ocreata,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,,,,,,
-Daemonorops oligolepis,Daemonorops,oligolepis,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,2,,,1.70,,,small,globose,,overlapping scales,,,Kew herbaria
+Daemonorops oligolepis,Daemonorops,oligolepis,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,2,,,1.7,,,small,globose,,overlapping scales,,,Kew herbaria
 Daemonorops oligophylla,Daemonorops,oligophylla,Calameae,Calamoideae,1,0,0,canopy,0,,1.2,1,1,,0.9,0.9,,,,,,,,,,,overlapping scales,,,
 Daemonorops oxycarpa,Daemonorops,oxycarpa,Calameae,Calamoideae,1,0,0,canopy,0,15,3,1,1,,3,2.6,0.45,1.5,,,1,,,small,ovoid,pale brown to chestnut,"overlapping scales, rather convex",,,
 Daemonorops pachyrostris,Daemonorops,pachyrostris,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Daemonorops palembanica,Daemonorops,palembanica,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,globose,,overlapping scales,,,
-Daemonorops pannosa,Daemonorops,pannosa,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,1.45,,,1.20,,,small,ovoid,,overlapping scales,,,Kew herbaria
-Daemonorops pedicellaris,Daemonorops,pedicellaris,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,1.1,,,0.80,,,small,,,overlapping scales,,,Kew herbaria
+Daemonorops pannosa,Daemonorops,pannosa,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,1.45,,,1.2,,,small,ovoid,,overlapping scales,,,Kew herbaria
+Daemonorops pedicellaris,Daemonorops,pedicellaris,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,1.1,,,0.8,,,small,,,overlapping scales,,,Kew herbaria
 Daemonorops periacantha,Daemonorops,periacantha,Calameae,Calamoideae,1,0,0,canopy,2,10,8,1,1,,3,3,0.33,2.2,,,2.15,2,2.3,small,ovoid,pale straw-coloured to pale brown sometimes pink-tinged,overlapping scales,,,Kew herbaria
 Daemonorops plagiocycla,Daemonorops,plagiocycla,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,ovoid,,overlapping scales,,,
 Daemonorops poilanei,Daemonorops,poilanei,Calameae,Calamoideae,1,0,0,canopy,2,20,4,0,1,,3,3,0.65,2.5,,,2.5,,,small,globose,brown,overlapping scales,,,
@@ -1187,7 +1187,7 @@ Daemonorops rubra,Daemonorops,rubra,Calameae,Calamoideae,1,0,0,canopy,0,10,5,1,1
 Daemonorops ruptilis,Daemonorops,ruptilis,Calameae,Calamoideae,2,2,,canopy,0,10,3,1,1,,4,,,2.2,,,1.4,,,small,globose,pale brown,overlapping scales,,,
 Daemonorops sabut,Daemonorops,sabut,Calameae,Calamoideae,1,0,0,canopy,0,40,3,0,1,,3,3,0.55,1.6,,,1.2,,,small,globose,yellowish; yellowish beown,"overlapping scales, reflexed",,,
 Daemonorops sarasinorum,Daemonorops,sarasinorum,Calameae,Calamoideae,1,0,0,canopy,2,35,8,1,1,,4,4,,1.6,,,1,,,small,globose,pale straw coloured,overlapping scales,,,Kew herbaria
-Daemonorops scapigera,Daemonorops,scapigera,Calameae,Calamoideae,0,2,2,understorey,2,3.5,4,1,1,15,2,2,0.33,2.60,2.2,3,2.45,1.9,3,small,ovoid,"strawcoloured scales, marked with purplish-black at the tip or purplish-black throughout",overlapping scales,,,palmweb
+Daemonorops scapigera,Daemonorops,scapigera,Calameae,Calamoideae,0,2,2,understorey,2,3.5,4,1,1,15,2,2,0.33,2.6,2.2,3,2.45,1.9,3,small,ovoid,"strawcoloured scales, marked with purplish-black at the tip or purplish-black throughout",overlapping scales,,,palmweb
 Daemonorops schlechteri,Daemonorops,schlechteri,Calameae,Calamoideae,1,0,0,canopy,,,,,1,,,,,,,,,,,,globose,,overlapping scales,,,
 Daemonorops sekundurensis,Daemonorops,sekundurensis,Calameae,Calamoideae,1,0,0,both,0,2,,,1,,3,3,,1.5,,,1,,,small,globose,reddish brown dragon's blood encrusted scales,overlapping scales,,,palmweb
 Daemonorops sepal,Daemonorops,sepal,Calameae,Calamoideae,1,0,0,canopy,0,15,6,0,1,,3.7,3.4,0.33,3,,,2.75,2.5,3,small,globose,brown,overlapping scales,,,
@@ -1212,9 +1212,9 @@ Desmoncus giganteus,Desmoncus,giganteus,Cocoseae,Arecoideae,1,0,0,canopy,0,50,5,
 Desmoncus horridus,Desmoncus,horridus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.54,1.06,2.11,0.95,0.74,1.24,small,,,,,,
 Desmoncus interjectus,Desmoncus,interjectus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.42,1.35,1.51,1.07,0.98,1.23,small,,,,,,
 Desmoncus kunarius,Desmoncus,kunarius,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,2.51,2.39,2.74,2.17,2.01,2.41,small,,,,,,
-Desmoncus latisectus,Desmoncus,latisectus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.13,,,0.90,,,small,,,,,,
-Desmoncus leptoclonos,Desmoncus,leptoclonos,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.23,1.09,1.39,0.80,0.7,0.94,small,,,,,,
-Desmoncus loretanus,Desmoncus,loretanus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.30,1.05,1.59,0.80,0.7,0.96,small,,,,,,
+Desmoncus latisectus,Desmoncus,latisectus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.13,,,0.9,,,small,,,,,,
+Desmoncus leptoclonos,Desmoncus,leptoclonos,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.23,1.09,1.39,0.8,0.7,0.94,small,,,,,,
+Desmoncus loretanus,Desmoncus,loretanus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.3,1.05,1.59,0.8,0.7,0.96,small,,,,,,
 Desmoncus madrensis,Desmoncus,madrensis,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.04,0.93,1.14,0.68,0.61,0.72,small,,,,,,
 Desmoncus mitis,Desmoncus,mitis,Cocoseae,Arecoideae,1,0,0,canopy,2,10,1.1,0,1,30,0.94,0.8,0.16,1.23,0.89,1.57,0.7,0.55,1.09,small,,bright red or yellowish-green,,,,
 Desmoncus moorei,Desmoncus,moorei,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.26,1.11,1.43,1.14,1.02,1.3,small,,,,,,
@@ -1225,7 +1225,7 @@ Desmoncus osensis,Desmoncus,osensis,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,
 Desmoncus parvulus,Desmoncus,parvulus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.11,0.89,1.43,0.94,0.71,1.12,small,,,,,,
 Desmoncus polyacanthos,Desmoncus,polyacanthos,Cocoseae,Arecoideae,1,0,0,canopy,2,37,3.5,0,1,25,1.91,1.73,0.2,1.69,1.12,2.35,1.19,0.79,1.79,small,,orange or red,,,,
 Desmoncus prunifer,Desmoncus,prunifer,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,,,,,,,,,,,,,
-Desmoncus pumilus,Desmoncus,pumilus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.00,0.82,1.16,0.67,0.5,0.85,small,,,,,,
+Desmoncus pumilus,Desmoncus,pumilus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1,0.82,1.16,0.67,0.5,0.85,small,,,,,,
 Desmoncus setosus,Desmoncus,setosus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,1.19,1.12,1.28,0.75,0.61,0.85,small,,,,,,
 Desmoncus stans,Desmoncus,stans,Cocoseae,Arecoideae,1,0,0,both,0,2.5,1,0,1,7,0.405,0.28,0.15,1.33,1.28,1.37,1.08,0.95,1.11,small,,orange,,,,Kew herbaria
 Desmoncus vacivus,Desmoncus,vacivus,Cocoseae,Arecoideae,1,0,0,canopy,,,,0,1,,,,,2.09,1.84,2.39,1.33,1.1,1.53,small,,,,,,
@@ -1245,19 +1245,19 @@ Dypsis ambilaensis,Dypsis,ambilaensis,Areceae,Arecoideae,0,0,1,understorey,0,3,0
 Dypsis ambositrae,Dypsis,ambositrae,Areceae,Arecoideae,0,0,1,canopy,2,7,12,0,0,11,3.1,2.8,0.33,1.4,,,1.28,1.05,1.5,small,ovoid,,,,,Kew herbaria
 Dypsis andapae,Dypsis,andapae,Areceae,Arecoideae,0,0,1,understorey,0,1.2,1.2,0,0,10,0.48,0.22,0.29,1.2,1.1,1.3,0.725,0.7,0.75,small,ovoid,orange,,,,
 Dypsis andilamenensis,Dypsis,andilamenensis,Areceae,Arecoideae,1,0,0,canopy,,,,0,0,,,,,0.8,0.72,0.88,0.45,0.38,0.51,small,,"yellowish, fleshy mesocarp",,,,palmweb
-Dypsis andrianatonga,Dypsis,andrianatonga,Areceae,Arecoideae,0,0,1,canopy,0,9,2.5,0,0,5,1.6,1.28,0.35,1.45,0.9,2,1.10,0.7,1.5,small,ovoid,green,,,,Kew herbaria
+Dypsis andrianatonga,Dypsis,andrianatonga,Areceae,Arecoideae,0,0,1,canopy,0,9,2.5,0,0,5,1.6,1.28,0.35,1.45,0.9,2,1.1,0.7,1.5,small,ovoid,green,,,,Kew herbaria
 Dypsis angusta,Dypsis,angusta,Areceae,Arecoideae,0,0,1,understorey,0,2,1,0,0,6,0.42,0.3,0.14,,,,,,,,,,,,,
-Dypsis angustifolia,Dypsis,angustifolia,Areceae,Arecoideae,0,0,1,understorey,0,1,1,0,0,7,0.73,0.5,0.25,1.4,,,0.70,,,small,globose,,,,,Kew herbaria
+Dypsis angustifolia,Dypsis,angustifolia,Areceae,Arecoideae,0,0,1,understorey,0,1,1,0,0,7,0.73,0.5,0.25,1.4,,,0.7,,,small,globose,,,,,Kew herbaria
 Dypsis anjae,Dypsis,anjae,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,0.535,0.52,0.55,0.22,0.21,0.22,small,,red,,,,palmweb
 Dypsis ankaizinensis,Dypsis,ankaizinensis,Areceae,Arecoideae,0,0,1,canopy,1,15,40,0,0,,,,,1.5,1.3,1.7,1.025,0.85,1.2,small,,,,,,
-Dypsis ankirindro,Dypsis,ankirindro,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1,,,0.60,,,small,,,,,,Kew herbaria
+Dypsis ankirindro,Dypsis,ankirindro,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1,,,0.6,,,small,,,,,,Kew herbaria
 Dypsis antanambensis,Dypsis,antanambensis,Areceae,Arecoideae,0,0,1,understorey,0,4,12,0,0,12,3.16,2.5,0.71,2,1.5,2.5,2,1.2,1.8,small,ovoid,,,,,
 Dypsis aquatilis,Dypsis,aquatilis,Areceae,Arecoideae,0,1,0,understorey,1,0,,0,0,11,0.485,0.24,0.28,,,,,,,,globose,,,,,
 Dypsis arenarum,Dypsis,arenarum,Areceae,Arecoideae,0,0,1,canopy,0,6,6.5,0,0,10,2.42,1.7,0.77,1.1,1,1.2,1,0.8,1.2,small,,,,,,palmweb
 Dypsis baronii,Dypsis,baronii,Areceae,Arecoideae,0,0,1,canopy,0,8,12,0,0,8,1.73,1.2,0.58,1.5,1,2,1.2,0.8,1.6,small,,yellow,,,,
 Dypsis basilonga,Dypsis,basilonga,Areceae,Arecoideae,0,0,1,understorey,1,5,15,0,0,7,1.16,1,0.18,2,,,0.95,0.9,1,small,ovoid,,,,,
-Dypsis beentjei,Dypsis,beentjei,Areceae,Arecoideae,0,1,0,understorey,0,0.04,1.4,0,0,9,1.15,0.6,0.6,1.8,1.7,1.9,1.00,,,small,ovoid,scarlet,,,,palmweb
-Dypsis bejofo,Dypsis,bejofo,Areceae,Arecoideae,0,0,1,canopy,1,25,40,0,0,10,6.34,6,0.39,2.50,2,3,2.15,1.8,2.5,small,globose,green,,,,Kew herbaria
+Dypsis beentjei,Dypsis,beentjei,Areceae,Arecoideae,0,1,0,understorey,0,0.04,1.4,0,0,9,1.15,0.6,0.6,1.8,1.7,1.9,1,,,small,ovoid,scarlet,,,,palmweb
+Dypsis bejofo,Dypsis,bejofo,Areceae,Arecoideae,0,0,1,canopy,1,25,40,0,0,10,6.34,6,0.39,2.5,2,3,2.15,1.8,2.5,small,globose,green,,,,Kew herbaria
 Dypsis bernieriana,Dypsis,bernieriana,Areceae,Arecoideae,0,0,1,understorey,1,1,0.8,0,0,,0.26,0.08,0.2,0.95,0.6,1.3,0.45,0.4,0.5,small,ovoid,red,,,,
 Dypsis betamponensis,Dypsis,betamponensis,Areceae,Arecoideae,0,0,1,understorey,0,4,,0,0,,0.67,0.21,0.51,1.5,,,,,,small,,,,,,Kew herbaria
 Dypsis betsimisarakae,Dypsis,betsimisarakae,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,0.9,0.7,1.1,0.45,0.4,0.5,small,,red,,,,palmweb
@@ -1283,7 +1283,7 @@ Dypsis coursii,Dypsis,coursii,Areceae,Arecoideae,0,0,1,canopy,1,8,18,0,0,4,1.27,
 Dypsis crinita,Dypsis,crinita,Areceae,Arecoideae,0,0,1,canopy,0,15,20,0,0,15,4,3,,2.2,2,2.4,1.75,1.7,1.8,small,globose,green turning purple-black,,,,
 Dypsis culminis,Dypsis,culminis,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
 Dypsis curtisii,Dypsis,curtisii,Areceae,Arecoideae,0,0,1,understorey,1,3.5,0.9,0,0,,0.79,0.39,0.45,,,,,,,,,,,,,
-Dypsis decaryi,Dypsis,decaryi,Areceae,Arecoideae,0,0,1,canopy,1,7,40,0,0,24,3.5,3,0.55,1.85,1.5,2.2,1.60,1.2,2,small,globose,green,,,,Kew herbaria
+Dypsis decaryi,Dypsis,decaryi,Areceae,Arecoideae,0,0,1,canopy,1,7,40,0,0,24,3.5,3,0.55,1.85,1.5,2.2,1.6,1.2,2,small,globose,green,,,,Kew herbaria
 Dypsis decipiens,Dypsis,decipiens,Areceae,Arecoideae,0,0,1,canopy,2,20,40,0,0,12,2.45,2.2,0.28,2.35,2.2,2.5,2.1,2,2.2,small,,,,,,
 Dypsis delicatula,Dypsis,delicatula,Areceae,Arecoideae,0,0,1,understorey,0,1.1,1,0,0,19,0.166,0.14,0.05,,,,,,,,globose,,,,,
 Dypsis digitata,Dypsis,digitata,Areceae,Arecoideae,0,0,1,understorey,2,0.4,1.5,0,0,13,0.41,0.11,0.33,1.2,1.1,1.3,0.65,0.5,0.8,small,,red,,,,
@@ -1292,23 +1292,23 @@ Dypsis dransfieldii,Dypsis,dransfieldii,Areceae,Arecoideae,0,0,1,canopy,0,8,8,0,
 Dypsis elegans,Dypsis,elegans,Areceae,Arecoideae,0,0,1,understorey,2,2,2,0,0,6,0.68,0.68,,,,,,,,,ovoid,,,,,
 Dypsis eriostachys,Dypsis,eriostachys,Areceae,Arecoideae,0,0,1,understorey,1,1.5,0.9,0,0,10,0.28,0.25,0.05,1.6,,,0.6,,,small,ovoid,red at base turning yellow/green,,,,Kew herbaria
 Dypsis faneva,Dypsis,faneva,Areceae,Arecoideae,0,0,1,canopy,0,6,5,0,0,9,1.04,0.94,0.12,,,,,,,,globose,,,,,
-Dypsis fanjana,Dypsis,fanjana,Areceae,Arecoideae,0,0,1,understorey,0,5,1.5,0,0,11,0.62,0.24,0.45,0.8,,,0.20,,,small,globose,,,,,Kew herbaria
+Dypsis fanjana,Dypsis,fanjana,Areceae,Arecoideae,0,0,1,understorey,0,5,1.5,0,0,11,0.62,0.24,0.45,0.8,,,0.2,,,small,globose,,,,,Kew herbaria
 Dypsis fasciculata,Dypsis,fasciculata,Areceae,Arecoideae,0,0,1,canopy,2,6,4,0,0,8,1.25,0.9,0.4,1.4,,,0.75,,,small,ovoid,green?,,,,
 Dypsis fibrosa,Dypsis,fibrosa,Areceae,Arecoideae,0,0,1,canopy,2,9,18,0,0,15,4,3,,2.5,2,3,2.15,1.8,2.5,small,globose,"green to black, eaten by forest boar",,,,Kew herbaria
 Dypsis forficifolia,Dypsis,forficifolia,Areceae,Arecoideae,0,0,1,understorey,2,4,1,0,0,8,0.44,0.32,0.14,1.5,,,0.9,,,small,ovoid,red turning black,,1,,
-Dypsis furcata,Dypsis,furcata,Areceae,Arecoideae,0,0,1,understorey,0,2,0.7,0,0,5,,,,1,,,0.40,,,small,elongate,green when young,,,,Kew herbaria
+Dypsis furcata,Dypsis,furcata,Areceae,Arecoideae,0,0,1,understorey,0,2,0.7,0,0,5,,,,1,,,0.4,,,small,elongate,green when young,,,,Kew herbaria
 Dypsis gautieri,Dypsis,gautieri,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
-Dypsis glabrescens,Dypsis,glabrescens,Areceae,Arecoideae,0,0,1,understorey,2,2,1,0,0,6,0.31,0.19,0.14,1.65,1.3,2.00,1.05,1,1.1,small,,cherry-red,,,,Kew herbaria
+Dypsis glabrescens,Dypsis,glabrescens,Areceae,Arecoideae,0,0,1,understorey,2,2,1,0,0,6,0.31,0.19,0.14,1.65,1.3,2,1.05,1,1.1,small,,cherry-red,,,,Kew herbaria
 Dypsis gronophyllum,Dypsis,gronophyllum,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
 Dypsis henrici,Dypsis,henrici,Areceae,Arecoideae,0,0,1,understorey,,3,,0,0,,0.24,0.18,0.08,0.9,,,0.35,,,small,globose,green to red,,,,Kew herbaria
 Dypsis heteromorpha,Dypsis,heteromorpha,Areceae,Arecoideae,0,0,1,canopy,2,12,12,0,0,10,1.85,1.5,0.4,2,1.7,2.3,1.8,1.4,2.2,small,,,,,,
 Dypsis heterophylla,Dypsis,heterophylla,Areceae,Arecoideae,0,0,1,understorey,0,2.5,0.8,0,0,9,0.4,0.28,0.14,0.565,0.5,0.63,0.45,0.4,0.5,small,ovoid,yellow turning orange and then red,,1,,
 Dypsis hiarakae,Dypsis,hiarakae,Areceae,Arecoideae,0,0,1,canopy,1,6,2.5,0,0,9,0.84,0.67,0.19,0.95,0.9,1,0.48,0.45,0.5,small,globose,red,,,,palmweb
 Dypsis hildebrandtii,Dypsis,hildebrandtii,Areceae,Arecoideae,0,0,1,understorey,2,2,1.3,0,0,10,0.35,0.3,0.07,1,,,0.55,,,small,,red,,,,
-Dypsis hovomantsina,Dypsis,hovomantsina,Areceae,Arecoideae,0,0,1,canopy,1,15,30,0,0,7,4.06,3.5,0.61,1,,,0.50,,,small,ovoid,pale green,,,,Kew herbaria
-Dypsis humbertii,Dypsis,humbertii,Areceae,Arecoideae,0,0,1,understorey,1,3,0.8,0,0,8,0.35,0.18,0.19,1.1,,,0.30,,,small,ovoid,green to red,,,,Kew herbaria
+Dypsis hovomantsina,Dypsis,hovomantsina,Areceae,Arecoideae,0,0,1,canopy,1,15,30,0,0,7,4.06,3.5,0.61,1,,,0.5,,,small,ovoid,pale green,,,,Kew herbaria
+Dypsis humbertii,Dypsis,humbertii,Areceae,Arecoideae,0,0,1,understorey,1,3,0.8,0,0,8,0.35,0.18,0.19,1.1,,,0.3,,,small,ovoid,green to red,,,,Kew herbaria
 Dypsis humblotiana,Dypsis,humblotiana,Areceae,Arecoideae,0,0,1,canopy,,15,15,0,0,,,,,,,,,,,,globose,,,,,
-Dypsis humilis,Dypsis,humilis,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.8,,,0.30,,,small,,,,,,"palmweb, iimmature"
+Dypsis humilis,Dypsis,humilis,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.8,,,0.3,,,small,,,,,,"palmweb, iimmature"
 Dypsis ifanadianae,Dypsis,ifanadianae,Areceae,Arecoideae,0,0,1,canopy,1,24,18,0,0,7,3.3,3,0.33,0.8,,,0.85,0.7,1,small,globose,,,,,
 Dypsis integra,Dypsis,integra,Areceae,Arecoideae,0,0,1,understorey,0,2,0.9,0,0,10,0.33,0.31,0.04,,,,,,,,ovoid,,,,,
 Dypsis intermedia,Dypsis,intermedia,Areceae,Arecoideae,0,0,1,canopy,0,10,3,0,0,8,0.37,0.37,,,,,,,,,ovoid,,,,,
@@ -1319,7 +1319,7 @@ Dypsis laevis,Dypsis,laevis,Areceae,Arecoideae,0,0,1,understorey,1,3,1.5,0,0,9,0
 Dypsis lanceolata,Dypsis,lanceolata,Areceae,Arecoideae,0,0,1,canopy,0,6,,0,0,,1.91,1.9,,1.5,1.3,1.7,0.8,0.6,1,small,,green?,,,,Kew herbaria
 Dypsis lantzeana,Dypsis,lantzeana,Areceae,Arecoideae,0,0,1,understorey,2,4,2,0,0,15,0.57,0.47,0.12,1,,,0.7,,,small,globose,cherry-red ripening dark purple,,1,,
 Dypsis lanuginosa,Dypsis,lanuginosa,Areceae,Arecoideae,0,0,1,understorey,0,4,1.3,0,0,,0.44,0.44,,,,,,,,,globose,,,,,
-Dypsis lastelliana,Dypsis,lastelliana,Areceae,Arecoideae,0,0,1,canopy,1,15,25,0,0,15,3.9,3.8,0.12,2.1,1.8,2.4,1.50,1.2,1.7,small,,green?,,,,Kew herbaria
+Dypsis lastelliana,Dypsis,lastelliana,Areceae,Arecoideae,0,0,1,canopy,1,15,25,0,0,15,3.9,3.8,0.12,2.1,1.8,2.4,1.5,1.2,1.7,small,,green?,,,,Kew herbaria
 Dypsis leptocheilos,Dypsis,leptocheilos,Areceae,Arecoideae,0,0,1,canopy,1,10,25,0,0,15,4.17,4,0.19,1.1,,,1.1,1,1.2,small,globose,dark brown,,,,
 Dypsis ligulata,Dypsis,ligulata,Areceae,Arecoideae,0,0,1,canopy,1,6,20,0,0,,,,,1.4,1.2,1.6,0.775,0.7,0.85,small,globose,yellowish,,,,
 Dypsis linearis,Dypsis,linearis,Areceae,Arecoideae,0,0,1,canopy,0,7,4,0,0,8,0.85,0.7,0.17,0.75,0.6,0.9,0.5,0.4,0.6,small,globose,yellow to red,,,,
@@ -1337,13 +1337,13 @@ Dypsis mangorensis,Dypsis,mangorensis,Areceae,Arecoideae,0,0,1,canopy,0,6,3,0,0,
 Dypsis marojejyi,Dypsis,marojejyi,Areceae,Arecoideae,0,0,1,canopy,1,6,1,0,0,20,4.1,1.4,0.12,2.35,2.2,2.5,1.6,1.4,1.8,small,ovoid,pale yellow-green,,,,
 Dypsis mcdonaldiana,Dypsis,mcdonaldiana,Areceae,Arecoideae,0,0,1,understorey,0,5,3,0,0,10,1,0.9,0.12,0.75,0.6,0.9,0.35,0.3,0.4,small,ovoid,red,,,,
 Dypsis metallica,Dypsis,metallica,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
-Dypsis minuta,Dypsis,minuta,Areceae,Arecoideae,0,0,1,understorey,1,0.5,0.5,0,0,8,0.33,0.06,0.3,1.45,1.4,1.5,0.40,0.3,0.5,small,globose,red,,,,Kew herbaria
+Dypsis minuta,Dypsis,minuta,Areceae,Arecoideae,0,0,1,understorey,1,0.5,0.5,0,0,8,0.33,0.06,0.3,1.45,1.4,1.5,0.4,0.3,0.5,small,globose,red,,,,Kew herbaria
 Dypsis mirabilis,Dypsis,mirabilis,Areceae,Arecoideae,0,0,1,understorey,1,2.5,1.5,0,0,7,0.96,0.85,0.13,0.95,1.2,0.7,0.7,,,small,,green,,,,
 Dypsis mocquerysiana,Dypsis,mocquerysiana,Areceae,Arecoideae,0,0,1,understorey,2,2,0.9,0,0,8,0.25,0.19,0.08,1.3,,,0.55,,,small,elongate,bright red,,,,
 Dypsis monostachya,Dypsis,monostachya,Areceae,Arecoideae,0,0,1,understorey,0,1,0.7,0,0,5,0.28,0.28,,,,,,,,,globose,,,,,
 Dypsis montana,Dypsis,montana,Areceae,Arecoideae,0,0,1,understorey,0,1,0.4,0,0,5,0.32,0.27,0.07,,,,,,,,ovoid,,,,,
 Dypsis moorei,Dypsis,moorei,Areceae,Arecoideae,0,0,1,understorey,1,1,,0,0,,1.4,1.4,,2.5,,,2.2,,,small,,,,,Fruit: +/- spherical to 25 x 22 x 22,
-Dypsis nauseosa,Dypsis,nauseosa,Areceae,Arecoideae,0,0,1,canopy,1,15,25,0,0,13,3.9,3.9,,1.55,,,1.30,,,small,,,,,,Kew herbaria
+Dypsis nauseosa,Dypsis,nauseosa,Areceae,Arecoideae,0,0,1,canopy,1,15,25,0,0,13,3.9,3.9,,1.55,,,1.3,,,small,,,,,,Kew herbaria
 Dypsis nodifera,Dypsis,nodifera,Areceae,Arecoideae,0,0,1,canopy,2,10,6,0,0,12,1.03,0.75,0.31,0.9,0.8,1,0.65,0.5,0.8,small,ovoid,green,,,,
 Dypsis nossibensis,Dypsis,nossibensis,Areceae,Arecoideae,0,0,1,canopy,1,10,15,0,0,18,2.8,2.41,0.44,1.3,,,1.1,,,small,globose,,,,,
 Dypsis occidentalis,Dypsis,occidentalis,Areceae,Arecoideae,0,0,1,understorey,0,2,0.8,0,0,8,0.4,0.4,,0.95,0.9,1,0.45,0.4,0.5,small,ovoid,reddish-orange,,,,
@@ -1382,10 +1382,10 @@ Dypsis scandens,Dypsis,scandens,Areceae,Arecoideae,1,0,0,canopy,0,10,1.2,0,0,15,
 Dypsis schatzii,Dypsis,schatzii,Areceae,Arecoideae,0,0,1,understorey,2,3,1,0,0,13,0.32,0.22,0.12,1.35,1.3,1.4,0.5,0.4,0.6,small,,pinkish red,,,,
 Dypsis scottiana,Dypsis,scottiana,Areceae,Arecoideae,0,0,1,understorey,0,4,2,0,0,7,0.96,0.66,0.33,0.85,0.6,1.1,0.5,0.35,0.65,small,,red,,,,
 Dypsis serpentina,Dypsis,serpentina,Areceae,Arecoideae,0,0,1,canopy,2,6,4,0,0,6,1.95,1.2,0.8,1.3,1.2,1.4,0.95,0.9,1,small,globose,purplish-tinged,,,,
-Dypsis simianensis,Dypsis,simianensis,Areceae,Arecoideae,0,0,1,understorey,0,2,1,0,0,15,0.35,0.29,0.08,1.5,,,0.50,,,small,globose,red,,,,Kew herbaria
+Dypsis simianensis,Dypsis,simianensis,Areceae,Arecoideae,0,0,1,understorey,0,2,1,0,0,15,0.35,0.29,0.08,1.5,,,0.5,,,small,globose,red,,,,Kew herbaria
 Dypsis singularis,Dypsis,singularis,Areceae,Arecoideae,0,0,1,canopy,1,6,1,0,0,6,0.605,0.59,0.04,,,,,,,,globose,green?,,,,Kew herbaria
 Dypsis soanieranae,Dypsis,soanieranae,Areceae,Arecoideae,0,0,1,understorey,1,5,1.5,0,0,,0.95,0.95,,,,,,,,,globose,,,,,
-Dypsis spicata,Dypsis,spicata,Areceae,Arecoideae,0,0,1,understorey,1,1,0.7,0,0,8,0.185,0.15,0.06,0.95,0.7,1.2,0.70,,,small,globose,cherry-red,,,,palmweb
+Dypsis spicata,Dypsis,spicata,Areceae,Arecoideae,0,0,1,understorey,1,1,0.7,0,0,8,0.185,0.15,0.06,0.95,0.7,1.2,0.7,,,small,globose,cherry-red,,,,palmweb
 Dypsis tanalensis,Dypsis,tanalensis,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.15,0.9,1.4,0.625,0.55,0.7,small,,,,,,
 Dypsis tenuissima,Dypsis,tenuissima,Areceae,Arecoideae,0,0,1,understorey,0,0.5,0.4,0,0,11,0.6,0.19,0.46,0.975,0.95,1,0.525,0.5,0.55,small,globose,green to white,,,,Kew herbaria
 Dypsis thermarum,Dypsis,thermarum,Areceae,Arecoideae,0,0,1,understorey,2,2,0.9,0,0,6,0.28,0.14,0.16,1.1,,,0.4,,,small,ovoid,orange,,,,
@@ -1398,7 +1398,7 @@ Dypsis tsaravoasira,Dypsis,tsaravoasira,Areceae,Arecoideae,0,0,1,canopy,1,25,40,
 Dypsis turkii,Dypsis,turkii,Areceae,Arecoideae,0,0,1,understorey,1,1,1.5,0,0,9,0.65,0.26,0.44,1.4,,,0.8,,,small,globose,bright red,,,,palmweb
 Dypsis utilis,Dypsis,utilis,Areceae,Arecoideae,0,0,1,canopy,2,17,37,0,0,15,4.3,3.8,0.55,2.25,1.7,2.8,1.7,1.4,2,small,ovoid,dull green turning purplish brown or black,,1,,
 Dypsis viridis,Dypsis,viridis,Areceae,Arecoideae,0,0,1,understorey,0,1.5,0.8,0,0,7,0.18,0.11,0.09,1,,,0.5,,,small,ovoid,cherry-red,,,,
-Dypsis vonitrandambo,Dypsis,vonitrandambo,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,0.6,,,0.50,,,small,,black,,,,"young, palmweb"
+Dypsis vonitrandambo,Dypsis,vonitrandambo,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,0.6,,,0.5,,,small,,black,,,,"young, palmweb"
 Elaeis guineensis,Elaeis,guineensis,Cocoseae,Arecoideae,0,0,1,canopy,1,30,50,0,1,50,7.5,7.5,,4.25,3,5.5,2.5,2,3,large,,bright orange with dark red upper partsglossy red to black,,,,
 Elaeis oleifera,Elaeis,oleifera,Cocoseae,Arecoideae,0,0,1,canopy,1,6,40,0,1,40,11.3,8.3,2.75,2.75,2.5,3,1.9,1.8,2,small,globose,"orange, orange-yellow or red",,,,
 Eleiodoxa conferta,Eleiodoxa,conferta,Calameae,Calamoideae,0,1,0,understorey,0,0,2.5,0,1,8,8,4,1.55,2.5,,,2.5,,,small,ovoid,reddish brown,numerous scales,,,
@@ -1473,7 +1473,7 @@ Geonoma mooreana,Geonoma,mooreana,Geonomateae,Arecoideae,0,0,1,understorey,0,2.4
 Geonoma multisecta,Geonoma,multisecta,Geonomateae,Arecoideae,0,0,1,understorey,1,2.3,,0,0,16,,0.94,0.77,1.12,0.96,1.32,0.74,0.62,0.79,small,,,,,,
 Geonoma occidentalis,Geonoma,occidentalis,Geonomateae,Arecoideae,0,1,0,understorey,2,3,1.7,0,0,18,,0.575,0.55,0.74,0.62,0.85,0.59,0.54,0.66,small,,black,,,,Kew herbaria
 Geonoma oldemanii,Geonoma,oldemanii,Geonomateae,Arecoideae,0,0,1,understorey,0,2.5,2.4,0,0,19,1.67,1.49,,1.62,1.44,1.77,1.37,1.24,1.63,small,,,,,,
-Geonoma oligoclona,Geonoma,oligoclona,Geonomateae,Arecoideae,0,0,1,understorey,0,2.5,5,0,0,10,0.37,0.37,,0.6625,0.595,0.73,0.60,0.57,0.64,small,globose,black,,,,
+Geonoma oligoclona,Geonoma,oligoclona,Geonomateae,Arecoideae,0,0,1,understorey,0,2.5,5,0,0,10,0.37,0.37,,0.6625,0.595,0.73,0.6,0.57,0.64,small,globose,black,,,,
 Geonoma operculata,Geonoma,operculata,Geonomateae,Arecoideae,0,0,1,,,,,0,0,,,0.23,,0.75,,,0.58,,,small,,,,,,
 Geonoma orbignyana,Geonoma,orbignyana,Geonomateae,Arecoideae,0,0,1,understorey,2,4,6,0,0,20,1.66,0.76,,0.7,0.6,0.8,0.69,0.51,1.29,small,elongate,black,,,,Kew herbaria
 Geonoma paradoxa,Geonoma,paradoxa,Geonomateae,Arecoideae,0,1,0,understorey,1,0.3,2,0,0,10,0.98,0.35,,0.79,0.5,0.97,0.56,0.53,0.6,small,ovoid,green maturing black,,1,,
@@ -1482,7 +1482,7 @@ Geonoma peruviana,Geonoma,peruviana,Geonomateae,Arecoideae,0,0,1,,,,1.2,0,0,,,,,
 Geonoma pinnatifrons,Geonoma,pinnatifrons,Geonomateae,Arecoideae,0,0,1,canopy,2,6,3.2,0,0,23,,1.63,1.25,0.65,0.36,0.93,0.48,0.35,0.7,small,,black,,,,Kew herbaria
 Geonoma poeppigiana,Geonoma,poeppigiana,Geonomateae,Arecoideae,0,0,1,understorey,1,4,5,0,0,16,1.2,1,,0.72,0.64,0.84,0.63,0.46,0.8,small,globose,dark brown to black,,,,
 Geonoma pohliana,Geonoma,pohliana,Geonomateae,Arecoideae,0,0,1,canopy,2,7.5,7,0,0,19,1.675,0.78,,1.06,0.55,1.32,0.735,0.47,1,small,,"wine-colored, black at maturity",,1,,
-Geonoma poiteauana,Geonoma,poiteauana,Geonomateae,Arecoideae,0,0,1,understorey,,0.1,2.1,0,0,,,0.795,0.267,0.90,0.79,1,0.72,0.64,0.8,small,,black-purple,,,,Kew herbaria
+Geonoma poiteauana,Geonoma,poiteauana,Geonomateae,Arecoideae,0,0,1,understorey,,0.1,2.1,0,0,,,0.795,0.267,0.9,0.79,1,0.72,0.64,0.8,small,,black-purple,,,,Kew herbaria
 Geonoma sanmartinensis,Geonoma,sanmartinensis,Geonomateae,Arecoideae,0,0,1,,,,,0,0,,,0.41,,,,,,,,,,,,,,
 Geonoma santanderensis,Geonoma,santanderensis,Geonomateae,Arecoideae,0,0,1,understorey,0,1.5,1,0,0,12,0.25,0.25,,0.85,0.8,0.99,0.6,0.46,0.72,small,,black,striatal-warty,,,
 Geonoma schizocarpa,Geonoma,schizocarpa,Geonomateae,Arecoideae,0,0,1,,,,2.8,0,0,,,0.92,,1.4,1.23,1.55,0.89,0.86,0.93,small,,,,,,
@@ -1494,7 +1494,7 @@ Geonoma stricta,Geonoma,stricta,Geonomateae,Arecoideae,0,0,1,understorey,2,5,5,0
 Geonoma talamancana,Geonoma,talamancana,Geonomateae,Arecoideae,0,0,1,understorey,2,1.3,1.3,0,0,10,0.57,0.57,,0.73,0.63,0.83,0.52,0.45,0.58,small,,black,,,,Kew herbaria
 Geonoma tenuissima,Geonoma,tenuissima,Geonomateae,Arecoideae,0,0,1,understorey,0,4,1,0,0,8,0.5,0.34,,0.53,0.46,0.6,0.48,0.41,0.55,small,globose,green; blue,,,,
 Geonoma triandra,Geonoma,triandra,Geonomateae,Arecoideae,0,0,1,understorey,0,3,1,0,0,8,0.527,0.38,,0.69,0.6,0.74,0.55,0.48,0.61,small,ovoid,black to blue-blackish,minutely warty,,,
-Geonoma triglochin,Geonoma,triglochin,Geonomateae,Arecoideae,0,0,1,canopy,1,8,5,0,0,25,2.1,1.6,,1.30,1,1.6,1.05,0.76,1.27,small,globose,purple or black,,,,
+Geonoma triglochin,Geonoma,triglochin,Geonomateae,Arecoideae,0,0,1,canopy,1,8,5,0,0,25,2.1,1.6,,1.3,1,1.6,1.05,0.76,1.27,small,globose,purple or black,,,,
 Geonoma trigona,Geonoma,trigona,Geonomateae,Arecoideae,0,0,1,understorey,1,3,3,0,0,7,0.41,0.32,,0.9,,,0.65,,,small,ovoid,,,,,
 Geonoma umbraculiformis,Geonoma,umbraculiformis,Geonomateae,Arecoideae,0,0,1,understorey,1,2,2.5,0,0,27,1.5,1.2,,1.26,1.2,1.3,1.03,0.97,1.1,small,ovoid,,,,,
 Geonoma undata,Geonoma,undata,Geonomateae,Arecoideae,0,0,1,canopy,1,15,10,0,0,20,3.79,2.65,,0.95,0.44,1.54,0.69,0.38,1.2,small,globose,bluish black,,,,
@@ -1507,7 +1507,7 @@ Hemithrinax ekmaniana,Hemithrinax,ekmaniana,Cryosophileae,Coryphoideae,0,0,1,,1,
 Hemithrinax rivularis,Hemithrinax,rivularis,Cryosophileae,Coryphoideae,0,0,1,,1,,,0,0,,1.73,1.4,,,,,,,,,ovoid,white,,,,palmpedia
 Heterospathe annectens,Heterospathe,annectens,Areceae,Arecoideae,0,0,1,canopy,1,12,,0,0,,1,1,,1.8,,,1.25,,,small,,red,,,,
 Heterospathe arfakiana,Heterospathe,arfakiana,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,globose,,,,,
-Heterospathe barfodii,Heterospathe,barfodii,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1,,,1.00,,,small,,red,,,,palmweb
+Heterospathe barfodii,Heterospathe,barfodii,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1,,,1,,,small,,red,,,,palmweb
 Heterospathe brevicaulis,Heterospathe,brevicaulis,Areceae,Arecoideae,0,0,1,understorey,1,0.5,8,0,0,8,2,1.9,0.97,0.8,,,0.6,,,small,,ripening yellow - red,,1,,
 Heterospathe cagayanensis,Heterospathe,cagayanensis,Areceae,Arecoideae,0,0,1,canopy,0,6.5,10,0,0,,2.6,,0.58,0.8,,,0.6,,,small,,white turning orange-red,,,,Kew herbaria
 Heterospathe califrons,Heterospathe,califrons,Areceae,Arecoideae,0,0,1,understorey,1,1.5,6,0,0,13,2,1.15,,1.6,,,0.7,,,small,,ripening yellow - red,,1,,
@@ -1534,7 +1534,7 @@ Heterospathe parviflora,Heterospathe,parviflora,Areceae,Arecoideae,0,0,1,,1,,15,
 Heterospathe philippinensis,Heterospathe,philippinensis,Areceae,Arecoideae,0,0,1,understorey,2,5,3.5,0,0,,1.1,,0.5,1,,,0.7,,,small,elongate,bright yellow turning red,,,,Kew herbaria
 Heterospathe phillipsii,Heterospathe,phillipsii,Areceae,Arecoideae,0,0,1,canopy,1,15,20,0,0,12,5,4.5,0.55,1.3,,,0.7,,,small,ovoid,red,"smoth, drying pebbled",,,
 Heterospathe pilosa,Heterospathe,pilosa,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,ovoid,,,,,
-Heterospathe porcata,Heterospathe,porcata,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,2,,,0.90,,,small,,red,,,,palmweb
+Heterospathe porcata,Heterospathe,porcata,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,2,,,0.9,,,small,,red,,,,palmweb
 Heterospathe pulchra,Heterospathe,pulchra,Areceae,Arecoideae,0,0,1,,1,,,0,0,10,2.5,,,0.9,,,0.8,,,small,ovoid,red,,,,
 Heterospathe pullenii,Heterospathe,pullenii,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
 Heterospathe ramulosa,Heterospathe,ramulosa,Areceae,Arecoideae,0,0,1,,,,0.6,0,0,,,,,,,,,,,,,,,,,
@@ -1544,13 +1544,13 @@ Heterospathe sensisi,Heterospathe,sensisi,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1
 Heterospathe sibuyanensis,Heterospathe,sibuyanensis,Areceae,Arecoideae,0,0,1,canopy,1,10,12,0,0,,2,,,1,,,0.7,,,small,globose,red,,,,
 Heterospathe sphaerocarpa,Heterospathe,sphaerocarpa,Areceae,Arecoideae,0,1,0,understorey,,0,,0,0,6,2,,,0.8,,,0.75,,,small,,,,,,
 Heterospathe trispatha,Heterospathe,trispatha,Areceae,Arecoideae,0,0,1,understorey,1,3,5,0,0,8,0.7,,,1.2,,,0.8,,,small,ovoid,ripening yellow - red,,1,,
-Heterospathe uniformis,Heterospathe,uniformis,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,2.2,,,1.00,,,small,,green to orange to red,,,,"Dupuyoo, J. ""Two Palms with Surprising Qualities."" PALMS-LAWRENCE- 5.4 (26): 179."
+Heterospathe uniformis,Heterospathe,uniformis,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,2.2,,,1,,,small,,green to orange to red,,,,"Dupuyoo, J. ""Two Palms with Surprising Qualities."" PALMS-LAWRENCE- 5.4 (26): 179."
 Heterospathe woodfordiana,Heterospathe,woodfordiana,Areceae,Arecoideae,0,0,1,understorey,1,4,,0,0,,,,,1.3,,,1,,,small,,,,,,
 Howea belmoreana,Howea,belmoreana,Areceae,Arecoideae,0,0,1,canopy,1,12,15,0,0,18,5,4,,3.5,3,4,2.5,2,3,small,,brownish-red,glossy,,,
 Howea forsteriana,Howea,forsteriana,Areceae,Arecoideae,0,0,1,canopy,1,25,15,0,0,18,5,4,,4,3,5,2.5,2,3,large,globose,bright or dull orange to red at maturity,,1,,
 Hydriastele affinis,Hydriastele,affinis,Areceae,Arecoideae,0,0,1,,0,,,0,0,,,,,,,,,,,,globose,,,,,
 Hydriastele aprica,Hydriastele,aprica,Areceae,Arecoideae,0,0,1,understorey,1,5,,0,0,7,0.23,0.62,0.18,0.8,,,0.7,,,small,globose,red,,,,palmpedia
-Hydriastele beccariana,Hydriastele,beccariana,Areceae,Arecoideae,0,0,1,canopy,2,9,8,0,0,8,1.3,0.95,0.4,0.9,,,0.60,,,small,,red,,,,Kew herbaria
+Hydriastele beccariana,Hydriastele,beccariana,Areceae,Arecoideae,0,0,1,canopy,2,9,8,0,0,8,1.3,0.95,0.4,0.9,,,0.6,,,small,,red,,,,Kew herbaria
 Hydriastele beguinii,Hydriastele,beguinii,Areceae,Arecoideae,0,0,1,canopy,1,15,3,0,0,,2,,0.92,1.5,,,1.1,,,small,globose,red,,,,palmpedia
 Hydriastele biakensis,Hydriastele,biakensis,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.075,0.95,1.2,0.55,0.5,0.6,small,,red,,,,palmpedia
 Hydriastele boumae,Hydriastele,boumae,Areceae,Arecoideae,0,0,1,canopy,1,32,28,0,0,,3,2.65,0.4,1.2,1,1.4,0.7,0.6,0.8,small,,yellowish white,,,,palmpedia
@@ -1571,7 +1571,7 @@ Hydriastele kasesa,Hydriastele,kasesa,Areceae,Arecoideae,0,0,1,canopy,2,6,3.8,0,
 Hydriastele kjellbergii,Hydriastele,kjellbergii,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
 Hydriastele ledermanniana,Hydriastele,ledermanniana,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,,,,,,,,,,,,,
 Hydriastele lepidota,Hydriastele,lepidota,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
-Hydriastele longispatha,Hydriastele,longispatha,Areceae,Arecoideae,0,0,1,canopy,1,24,25,0,0,19,2.5,2.3,0.22,1.00,0.7,1.3,0.65,0.4,0.9,small,globose,bright red,,,,palmpedia
+Hydriastele longispatha,Hydriastele,longispatha,Areceae,Arecoideae,0,0,1,canopy,1,24,25,0,0,19,2.5,2.3,0.22,1,0.7,1.3,0.65,0.4,0.9,small,globose,bright red,,,,palmpedia
 Hydriastele lurida,Hydriastele,lurida,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,globose,,,,,
 Hydriastele macrospadix,Hydriastele,macrospadix,Areceae,Arecoideae,0,0,1,canopy,1,40,25,0,0,25,1.95,1.45,0.55,1.4,1.2,1.6,0.8,,,small,globose,bright crimson,,,,palmpedia
 Hydriastele manusii,Hydriastele,manusii,Areceae,Arecoideae,0,0,1,canopy,1,18,10,0,0,9,2,,,1.15,,,0.5,,,small,ovoid,,,,,
@@ -1598,20 +1598,20 @@ Hydriastele variabilis,Hydriastele,variabilis,Areceae,Arecoideae,0,0,1,canopy,0,
 Hydriastele vitiensis,Hydriastele,vitiensis,Areceae,Arecoideae,0,0,1,canopy,1,25,30,0,0,20,2.5,,0.81,1,,,,,,small,globose,,,,,
 Hydriastele wendlandiana,Hydriastele,wendlandiana,Areceae,Arecoideae,0,0,1,canopy,2,25,12,0,0,10,2.5,1.9,0.8,0.9,0.7,1.1,0.65,0.5,0.8,small,globose,"orange, purple or red",smooth,,,
 Hyophorbe amaricaulis,Hyophorbe,amaricaulis,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,6,14,0,0,6,1.4,,,3.8,,,3.4,3.3,3.5,small,globose,brown,,,,palmpedia
-Hyophorbe indica,Hyophorbe,indica,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,8,13,0,0,6,3,3,0.61,2.30,1.8,2.8,1.05,1,1.1,small,ovoid,green to yellow to red,,,,"palmpedia, Kew herbaria"
+Hyophorbe indica,Hyophorbe,indica,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,8,13,0,0,6,3,3,0.61,2.3,1.8,2.8,1.05,1,1.1,small,ovoid,green to yellow to red,,,,"palmpedia, Kew herbaria"
 Hyophorbe lagenicaulis,Hyophorbe,lagenicaulis,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,7,60,0,0,8,3.1,3,0.12,3.15,2.5,3.8,,,,small,globose,green to black,,,,palmpedia
-Hyophorbe vaughanii,Hyophorbe,vaughanii,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,10,12,0,0,5,,,,4,,,3.00,,,large,globose,brown,,,,Kew herbaria
-Hyophorbe verschaffeltii,Hyophorbe,verschaffeltii,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,12,45,0,0,10,3.1,3,0.12,2,,,0.90,,,small,ovoid,,,,,Kew herbaria
+Hyophorbe vaughanii,Hyophorbe,vaughanii,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,10,12,0,0,5,,,,4,,,3,,,large,globose,brown,,,,Kew herbaria
+Hyophorbe verschaffeltii,Hyophorbe,verschaffeltii,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,12,45,0,0,10,3.1,3,0.12,2,,,0.9,,,small,ovoid,,,,,Kew herbaria
 Hyospathe elegans,Hyospathe,elegans,Euterpeae,Arecoideae,0,0,1,canopy,2,8,8,0,0,11,2,1.1,,1.15,1,1.5,0.75,0.3,1.2,small,globose,black,,,Color change: inflorescence rachis becomes bright red in fruit,Henderson 24
 Hyospathe frontinensis,Hyospathe,frontinensis,Euterpeae,Arecoideae,0,0,1,understorey,0,2.5,0.9,0,0,8,0.26,0.26,,0.9,0.8,1,0.61,0.59,0.63,small,,,,,Color change: inflorescence rachis becomes bright red in fruit,Henderson 24
 Hyospathe macrorhachis,Hyospathe,macrorhachis,Euterpeae,Arecoideae,0,0,1,understorey,2,2,3,0,0,10,1.2,0.7,0.43,0.93,0.66,1.2,0.65,0.4,0.9,small,,black,,,Color change: inflorescence rachis becomes bright red in fruit. Stem: creeping.,Henderson 24
 Hyospathe peruviana,Hyospathe,peruviana,Euterpeae,Arecoideae,0,0,1,,,,,0,0,,,,,0.875,0.8,0.95,0.71,0.68,0.73,small,,,,,Color change: inflorescence rachis becomes bright red in fruit,Henderson 24
-Hyospathe wendlandiana,Hyospathe,wendlandiana,Euterpeae,Arecoideae,0,0,1,,,,,0,0,,,,,1.125,0.98,1.27,0.60,0.55,0.65,small,,,,,,Henderson 24
+Hyospathe wendlandiana,Hyospathe,wendlandiana,Euterpeae,Arecoideae,0,0,1,,,,,0,0,,,,,1.125,0.98,1.27,0.6,0.55,0.65,small,,,,,,Henderson 24
 Hyphaene compressa,Hyphaene,compressa,Borasseae,Coryphoideae,0,0,1,canopy,2,20,40,0,1,15,1.5,2.5,1.25,8.5,7,10,6.5,5,8,large,,"orangey-brown to deep chestnut, rarely pale golden brown",,,,
 Hyphaene coriacea,Hyphaene,coriacea,Borasseae,Coryphoideae,0,0,1,canopy,2,6,30,0,1,20,1.17,1.8,0.75,4.5,3,6,3.25,2.5,4,large,elongate,brown,,,,
 Hyphaene dichotoma,Hyphaene,dichotoma,Borasseae,Coryphoideae,0,0,1,canopy,2,20,30,0,1,,,,,7,,,6,,,large,,brownish,,,,
-Hyphaene guineensis,Hyphaene,guineensis,Borasseae,Coryphoideae,0,0,1,canopy,1,20,,0,1,,3.5,,1.55,5.75,5,6.5,6.50,6,7,large,globose,bright orange color to red-brown,,,,palmpedia
-Hyphaene macrosperma,Hyphaene,macrosperma,Borasseae,Coryphoideae,0,0,1,,,,,0,1,,,,,7,,,6.00,,,large,,,,,,http://palms.myspecies.info/taxonomy/term/122
+Hyphaene guineensis,Hyphaene,guineensis,Borasseae,Coryphoideae,0,0,1,canopy,1,20,,0,1,,3.5,,1.55,5.75,5,6.5,6.5,6,7,large,globose,bright orange color to red-brown,,,,palmpedia
+Hyphaene macrosperma,Hyphaene,macrosperma,Borasseae,Coryphoideae,0,0,1,,,,,0,1,,,,,7,,,6,,,large,,,,,,http://palms.myspecies.info/taxonomy/term/122
 Hyphaene petersiana,Hyphaene,petersiana,Borasseae,Coryphoideae,0,0,1,canopy,1,20,35,0,1,25,0.75,,,6.5,5,8,5.5,5,7,large,globose,red-brown to chestnut,smooth,,,
 Hyphaene reptans,Hyphaene,reptans,Borasseae,Coryphoideae,0,1,0,understorey,2,0,,0,1,,1,,,5,4,6,3,,,large,globose,reddish,,,,
 Hyphaene thebaica,Hyphaene,thebaica,Borasseae,Coryphoideae,0,0,1,canopy,2,25,30,0,1,35,2,,0.45,6,,,5,,,large,globose,"shiny brown; orange brown, becomming darker brown with age",,,,
@@ -1619,7 +1619,7 @@ Iguanura ambigua,Iguanura,ambigua,Areceae,Arecoideae,0,0,1,understorey,,2.6,,0,0
 Iguanura asli,Iguanura,asli,Areceae,Arecoideae,0,0,1,understorey,0,2.5,,0,0,,1.01,,,0.6,0.4,,,,,small,ovoid,pink,,,,palmpedia
 Iguanura belumensis,Iguanura,belumensis,Areceae,Arecoideae,0,0,1,understorey,1,4,1.5,0,0,,1.01,,,,,,,,,,ovoid,white to pink to red,,,,palmpedia
 Iguanura bicornis,Iguanura,bicornis,Areceae,Arecoideae,0,0,1,understorey,0,3,2.2,0,0,8,0.8,0.8,,2,,,1.8,,,small,globose,reddish,,,,
-Iguanura borneensis,Iguanura,borneensis,Areceae,Arecoideae,0,0,1,understorey,2,1.5,1.5,0,0,,0.38,0.3,0.1,1,,,0.70,,,small,globose,red,,,,"palmpedia, Kew herbaria"
+Iguanura borneensis,Iguanura,borneensis,Areceae,Arecoideae,0,0,1,understorey,2,1.5,1.5,0,0,,0.38,0.3,0.1,1,,,0.7,,,small,globose,red,,,,"palmpedia, Kew herbaria"
 Iguanura cemurung,Iguanura,cemurung,Areceae,Arecoideae,0,0,1,,,,,0,0,,1.01,,,,,,,,,,globose,,,,,
 Iguanura chaiana,Iguanura,chaiana,Areceae,Arecoideae,0,0,1,understorey,,3,2,0,0,,0.75,0.75,,,,,,,,,globose,,,,,
 Iguanura corniculata,Iguanura,corniculata,Areceae,Arecoideae,0,0,1,understorey,,1.3,,0,0,,1.01,,,,,,,,,,ovoid,,,,,
@@ -1628,7 +1628,7 @@ Iguanura diffusa,Iguanura,diffusa,Areceae,Arecoideae,0,0,1,,,,,0,0,,1.01,,,,,,,,
 Iguanura divergens,Iguanura,divergens,Areceae,Arecoideae,0,0,1,understorey,0,3,3.5,0,0,7,1.3,1.3,,,,,,,,,,green to red,,,,palmpedia
 Iguanura elegans,Iguanura,elegans,Areceae,Arecoideae,0,0,1,understorey,2,2,2,0,0,,1.2,0.95,0.12,0.85,,,0.6,,,small,ovoid,red,,,,palmpedia
 Iguanura geonomiformis,Iguanura,geonomiformis,Areceae,Arecoideae,0,0,1,understorey,2,4,2.5,0,0,8,1,1,0.22,2,,,1,,,small,globose,maturing white to red,,1,,
-Iguanura humilis,Iguanura,humilis,Areceae,Arecoideae,0,0,1,understorey,,1,,0,0,7,1.01,,,1,,,0.60,,,small,ovoid,green?,,,,Kew herbaria
+Iguanura humilis,Iguanura,humilis,Areceae,Arecoideae,0,0,1,understorey,,1,,0,0,7,1.01,,,1,,,0.6,,,small,ovoid,green?,,,,Kew herbaria
 Iguanura kelantanensis,Iguanura,kelantanensis,Areceae,Arecoideae,0,1,0,understorey,2,0,,0,0,,1.01,,,,,,,,,,,white to red,,,,palmweb
 Iguanura leucocarpa,Iguanura,leucocarpa,Areceae,Arecoideae,0,0,1,,,,0.5,0,0,,0.8,,,,,,,,,,globose,,,,,
 Iguanura macrostachya,Iguanura,macrostachya,Areceae,Arecoideae,0,0,1,understorey,2,2,2,0,0,,1,,0.45,1.05,,,0.8,,,small,ovoid,pink to red,,,,Kew herbaria
@@ -1641,9 +1641,9 @@ Iguanura parvula,Iguanura,parvula,Areceae,Arecoideae,0,0,1,,,,,0,0,,1.01,,,,,,,,
 Iguanura perdana,Iguanura,perdana,Areceae,Arecoideae,0,0,1,understorey,1,4.5,1.8,0,0,,1,1,,,,,,,,,ovoid,yellow to pink,,,,palmpedia
 Iguanura piahensis,Iguanura,piahensis,Areceae,Arecoideae,0,0,1,understorey,0,2,,0,0,,1.01,,,0.6,,,0.6,,,small,,"cream to yellow, ripening red",,,,
 Iguanura polymorpha,Iguanura,polymorpha,Areceae,Arecoideae,0,0,1,understorey,2,4,2,0,0,,1.4,1.4,0.92,2,,,0.8,,,small,ovoid,red,,,,
-Iguanura prolifera,Iguanura,prolifera,Areceae,Arecoideae,0,0,1,,0,,1.5,0,0,,0.7,0.7,,0.7,,,0.60,,,small,globose,bright red,,,,Kew herbaria
+Iguanura prolifera,Iguanura,prolifera,Areceae,Arecoideae,0,0,1,,0,,1.5,0,0,,0.7,0.7,,0.7,,,0.6,,,small,globose,bright red,,,,Kew herbaria
 Iguanura remotiflora,Iguanura,remotiflora,Areceae,Arecoideae,0,0,1,understorey,,1.5,,0,0,,1.01,,,,,,,,,,globose,,,,,
-Iguanura sanderiana,Iguanura,sanderiana,Areceae,Arecoideae,0,0,1,understorey,,1.5,3.5,0,0,,1.4,1.4,0.4,1.30,1.1,1.5,0.7,,,small,globose,creamy red,,,,Kew herbaria
+Iguanura sanderiana,Iguanura,sanderiana,Areceae,Arecoideae,0,0,1,understorey,,1.5,3.5,0,0,,1.4,1.4,0.4,1.3,1.1,1.5,0.7,,,small,globose,creamy red,,,,Kew herbaria
 Iguanura speciosa,Iguanura,speciosa,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
 Iguanura tenuis,Iguanura,tenuis,Areceae,Arecoideae,0,0,1,understorey,2,1.5,2,0,0,7,0.5,0.5,,1.15,1.1,1.2,0.6,,,small,elongate,pinkish; white with blush when nearly ripe,,,,
 Iguanura thalangensis,Iguanura,thalangensis,Areceae,Arecoideae,0,0,1,understorey,1,2,1.5,0,0,,0.6,0.6,,1.5,,,1,,,small,globose,pinkish,,,,
@@ -1654,14 +1654,14 @@ Iriartella stenocarpa,Iriartella,stenocarpa,Irarteeae,Arecoideae,0,0,1,understor
 Itaya amicorum,Itaya,amicorum,Cryosophileae,Coryphoideae,0,0,1,understorey,1,4,10,0,0,25,1.4,2.1,2.4,2.25,2,2.5,1.75,1.5,2,small,globose,yellowish green,,,,
 Johannesteijsmannia altifrons,Johannesteijsmannia,altifrons,Trachycarpeae,Coryphoideae,0,1,0,understorey,2,0,15,0,1,30,4,,0.95,5,,,4.5,4,5,large,globose,brownish,warty,,,
 Johannesteijsmannia lanceolata,Johannesteijsmannia,lanceolata,Trachycarpeae,Coryphoideae,0,1,0,understorey,2,0,15,0,1,,3.5,2.4,1.15,3.4,,,3.4,,,small,ovoid,"reddish brown, corky warts",,,,palmweb
-Johannesteijsmannia magnifica,Johannesteijsmannia,magnifica,Trachycarpeae,Coryphoideae,0,1,0,understorey,2,0,15,0,1,,3,,,3.9,,,3.50,,,small,ovoid,"reddish brown, corky warts",,,,"palmweb, Kew herbaria"
+Johannesteijsmannia magnifica,Johannesteijsmannia,magnifica,Trachycarpeae,Coryphoideae,0,1,0,understorey,2,0,15,0,1,,3,,,3.9,,,3.5,,,small,ovoid,"reddish brown, corky warts",,,,"palmweb, Kew herbaria"
 Johannesteijsmannia perakensis,Johannesteijsmannia,perakensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,4,15,0,1,,,,,,,,,,,,,"reddish brown, corky warts",,,,palmweb
 Juania australis,Juania,australis,Ceroxyleae,Ceroxyloideae,0,0,1,canopy,1,15,26,0,0,9,5,,,1.65,,,1.65,1.5,1.8,small,ovoid,orange-red,,,,
 Jubaea chilensis,Jubaea,chilensis,Cocoseae,Arecoideae,0,0,1,canopy,1,25,130,0,0,50,5.5,,,3.75,3.5,4,3.5,3,4,small,ovoid,brownish,,,,
 Jubaeopsis caffra,Jubaeopsis,caffra,Cocoseae,Arecoideae,0,0,1,canopy,0,6.5,40,0,0,,3.75,,,3,2,4,,,,small,ovoid,orange,,,fruit coconut like,palmpedia
 Kentiopsis magnifica,Kentiopsis,magnifica,Areceae,Arecoideae,0,0,1,canopy,1,25,25,0,0,9,2.45,2.25,0.22,2.2,,,1,,,small,,red,,,,palmweb
 Kentiopsis oliviformis,Kentiopsis,oliviformis,Areceae,Arecoideae,0,0,1,canopy,1,30,28,0,0,10,3.1,3,0.12,1.7,1.4,2,0.85,0.8,0.9,small,globose,red,,,,palmweb
-Kentiopsis piersoniorum,Kentiopsis,piersoniorum,Areceae,Arecoideae,0,0,1,canopy,1,15,25,0,0,12,2.5,2.3,0.22,2.00,1.7,2.3,0.95,0.9,1,small,,purplish,,,,palmweb
+Kentiopsis piersoniorum,Kentiopsis,piersoniorum,Areceae,Arecoideae,0,0,1,canopy,1,15,25,0,0,12,2.5,2.3,0.22,2,1.7,2.3,0.95,0.9,1,small,,purplish,,,,palmweb
 Kentiopsis pyriformis,Kentiopsis,pyriformis,Areceae,Arecoideae,0,0,1,canopy,1,18,22,0,0,12,3.45,3,0.5,1.7,,,0.7,,,small,globose,purplish-pink,,,,palmweb
 Kerriodoxa elegans,Kerriodoxa,elegans,Chuniophoeniceae,Coryphoideae,0,2,2,canopy,1,7,20,0,0,35,1.27,1.3,0.92,4,3,5,4.5,4,5,large,ovoid,yellowish brown; orangish-yellow,,,,
 Korthalsia angustifolia,Korthalsia,angustifolia,Calameae,Calamoideae,1,0,0,canopy,0,50,5,1,1,,3,,0.45,0.9,,,0.6,,,small,ovoid,,covered with overlapping scales,,,
@@ -1681,7 +1681,7 @@ Korthalsia jala,Korthalsia,jala,Calameae,Calamoideae,1,0,0,canopy,0,60,4,0,1,,2.
 Korthalsia junghuhnii,Korthalsia,junghuhnii,Calameae,Calamoideae,1,0,0,canopy,0,,,,1,,1.2,,,,,,,,,,ovoid,,covered with overlapping scales,,,
 Korthalsia laciniosa,Korthalsia,laciniosa,Calameae,Calamoideae,1,0,0,canopy,0,75,7,0,1,,3,3,0.33,2.25,2,2.5,1.5,,,small,globose,brown,covered with overlapping scales,,,
 Korthalsia lanceolata,Korthalsia,lanceolata,Calameae,Calamoideae,1,0,0,canopy,0,60,7,1,1,,1.5,1.5,,,,,,,,,globose,,covered with overlapping scales,,,
-Korthalsia merrillii,Korthalsia,merrillii,Calameae,Calamoideae,1,0,0,canopy,0,20,1.5,1,1,,1.5,,0.05,1.30,0.8,1.8,1.00,0.6,1.4,small,globose,shiny brown,covered with overlapping scales,,,palmweb
+Korthalsia merrillii,Korthalsia,merrillii,Calameae,Calamoideae,1,0,0,canopy,0,20,1.5,1,1,,1.5,,0.05,1.3,0.8,1.8,1,0.6,1.4,small,globose,shiny brown,covered with overlapping scales,,,palmweb
 Korthalsia paucijuga,Korthalsia,paucijuga,Calameae,Calamoideae,1,0,0,canopy,0,20,1,1,1,,0.75,0.75,0.12,1,,,1,,,small,ovoid,"yellow-brown, darker-tipped scales",covered with overlapping scales,,,palmweb
 Korthalsia rigida,Korthalsia,rigida,Calameae,Calamoideae,1,0,0,canopy,0,75,2.5,1,1,,2.34,1.8,0.59,1,,,1,,,small,globose,greenish brown; brown,covered with overlapping scales,,,
 Korthalsia robusta,Korthalsia,robusta,Calameae,Calamoideae,1,0,0,canopy,0,30,3.5,1,1,,3,3,0.22,3.75,3.5,4,2.35,2.2,2.5,small,ovoid,mid brown,covered with overlapping scales; mid brown with darker tntramarginal bands and straw colored margins,,,
@@ -1701,16 +1701,16 @@ Laccosperma secundiflorum,Laccosperma,secundiflorum,Lepidocaryeae,Calamoideae,1,
 Lanonia acaulis,Lanonia,acaulis,Trachycarpeae,Coryphoideae,0,2,2,understorey,1,0,,0,1,,,,,,,,,,,,,,,,,
 Lanonia calciphila,Lanonia,calciphila,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,2,2,0,1,17,,,0.84,1,,,1,,,small,,bright red,,,,palmpedia
 Lanonia centralis,Lanonia,centralis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,5,4,0,1,13,,,1.27,0.7,0.6,0.8,0.7,0.6,0.8,small,,whitish,,,,palmpedia
-Lanonia dasyantha,Lanonia,dasyantha,Trachycarpeae,Coryphoideae,0,0,1,understorey,2,1.5,6,0,1,15,,,2,1.125,0.75,1.5,0.90,0.7,1.1,small,,red,,,,palmpedia
+Lanonia dasyantha,Lanonia,dasyantha,Trachycarpeae,Coryphoideae,0,0,1,understorey,2,1.5,6,0,1,15,,,2,1.125,0.75,1.5,0.9,0.7,1.1,small,,red,,,,palmpedia
 Lanonia gracilis,Lanonia,gracilis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,1,2,0,1,40,,,1,0.85,0.8,0.9,0.85,0.8,0.9,small,,pink or cherry red in young and dark red or dark brown when mature,,,,palmpedia
 Lanonia hainanensis,Lanonia,hainanensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,4,3,0,1,15,,,1.6,0.8,0.7,0.9,0.8,0.7,0.9,small,,orange or red at maturity,,,,palmpedia
 Lanonia hexasepala,Lanonia,hexasepala,Trachycarpeae,Coryphoideae,0,0,1,understorey,2,2,2,0,1,6,,,0.47,0.65,0.6,0.7,0.65,0.6,0.7,small,,,,,,palmpedia
 Lanonia magalonii,Lanonia,magalonii,Trachycarpeae,Coryphoideae,0,2,2,understorey,2,1.5,2.5,0,1,12,,,0.56,0.85,0.8,0.9,0.75,0.7,0.8,small,,,,,,palmpedia
-Latania loddigesii,Latania,loddigesii,Borasseae,Coryphoideae,0,0,1,canopy,1,15,30,0,1,,3,,,7.00,6.5,7.5,2.40,2.3,2.5,large,ovoid,greenish brown,,,,palmpedia
+Latania loddigesii,Latania,loddigesii,Borasseae,Coryphoideae,0,0,1,canopy,1,15,30,0,1,,3,,,7,6.5,7.5,2.4,2.3,2.5,large,ovoid,greenish brown,,,,palmpedia
 Latania lontaroides,Latania,lontaroides,Borasseae,Coryphoideae,0,0,1,canopy,1,12,25,0,1,16,5,5,,4.5,,,4.5,4,5,large,ovoid,dark green,,,,palmpedia
 Latania verschaffeltii,Latania,verschaffeltii,Borasseae,Coryphoideae,0,0,1,canopy,1,12,25,0,,,3,,,4.25,3.5,5,3.15,2.8,3.5,large,,brownish green,,,,palmpedia
 Lemurophoenix halleuxii,Lemurophoenix,halleuxii,Areceae,Arecoideae,0,0,1,canopy,1,20,100,0,0,,4.5,4.25,0.28,5,,,5,,,large,,chestnut-brown,epicarp cracked polygonally into low carky warts,,,
-Leopoldinia piassaba,Leopoldinia,piassaba,Leopoldinieae,Arecoideae,0,0,1,canopy,1,10,15,0,0,16,4.8,3.3,1.55,3.80,3.55,4.42,3.34,3,3.68,small,ovoid,orange-brown to purplish-brown,,,,
+Leopoldinia piassaba,Leopoldinia,piassaba,Leopoldinieae,Arecoideae,0,0,1,canopy,1,10,15,0,0,16,4.8,3.3,1.55,3.8,3.55,4.42,3.34,3,3.68,small,ovoid,orange-brown to purplish-brown,,,,
 Leopoldinia pulchra,Leopoldinia,pulchra,Leopoldinieae,Arecoideae,0,0,1,canopy,2,7,10,0,0,25,2.13,1.5,0.68,2.84,2.04,4.06,2.72,1.81,3.62,small,,reddish brown or purple,,,,
 Lepidocaryum tenue,Lepidocaryum,tenue,Lepidocaryeae,Calamoideae,0,0,1,understorey,0,4,3,0,0,20,1.17,1.7,2.1,2.25,1.5,3,1.5,1,2,small,globose,reddish brown red or orange-red,covered with overlapping scales,,,
 Lepidorrhachis mooreana,Lepidorrhachis,mooreana,Areceae,Arecoideae,0,0,1,understorey,1,2,20,0,0,10,2.04,1.2,0.96,1.2,,,1.1,1,1.2,small,ovoid,red,,,,
@@ -1738,7 +1738,7 @@ Licuala bissula,Licuala,bissula,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,
 Licuala borneensis,Licuala,borneensis,Trachycarpeae,Coryphoideae,0,2,2,understorey,1,1,2.3,0,1,12,1.2,,1,0.8,,,0.4,,,small,ellipsoid,pink,,,,Kew herbaria
 Licuala bracteata,Licuala,bracteata,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,4,5,0,1,11,1.5,,2.6,0.8,,,0.6,,,small,ovoid,red,,,,
 Licuala brevicalyx,Licuala,brevicalyx,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,7,,0,,,,,,0.75,,,0.75,0.7,0.8,small,globose,yellow green?,,,,Kew herbaria
-Licuala bruneiana,Licuala,bruneiana,Trachycarpeae,Coryphoideae,0,1,1,understorey,1,0,,0,1,,,,3,1.5,,,0.70,,,small,,"red, cracking corky-warty",,,,Kew herbaria
+Licuala bruneiana,Licuala,bruneiana,Trachycarpeae,Coryphoideae,0,1,1,understorey,1,0,,0,1,,,,3,1.5,,,0.7,,,small,,"red, cracking corky-warty",,,,Kew herbaria
 Licuala burretii,Licuala,burretii,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1.8,,0,1,,0.9,,1.22,0.6,,,0.6,,,small,globose,red,,,,
 Licuala cabalionii,Licuala,cabalionii,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,5,8,0,,12,1.5,1,2.75,1,,,1,,,small,ovoid,,,,,
 Licuala cameronensis,Licuala,cameronensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,0.7,2.5,0,1,21,0.86,0.3,0.61,0.8,,,0.7,,,small,globose,orange,,,,Kew herbaria
@@ -1762,19 +1762,19 @@ Licuala elliptica,Licuala,elliptica,Trachycarpeae,Coryphoideae,0,0,1,understorey
 Licuala exigua,Licuala,exigua,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,2.5,0,1,9,0.5,,0.3,,,,,,,,,,,,,
 Licuala ferruginea,Licuala,ferruginea,Trachycarpeae,Coryphoideae,0,1,0,understorey,2,2,,0,1,28,1.23,,3.05,1.6,1.5,1.7,1.3,1.2,1.5,small,globose,dark purple to black,,,,Kew herbaria
 Licuala ferruginoides,Licuala,ferruginoides,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,0.6,,0,1,,0.9,,1.25,1,,,1,,,small,ovoid,,,,,
-Licuala flammula,Licuala,flammula,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,2,,0,1,24,0.9,,1.6,1,,,0.80,,,small,ellipsoid,white to pale pink,,,,Kew herbaria
+Licuala flammula,Licuala,flammula,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,2,,0,1,24,0.9,,1.6,1,,,0.8,,,small,ellipsoid,white to pale pink,,,,Kew herbaria
 Licuala flavida,Licuala,flavida,Trachycarpeae,Coryphoideae,0,0,1,,1,,,0,,,,,,,,,,,,,ovoid,,,,,
-Licuala flexuosa,Licuala,flexuosa,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,3,0,1,,1.1,,0.92,1,,,1.00,,,small,,red,,,,Kew herbaria
+Licuala flexuosa,Licuala,flexuosa,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,3,0,1,,1.1,,0.92,1,,,1,,,small,,red,,,,Kew herbaria
 Licuala fordiana,Licuala,fordiana,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,3,,0,0,,1,1,0.95,0.8,,,0.8,,,small,,red,,,,
 Licuala fractiflexa,Licuala,fractiflexa,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0.5,10,0,1,28,1.34,,2.75,1.15,1.1,1.2,1.05,1,1.1,small,globose,reddish orange,,,,Kew herbaria
 Licuala gjellerupii,Licuala,gjellerupii,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,,,,,,,,,
 Licuala glaberrima,Licuala,glaberrima,Trachycarpeae,Coryphoideae,0,,,,,,,0,0,,1.2,,0.85,,,,,,,,ovoid,,,,,
 Licuala glabra,Licuala,glabra,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,2.5,7,0,1,28,1.24,,0.75,1.25,1,1.5,0.8,0.6,1,small,ovoid,orange,,,,
 Licuala graminifolia,Licuala,graminifolia,Trachycarpeae,Coryphoideae,0,2,2,understorey,1,1,1.5,0,0,9,0.9,,,0.9,,,0.9,0.8,1,small,elongate,,,,,
-Licuala grandiflora,Licuala,grandiflora,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1.5,5,0,1,25,1.3,,,1.90,1.8,2,1.5,,,small,ovoid,brown blackish to red,,,,Kew herbaria
+Licuala grandiflora,Licuala,grandiflora,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1.5,5,0,1,25,1.3,,,1.9,1.8,2,1.5,,,small,ovoid,brown blackish to red,,,,Kew herbaria
 Licuala grandis,Licuala,grandis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,3,8,0,1,20,1.2,,0.92,1.5,,,1,,,small,,green to yellow,,,,Kew herbaria
 Licuala hallieriana,Licuala,hallieriana,Trachycarpeae,Coryphoideae,0,2,2,understorey,1,0.5,1.7,0,0,13,0.3,,0.8,,,,,,,,ovoid,,,,,
-Licuala insignis,Licuala,insignis,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,8,8,0,1,,1.1,,2.1,2.65,,,1.80,,,small,,brown reddish brown maturing red,,,,Kew herbaria
+Licuala insignis,Licuala,insignis,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,8,8,0,1,,1.1,,2.1,2.65,,,1.8,,,small,,brown reddish brown maturing red,,,,Kew herbaria
 Licuala intermedia,Licuala,intermedia,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,1,,0,1,,0.4,,0.95,0.7,,,0.7,,,small,globose,Immature fruits green,,,,Kew herbaria
 Licuala kamarudinii,Licuala,kamarudinii,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,2.5,0,1,12,1.05,,1,0.75,,,0.7,,,small,globose,green ripening orange,,,,
 Licuala kemamanensis,Licuala,kemamanensis,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,0,0,1,11,1.4,,0.91,1,0.9,1.1,0.8,,,small,globose,crimson to pink when immature,,,,Kew herbaria
@@ -1803,12 +1803,12 @@ Licuala magna,Licuala,magna,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,20,9,0,,30
 Licuala malajana,Licuala,malajana,Trachycarpeae,Coryphoideae,0,0,1,understorey,2,3,7,0,1,25,1.21,,2.2,1,,,1,,,small,ovoid,orange,,,,
 Licuala manglaensis,Licuala,manglaensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,,1,,0,0,,,,,0.8,,,0.8,,,small,globose,,,,,
 Licuala mattanensis,Licuala,mattanensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1,2.7,0,1,20,,,1.1,2.7,2.5,3,0.4,,,small,fusiform,"scarlet to red when young, ripening reddish brown to dull brown",,,,Kew herbaria
-Licuala meijeri,Licuala,meijeri,Trachycarpeae,Coryphoideae,0,1,0,understorey,,,,0,1,,,,1,0.7,,,0.50,,,small,globose,"Immature fruits green, white?",,,,Kew herbaria
+Licuala meijeri,Licuala,meijeri,Trachycarpeae,Coryphoideae,0,1,0,understorey,,,,0,1,,,,1,0.7,,,0.5,,,small,globose,"Immature fruits green, white?",,,,Kew herbaria
 Licuala merguensis,Licuala,merguensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,2,3,8,0,1,30,1.2,,1.9,1,,,1,,,small,,red,,,,
 Licuala micholitzii,Licuala,micholitzii,Trachycarpeae,Coryphoideae,0,2,2,understorey,0,2,,0,1,,1.35,,,0.9,,,0.5,,,small,ovoid,,,,,
 Licuala micrantha,Licuala,micrantha,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,,0,,,,,,1.2,,,0.8,,,small,,,,,,
 Licuala mirabilis,Licuala,mirabilis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,5,4,0,1,20,1.2,,1,1.2,,,0.8,,,small,globose,red,,,,
-Licuala miriensis,Licuala,miriensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1.5,,0,1,,0.5,,1.04,0.9,,,0.50,,,small,globose,"Immature fruits green, drying black",,,,Kew herbaria
+Licuala miriensis,Licuala,miriensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1.5,,0,1,,0.5,,1.04,0.9,,,0.5,,,small,globose,"Immature fruits green, drying black",,,,Kew herbaria
 Licuala modesta,Licuala,modesta,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,3,3,0,0,34,1.26,,1.41,1,,,1,,,small,globose,"orange, reddish",,,,
 Licuala montana,Licuala,montana,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,4,,0,1,,0.98,,,1,,,1,,,small,globose,orange-red,,,,Kew herbaria
 Licuala moszkowskiana,Licuala,moszkowskiana,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,19,,0,,,,,,,,,,,,,elongate,,,,,
@@ -1821,7 +1821,7 @@ Licuala naumoniensis,Licuala,naumoniensis,Trachycarpeae,Coryphoideae,0,0,1,,1,,,
 Licuala olivifera,Licuala,olivifera,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,0.8,,0,,,1.1,,,2,,,1,,,small,globose,,,,,
 Licuala oliviformis,Licuala,oliviformis,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,,,,,,,,,
 Licuala oninensis,Licuala,oninensis,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,,,,globose,,,,,
-Licuala orbicularis,Licuala,orbicularis,Trachycarpeae,Coryphoideae,0,2,2,understorey,2,,,0,,8,0.75,,0.75,1.2,,,1.00,,,small,globose,"immature fruits green, grey",,,,Kew herbaria
+Licuala orbicularis,Licuala,orbicularis,Trachycarpeae,Coryphoideae,0,2,2,understorey,2,,,0,,8,0.75,,0.75,1.2,,,1,,,small,globose,"immature fruits green, grey",,,,Kew herbaria
 Licuala oryzoides,Licuala,oryzoides,Trachycarpeae,Coryphoideae,0,,,,,,,0,1,,0.5,0.33,0.33,,,,,,,,,,,,,
 Licuala pachycalyx,Licuala,pachycalyx,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,,,,,,,,,
 Licuala pahangensis,Licuala,pahangensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,2,5,0,1,28,1.37,,2.1,1,,,0.7,,,small,ovoid,"greenish brown, young",,,,Kew herbaria
@@ -1832,7 +1832,7 @@ Licuala patens,Licuala,patens,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,3,1
 Licuala paucisecta,Licuala,paucisecta,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1,1.5,0,,,,,,0.7,,,0.7,,,small,globose,,,,,
 Licuala peekelii,Licuala,peekelii,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,,,,ovoid,,,,,
 Licuala peltata,Licuala,peltata,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,10,12,0,1,15,1.2,,2.8,1.6,1.2,2,1.45,0.9,1.9,small,ellipsoid,"orange, red",,,,Kew herbaria
-Licuala penduliflora,Licuala,penduliflora,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1.5,,0,1,,1.15,,0.7,0.7,,,0.50,,,small,globose,green yellow orange,,,,Kew herbaria
+Licuala penduliflora,Licuala,penduliflora,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1.5,,0,1,,1.15,,0.7,0.7,,,0.5,,,small,globose,green yellow orange,,,,Kew herbaria
 Licuala petiolulata,Licuala,petiolulata,Trachycarpeae,Coryphoideae,0,2,2,understorey,1,2,8,0,1,,1.4,,3,2.5,,,2,,,small,ovoid,"orange, red",,,,Kew herbaria
 Licuala pilosa,Licuala,pilosa,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,,,0,1,,0.44,,0.9,,,,,,,,globose,,,,,
 Licuala pitta,Licuala,pitta,Trachycarpeae,Coryphoideae,0,,,understorey,0,2.5,3,0,0,,,,,1.8,,,1,,,small,globose,red,,,,
@@ -1858,7 +1858,7 @@ Licuala sabahana,Licuala,sabahana,Trachycarpeae,Coryphoideae,0,1,0,understorey,0
 Licuala sallehana,Licuala,sallehana,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,1.5,1.5,0,1,20,1.34,1.64,1.4,1.3,1.2,1.9,1.3,0.8,,small,globose,dark green to black,,,,Kew herbaria
 Licuala sarawakensis,Licuala,sarawakensis,Trachycarpeae,Coryphoideae,0,2,2,understorey,1,1.5,4,0,1,10,0.43,,1,1,,,0.9,,,small,globose,"green, ripening orange",,,,Kew herbaria
 Licuala scortechinii,Licuala,scortechinii,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1.5,2,0,0,18,0.3,,0.3,0.5,,,0.5,,,small,globose,reddish,,,,
-Licuala simplex,Licuala,simplex,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,2.1,,,1.00,,,small,,"dark olive brown, unripe?",,,,Kew herbaria
+Licuala simplex,Licuala,simplex,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,2.1,,,1,,,small,,"dark olive brown, unripe?",,,,Kew herbaria
 Licuala spathellifera,Licuala,spathellifera,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,,0,1,,0.98,,1.8,1.3,,,0.7,,,small,ellipsoid,,,,,
 Licuala spectabilis,Licuala,spectabilis,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,,,,,,,,,
 Licuala spicata,Licuala,spicata,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,1,2,0,1,,,,0.5,0.9,0.8,1,,,,small,ellipsoid,,,,,
@@ -1867,9 +1867,9 @@ Licuala steinii,Licuala,steinii,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,
 Licuala stongensis,Licuala,stongensis,Trachycarpeae,Coryphoideae,0,0,1,,,,,0,,,,,,,,,,,,,,,,,,
 Licuala tanycola,Licuala,tanycola,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,3,6,0,1,20,0.86,,,1.3,,,0.9,,,small,,,,,,
 Licuala taynguyensis,Licuala,taynguyensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,3,3,0,0,,,,,1,,,0.6,,,small,ovoid,red,,,,
-Licuala telifera,Licuala,telifera,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,2,1.5,0,,17,,,,0.8,,,0.80,,,small,globose,green to orange,,,,Kew herbaria
+Licuala telifera,Licuala,telifera,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,2,1.5,0,,17,,,,0.8,,,0.8,,,small,globose,green to orange,,,,Kew herbaria
 Licuala tenuissima,Licuala,tenuissima,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,2.5,0,1,10,1.03,,1.55,1,,,0.8,,,small,globose,orange,,,,
-Licuala terengganuensis,Licuala,terengganuensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,2,7,0,1,21,1.09,,1.8,0.9,,,0.40,,,small,,"green tingled pink, young",,,,Kew herbaria
+Licuala terengganuensis,Licuala,terengganuensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,2,7,0,1,21,1.09,,1.8,0.9,,,0.4,,,small,,"green tingled pink, young",,,,Kew herbaria
 Licuala thoana,Licuala,thoana,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,3,0,1,12,1.11,,1.8,1.1,,,0.6,,,small,ovoid,immature fruit crimson to pink,,,,Kew herbaria
 Licuala tiomanensis,Licuala,tiomanensis,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,6,,0,1,,0.5,,1.2,,,,,,,,,,,,,
 Licuala triphylla,Licuala,triphylla,Trachycarpeae,Coryphoideae,0,1,0,understorey,1,0,2,0,1,10,0.5,,0.95,0.8,,,0.6,,,small,globose,"red, orange-red",,,,
@@ -1886,7 +1886,7 @@ Linospadix palmerianus,Linospadix,palmerianus,Areceae,Arecoideae,0,0,1,understor
 Livistona alfredii,Livistona,alfredii,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,15,50,0,0,30,1.4,1.4,1.35,3.25,2.5,4,3.5,3,4,small,,dark brown to brown-black,"scattered greyish lenticellular pores, suture line extends to about half-way to base",,,
 Livistona australis,Livistona,australis,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,25,40,0,1,60,1.3,1.3,2.6,1.7,,,1.7,1.2,2.2,small,ovoid,reddish-brown o dull black,"scattered lenticellular pores, occationally glaucous, suture line extends for almost the length of the fruit",,,
 Livistona benthamii,Livistona,benthamii,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,18,30,0,1,50,1.6,2.1,2.1,1.1,0.9,1.3,1,0.9,1.1,small,ovoid,purple-black,"smooth, pruinose, suture line extends for the length of the fruit",,,
-Livistona boninensis,Livistona,boninensis,Trachycarpeae,Coryphoideae,0,0,1,,1,,,0,,,,,,2.45,1.9,3,2.10,1.4,2.8,small,,glossy bright green,,,,palmpedia
+Livistona boninensis,Livistona,boninensis,Trachycarpeae,Coryphoideae,0,0,1,,1,,,0,,,,,,2.45,1.9,3,2.1,1.4,2.8,small,,glossy bright green,,,,palmpedia
 Livistona carinensis,Livistona,carinensis,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,20,40,0,1,40,1.45,2.2,1.3,2,,,2,0.5,5,small,ovoid,dark brown to black,smooth,,,palmweb
 Livistona chinensis,Livistona,chinensis,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,20,30,0,1,60,1.8,2,1.9,3,,,2.8,,,small,globose,green or blue-green,,,,
 Livistona concinna,Livistona,concinna,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,30,35,0,1,65,1.65,1.65,2.75,1.05,,,1.05,0.9,1.2,small,globose,shiny black,"smooth, with scattered lenticellular pores, drying slightly rugose, suture line extends for about 3/4 of the length of the fruit",,,
@@ -1915,7 +1915,7 @@ Lodoicea maldivica,Lodoicea,maldivica,Borasseae,Coryphoideae,0,0,1,canopy,1,34,5
 Loxococcus rupicola,Loxococcus,rupicola,Areceae,Arecoideae,0,0,1,canopy,1,12,12,0,0,,2.5,2.5,,2.5,,,2.5,,,small,globose,reddish brown,,,,
 Lytocaryum hoehnei,Lytocaryum,hoehnei,Cocoseae,Arecoideae,0,0,1,understorey,1,5,15,0,0,22,1.05,0.75,0.33,3.15,3,3.3,2.15,2,2.3,small,globose,"brown, pink to red",,,,palmpedia
 Lytocaryum insigne,Lytocaryum,insigne,Cocoseae,Arecoideae,0,0,1,,1,,,0,0,,,,,3.15,3,3.3,,,,small,,brownish green,,,,palmpedia
-Lytocaryum itapebiense,Lytocaryum,itapebiense,Cocoseae,Arecoideae,0,0,1,,1,,,0,0,,,,,1.35,1.2,1.5,1.00,0.9,1.1,small,,red or red-orange,,,,palmpedia
+Lytocaryum itapebiense,Lytocaryum,itapebiense,Cocoseae,Arecoideae,0,0,1,,1,,,0,0,,,,,1.35,1.2,1.5,1,0.9,1.1,small,,red or red-orange,,,,palmpedia
 Lytocaryum weddellianum,Lytocaryum,weddellianum,Cocoseae,Arecoideae,0,0,1,understorey,1,5,10,0,0,20,1.3,0.99,0.34,2,1.7,2.3,1.35,1,1.7,small,,brown,,,,
 Manicaria martiana,Manicaria,martiana,Manicarieae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,,,,
 Manicaria saccifera,Manicaria,saccifera,Manicarieae,Arecoideae,0,0,1,canopy,2,10,20,0,0,25,15,8,6.75,5,4,6,5,4,6,large,ovoid,"brownish, wood",covered with corky protuberances,,,Kew herbaria
@@ -1933,13 +1933,13 @@ Maxburretia furtadoana,Maxburretia,furtadoana,Trachycarpeae,Coryphoideae,0,0,1,u
 Maxburretia gracilis,Maxburretia,gracilis,Trachycarpeae,Coryphoideae,0,0,1,canopy,2,7,8,0,0,,0.85,,0.5,1,,,0.5,,,small,globose,brown,covered with overlapping scales,,,
 Maxburretia rupicola,Maxburretia,rupicola,Trachycarpeae,Coryphoideae,0,0,1,understorey,2,1.5,20,0,0,60,1.25,,0.8,,,,,,,,ovoid,,covered with overlapping scales,,,
 Medemia argun,Medemia,argun,Borasseae,Coryphoideae,0,0,1,canopy,1,10,40,0,0,50,1.9,,,4.5,3,6,3,2,4,large,ovoid,brownish/violet,"smooh, polished",,,
-Metroxylon amicarum,Metroxylon,amicarum,Calameae,Calamoideae,0,0,1,canopy,2,33,150,0,1,,9,,,12.5,10,15,12.50,10,15,large,,"brown, scaly",,,,palmpedia
-Metroxylon paulcoxii,Metroxylon,paulcoxii,Calameae,Calamoideae,0,0,1,,1,,,0,1,,,,,6.75,6.5,7,5.70,5.4,6,large,globose,green to golden-yellow brown,,,,McClatchey 1998
+Metroxylon amicarum,Metroxylon,amicarum,Calameae,Calamoideae,0,0,1,canopy,2,33,150,0,1,,9,,,12.5,10,15,12.5,10,15,large,,"brown, scaly",,,,palmpedia
+Metroxylon paulcoxii,Metroxylon,paulcoxii,Calameae,Calamoideae,0,0,1,,1,,,0,1,,,,,6.75,6.5,7,5.7,5.4,6,large,globose,green to golden-yellow brown,,,,McClatchey 1998
 Metroxylon sagu,Metroxylon,sagu,Calameae,Calamoideae,0,0,1,canopy,2,20,60,0,1,15,10.25,10,,10,7,13,10,8,12,large,globose,green to brownish,scaly,,,palmpedia
 Metroxylon salomonense,Metroxylon,salomonense,Calameae,Calamoideae,0,0,1,canopy,1,20,55,0,1,,11,,0.33,9,4,12,6.5,3.5,9,large,globose,green,,,,palmpedia
 Metroxylon upoluense,Metroxylon,upoluense,Calameae,Calamoideae,0,0,1,,,,,0,1,,,,,,,,,,,,ovoid,greenish-brown,,,,Kew herbaria
 Metroxylon vitiense,Metroxylon,vitiense,Calameae,Calamoideae,0,0,1,canopy,1,16,50,0,1,,5,4.5,0.55,7,,,5,,,large,ovoid,yellow-brown scales,,,,palmpedia
-Metroxylon warburgii,Metroxylon,warburgii,Calameae,Calamoideae,0,0,1,canopy,1,12,43,0,1,,3,,,9.50,7,12,7.50,6,9,large,,red-brown scales,,,,palmpedia
+Metroxylon warburgii,Metroxylon,warburgii,Calameae,Calamoideae,0,0,1,canopy,1,12,43,0,1,,3,,,9.5,7,12,7.5,6,9,large,,red-brown scales,,,,palmpedia
 Myrialepis paradoxa,Myrialepis,paradoxa,Calameae,Calamoideae,1,0,0,canopy,0,45,7,0,1,,5,4.8,0.22,2.5,,,3,,,small,globose,greenish,minute overlapping scales,,,
 Nannorrhops ritchieana,Nannorrhops,ritchieana,Chuniophoeniceae,Coryphoideae,0,2,2,,0,,,0,0,,,,,1.3,,,,,,small,,brown to orange,,,,palmpedia
 Nenga banaensis,Nenga,banaensis,Areceae,Arecoideae,0,0,1,canopy,1,6,3.5,0,0,9,1.5,,0.48,1.4,,,1,,,small,globose,"red upper half, green below",,,,Kew herbaria
@@ -1948,7 +1948,7 @@ Nenga grandiflora,Nenga,grandiflora,Areceae,Arecoideae,0,0,1,understorey,1,2,8,0
 Nenga macrocarpa,Nenga,macrocarpa,Areceae,Arecoideae,0,0,1,canopy,2,6,7,0,0,7,2,2,,3.5,3,4,1.65,1.3,2,small,,purple-black,,,,
 Nenga pumila,Nenga,pumila,Areceae,Arecoideae,0,0,1,canopy,0,7,7,0,0,7,3,2,,2.5,2,3,1.25,1,1.5,small,,orange-red,,,,
 Neonicholsonia watsonii,Neonicholsonia,watsonii,Euterpeae,Arecoideae,0,1,0,understorey,1,1,13,0,0,9,2.2,1.2,,0.95,0.9,1,0.55,0.5,0.6,small,ovoid,black,,,,
-Neoveitchia brunnea,Neoveitchia,brunnea,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,6.50,6,7,,,,large,globose,dark red,,,,"Dupuyoo, J. ""Two Palms with Surprising Qualities."" PALMS-LAWRENCE- 5.4 (26): 179."
+Neoveitchia brunnea,Neoveitchia,brunnea,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,6.5,6,7,,,,large,globose,dark red,,,,"Dupuyoo, J. ""Two Palms with Surprising Qualities."" PALMS-LAWRENCE- 5.4 (26): 179."
 Neoveitchia storckii,Neoveitchia,storckii,Areceae,Arecoideae,0,0,1,canopy,1,20,25,0,0,15,5,,,5,,,2.6,,,large,,dull red,,,,palmpedia
 Nephrosperma van-houtteanum,Nephrosperma,van-houtteanum,Areceae,Arecoideae,0,0,1,canopy,1,13,15,0,1,15,2.2,,0.22,1.2,,,1.4,,,small,ovoid,"red, dispersed by birds",,,,palmpedia
 Normanbya normanbyi,Normanbya,normanbyi,Areceae,Arecoideae,0,0,1,canopy,1,30,25,0,0,10,2.5,2.2,0.33,4.25,3.5,5,3.2,2.5,3.9,large,ovoid,pink to scarlet-brown,"smooth, frequently glaucous",,,
@@ -1963,7 +1963,7 @@ Oenocarpus makeru,Oenocarpus,makeru,Euterpeae,Arecoideae,0,0,1,canopy,1,8,8,0,0,
 Oenocarpus mapora,Oenocarpus,mapora,Euterpeae,Arecoideae,0,0,1,canopy,0,15,20,0,0,8,6.7,5,1.8,2.5,2,3,2,1.5,2.5,small,ovoid,purple-black,,,,
 Oenocarpus minor,Oenocarpus,minor,Euterpeae,Arecoideae,0,0,1,canopy,2,10,7,0,0,13,4.55,4,0.6,1.75,1.5,2,1.4,1.3,1.5,small,globose,purple-black,,,,
 Oenocarpus simplex,Oenocarpus,simplex,Euterpeae,Arecoideae,0,0,1,understorey,0,4,1.8,0,0,8,1.18,0.9,0.31,2.45,2.2,2.7,1.35,1.3,1.4,small,ovoid,purple-black,,,,
-Oncocalamus djodu,Oncocalamus,djodu,Lepidocaryeae,Calamoideae,1,0,0,canopy,0,,,0,1,,,,,1.8,,,1.80,,,small,ovoid,,,,,Jstor plants
+Oncocalamus djodu,Oncocalamus,djodu,Lepidocaryeae,Calamoideae,1,0,0,canopy,0,,,0,1,,,,,1.8,,,1.8,,,small,ovoid,,,,,Jstor plants
 Oncocalamus macrospathus,Oncocalamus,macrospathus,Lepidocaryeae,Calamoideae,1,0,0,canopy,0,35,4,0,1,,2,2,,1.9,1.8,2,1.9,1.8,2,small,ovoid,"red, shiny",covered with scales,,,"T.C.H Sunderland, A taxonomic revision of the rattans of Africa (Arecaceae: Calamoideae in Phytotaxa 51. 212)"
 Oncocalamus mannii,Oncocalamus,mannii,Lepidocaryeae,Calamoideae,1,0,0,canopy,0,30,2.8,0,1,,2,,,2,1.8,2.2,1.8,1.6,2,small,,orange/red turning brown with age,covered with scales,1,,"T.C.H Sunderland, A taxonomic revision of the rattans of Africa (Arecaceae: Calamoideae in Phytotaxa 51. 212)"
 Oncocalamus tuleyi,Oncocalamus,tuleyi,Lepidocaryeae,Calamoideae,1,0,0,canopy,0,30,4.5,0,1,,3.5,,0.05,2,1.9,2.1,1.7,1.6,1.8,small,ovoid,"red, shiny",covered with scales,,,"T.C.H Sunderland, A taxonomic revision of the rattans of Africa (Arecaceae: Calamoideae in Phytotaxa 51. 212)"
@@ -1982,30 +1982,30 @@ Orania disticha,Orania,disticha,Oranieae,Arecoideae,0,0,1,canopy,1,20,23,0,0,12,
 Orania ferruginea,Orania,ferruginea,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,3.75,3.5,4,3.75,3.5,4,small,,yellow,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Orania gagavu,Orania,gagavu,Oranieae,Arecoideae,0,0,1,canopy,1,7,25,0,0,,4,3,,0.9,,,0.9,,,small,globose,,,,,
 Orania glauca,Orania,glauca,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,4.15,,,4.15,3.3,5,large,globose,orange,,,,palmpedia
-Orania grandiflora,Orania,grandiflora,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,4.9,4.8,5,4.90,4.8,5,large,,orange or reddish orange,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
+Orania grandiflora,Orania,grandiflora,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,4.9,4.8,5,4.9,4.8,5,large,,orange or reddish orange,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Orania lauterbachiana,Orania,lauterbachiana,Oranieae,Arecoideae,0,0,1,canopy,1,20,32,0,0,10,5.1,3.9,1.25,3.75,2.5,5,3.75,2.5,5,small,globose,reddish orange,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Orania littoralis,Orania,littoralis,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,4.75,4.5,5,4.75,4.5,5,large,,orange to red,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
-Orania longisquama,Orania,longisquama,Oranieae,Arecoideae,0,0,1,canopy,1,20,25,0,0,15,3.2,2,1.25,4.75,4,5.50,3.75,3,4.5,large,ovoid,green,,,,"J. Dransfield & H. Beentje, The Palms of Madagascar. 1995, Kew herbaria"
-Orania longistaminodia,Orania,longistaminodia,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,5.9,4.8,7,5.90,4.8,7,large,,bright orange,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
+Orania longisquama,Orania,longisquama,Oranieae,Arecoideae,0,0,1,canopy,1,20,25,0,0,15,3.2,2,1.25,4.75,4,5.5,3.75,3,4.5,large,ovoid,green,,,,"J. Dransfield & H. Beentje, The Palms of Madagascar. 1995, Kew herbaria"
+Orania longistaminodia,Orania,longistaminodia,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,5.9,4.8,7,5.9,4.8,7,large,,bright orange,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Orania macropetala,Orania,macropetala,Oranieae,Arecoideae,0,0,1,canopy,1,20,20,0,0,12,5,4,,6,,,6,,,large,ovoid,,,,,
-Orania micrantha,Orania,micrantha,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.8,,,2.80,,,small,,,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212, young fruit"
+Orania micrantha,Orania,micrantha,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.8,,,2.8,,,small,,,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212, young fruit"
 Orania oreophila,Orania,oreophila,Oranieae,Arecoideae,0,0,1,,1,,5,0,0,6,3.1,1.7,1.45,3.75,3,4.5,3.75,3,4.5,small,,,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Orania palindan,Orania,palindan,Oranieae,Arecoideae,0,0,1,canopy,1,30,40,0,0,15,3.5,2,1.55,5.4,3.3,7.5,5.25,3,7.5,large,ovoid,"yellowish green to bright yellow, smooth",,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Orania paraguanensis,Orania,paraguanensis,Oranieae,Arecoideae,0,0,1,canopy,1,20,30,0,0,,4,,,4.3,3.6,5,4.3,3.6,5,large,globose,yellowish green,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Orania parva,Orania,parva,Oranieae,Arecoideae,0,0,1,understorey,1,4,8,0,0,,2.04,,,1.3,,,1.3,,,small,globose,,,,,young!
 Orania ravaka,Orania,ravaka,Oranieae,Arecoideae,0,0,1,canopy,1,20,20,0,0,8,4.5,3.21,1.34,6.2,5,7.4,3.5,4,5,large,ovoid,yellow or pale brown,,,,
 Orania regalis,Orania,regalis,Oranieae,Arecoideae,0,0,1,canopy,1,11,25,0,0,10,4.2,,,6.25,4.5,8,6.25,4.5,8,large,,bright reddish orange ,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
-Orania subdisticha,Orania,subdisticha,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,4,,,4.00,,,large,,red,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
+Orania subdisticha,Orania,subdisticha,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,4,,,4,,,large,,red,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Orania sylvicola,Orania,sylvicola,Oranieae,Arecoideae,0,0,1,canopy,1,20,25,0,0,20,4.5,3.5,,4.5,4,5,3.75,3.5,5,large,globose,yellowish brown;greenish yellow to yellow,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
-Orania tabubilensis,Orania,tabubilensis,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,2,,,2.00,,,small,,orange?,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212, young fruit"
+Orania tabubilensis,Orania,tabubilensis,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,2,,,2,,,small,,orange?,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212, young fruit"
 Orania timikae,Orania,timikae,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,,,,,,,,,,,,,
-Orania trispatha,Orania,trispatha,Oranieae,Arecoideae,0,0,1,canopy,1,22,35,0,0,12,5,2.4,2.7,6.50,5,8.00,6.5,5,8,large,globose,green,,,Fruits:chek the decription,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
-Orania zonae,Orania,zonae,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,4,,,4.00,,,large,,red,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
+Orania trispatha,Orania,trispatha,Oranieae,Arecoideae,0,0,1,canopy,1,22,35,0,0,12,5,2.4,2.7,6.5,5,8,6.5,5,8,large,globose,green,,,Fruits:chek the decription,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
+Orania zonae,Orania,zonae,Oranieae,Arecoideae,0,0,1,,1,,,0,0,,,,,4,,,4,,,large,,red,,,,"A.P. Keim & J. Dransfield, A monograph of the genus Orania (Arecaceae: Oranieae) in Kew Bulletin 67. 212"
 Oraniopsis appendiculata,Oraniopsis,appendiculata,Ceroxyleae,Ceroxyloideae,0,0,1,canopy,1,20,45,0,0,15,6,5,,3.4,,,3,,,small,,yellow-orange,smooth,,,
 Parajubaea cocoides,Parajubaea,cocoides,Cocoseae,Arecoideae,0,0,1,canopy,1,16,45,0,0,30,4,2.8,1.25,4.75,4,5.5,3.4,2.8,4,large,,greenish brown,smooth,,,
 Parajubaea sunkha,Parajubaea,sunkha,Cocoseae,Arecoideae,0,0,1,canopy,1,14,50,0,0,26,3,2.5,0.55,3.5,,,2.75,2.5,3,small,globose,,,,,
 Parajubaea torallyi,Parajubaea,torallyi,Cocoseae,Arecoideae,0,0,1,canopy,1,15,35,0,0,25,4.08,2.38,1.8,5.25,3,7.5,3.5,2,5,large,ovoid,greenish brown,,,,
-Pelagodoxa henryana,Pelagodoxa,henryana,Pelagodoxeae,Arecoideae,0,0,1,canopy,1,11,15,0,0,15,3.5,3.28,1.55,12.5,,,8.50,2,15,large,globose,"tan, corky, warty",,,,palmpedia
+Pelagodoxa henryana,Pelagodoxa,henryana,Pelagodoxeae,Arecoideae,0,0,1,canopy,1,11,15,0,0,15,3.5,3.28,1.55,12.5,,,8.5,2,15,large,globose,"tan, corky, warty",,,,palmpedia
 Phoenicophorium borsigianum,Phoenicophorium,borsigianum,Areceae,Arecoideae,0,0,1,canopy,1,15,,1,1,,2,,,1.15,0.8,1.5,0.75,,,small,ovoid,orange,,,,palmpedia
 Phoenix acaulis,Phoenix,acaulis,Phoeniceae,Coryphoideae,0,1,0,understorey,1,0.5,,0,1,,2,1.5,0.55,2,1.2,,0.8,,,small,globose,blue-black,,,,
 Phoenix andamanensis,Phoenix,andamanensis,Phoeniceae,Coryphoideae,0,0,1,understorey,1,5,15,0,1,,2.4,,,1.9,,,1,,,small,,dark brown,,,,
@@ -2024,7 +2024,7 @@ Phoenix theophrasti,Phoenix,theophrasti,Phoeniceae,Coryphoideae,0,0,1,canopy,0,1
 Pholidocarpus ihur,Pholidocarpus,ihur,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,30,40,0,1,25,1.3,,2.75,4,,,3.5,,,large,ovoid,dull brown,,,,Kew herbaria
 Pholidocarpus kingianus,Pholidocarpus,kingianus,Trachycarpeae,Coryphoideae,0,0,1,,1,,,0,1,,,,1.15,8,,,5.5,,,large,globose,,,,,
 Pholidocarpus macrocarpus,Pholidocarpus,macrocarpus,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,40,40,0,1,50,1.1,1,2.75,11.5,10,13,11,10,12,large,globose,dull or dusty brown,warty; warty-corky,,,
-Pholidocarpus majadum,Pholidocarpus,majadum,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,15,30,0,1,,1,,2.4,7.75,4.5,11,7.50,4,11,large,,"warty, corky, brown",,,,Kew herbaria
+Pholidocarpus majadum,Pholidocarpus,majadum,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,15,30,0,1,,1,,2.4,7.75,4.5,11,7.5,4,11,large,,"warty, corky, brown",,,,Kew herbaria
 Pholidocarpus mucronatus,Pholidocarpus,mucronatus,Trachycarpeae,Coryphoideae,0,0,1,,1,,,0,1,,,,,,,,,,,,globose,,,,,
 Pholidocarpus sumatranus,Pholidocarpus,sumatranus,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,15,,0,1,,1,1,2.75,7.5,,,7.5,,,large,ovoid,corky brown,,,,palmpedia
 Pholidostachys amazonensis,Pholidostachys,amazonensis,Geonomateae,Arecoideae,0,0,1,,1,,,0,0,,,0.42,,,,,,,,,,,,,,
@@ -2037,19 +2037,19 @@ Pholidostachys sanluisensis,Pholidostachys,sanluisensis,Geonomateae,Arecoideae,0
 Pholidostachys synanthera,Pholidostachys,synanthera,Geonomateae,Arecoideae,0,0,1,canopy,1,12,22,0,0,27,2.6,1.24,1.41,1.385,1,1.77,0.84,0.61,1.05,small,ovoid,black,,,,
 Physokentia avia,Physokentia,avia,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,,,,,,,,,,,,,
 Physokentia dennisii,Physokentia,dennisii,Areceae,Arecoideae,0,0,1,canopy,1,10.5,,0,0,,1.82,1.8,0.02,1.5,,,1.1,,,small,,orange-red,,,,palmweb
-Physokentia insolita,Physokentia,insolita,Areceae,Arecoideae,0,0,1,canopy,1,15,17.5,0,0,8,2.175,1.8,0.43,1.2,1.1,1.3,1.20,1,1.3,small,,red,,,,palmweb
-Physokentia petiolata,Physokentia,petiolata,Areceae,Arecoideae,0,0,1,canopy,1,8,10,0,0,10,2,1.78,0.24,2,,,1.65,1.3,2.00,small,globose,dark red,,,,palmweb
+Physokentia insolita,Physokentia,insolita,Areceae,Arecoideae,0,0,1,canopy,1,15,17.5,0,0,8,2.175,1.8,0.43,1.2,1.1,1.3,1.2,1,1.3,small,,red,,,,palmweb
+Physokentia petiolata,Physokentia,petiolata,Areceae,Arecoideae,0,0,1,canopy,1,8,10,0,0,10,2,1.78,0.24,2,,,1.65,1.3,2,small,globose,dark red,,,,palmweb
 Physokentia tete,Physokentia,tete,Areceae,Arecoideae,0,0,1,understorey,1,4.5,7,0,0,,0.6,,,2.55,2.5,2.6,2.05,1.8,2.3,small,,black,,,,"palmweb, Kew herbria"
 Physokentia thurstonii,Physokentia,thurstonii,Areceae,Arecoideae,0,0,1,canopy,1,7,10,0,0,10,0.95,0.55,0.45,2.5,,,2.1,,,small,,black,,,,palmweb
 Physokentia whitmorei,Physokentia,whitmorei,Areceae,Arecoideae,0,0,1,canopy,1,6,,0,0,6,0.9,,,2.3,,,2,,,small,globose,olive to black,,,,palmweb
 Phytelephas aequatorialis,Phytelephas,aequatorialis,Phytelepheae,Ceroxyloideae,0,0,1,canopy,1,15,30,0,0,25,8,,,7.5,,,,,,large,globose,"brown orange, horned husk",,,,"palmweb, fruiting head of 3cm consisting of ca. 5 fruits"
-Phytelephas macrocarpa,Phytelephas,macrocarpa,Phytelepheae,Ceroxyloideae,0,2,2,understorey,1,2,30,0,0,20,8.5,7,1.55,13,10,16,15.50,13.00,18.00,large,globose,"yellowish-orange, brown",,,,Kew herbaria
+Phytelephas macrocarpa,Phytelephas,macrocarpa,Phytelepheae,Ceroxyloideae,0,2,2,understorey,1,2,30,0,0,20,8.5,7,1.55,13,10,16,15.5,13,18,large,globose,"yellowish-orange, brown",,,,Kew herbaria
 Phytelephas schottii,Phytelephas,schottii,Phytelepheae,Ceroxyloideae,0,0,1,understorey,1,0,0,0,0,20,8.34,7.5,0.96,,,,,,,,,hidden in leaf litter,,,,Kew herbaria
 Phytelephas seemannii,Phytelephas,seemannii,Phytelepheae,Ceroxyloideae,0,0,1,understorey,1,4,30,0,0,35,6.5,5.5,,8,6,10,14,12,16,large,depressed globose,brown,,,,"palmweb, palmpedia"
 Phytelephas tenuicaulis,Phytelephas,tenuicaulis,Phytelepheae,Ceroxyloideae,0,0,1,canopy,0,7,10,0,0,20,7.76,5.5,2.36,7.5,6,9,,,,large,ovoid,brown,,,,palmpedia
 Phytelephas tumacana,Phytelephas,tumacana,Phytelepheae,Ceroxyloideae,0,0,1,understorey,1,5,20,0,0,15,6,5,,7.5,7,8,12.5,10,15,large,,brown,with woody spiny projections,,,palmpedia
 Pigafetta elata,Pigafetta,elata,Calameae,Calamoideae,0,0,1,canopy,1,40,40,0,1,,3,,0.75,0.9,,,0.7,,,small,,light brown scales,,,,palmpedia
-Pigafetta filaris,Pigafetta,filaris,Calameae,Calamoideae,0,0,1,canopy,1,25,45,0,1,20,6,6,,1.00,0.8,1.20,0.65,0.6,0.7,small,globose,imbricate yellow to orange scales ,,,,palmpedia
+Pigafetta filaris,Pigafetta,filaris,Calameae,Calamoideae,0,0,1,canopy,1,25,45,0,1,20,6,6,,1,0.8,1.2,0.65,0.6,0.7,small,globose,imbricate yellow to orange scales ,,,,palmpedia
 Pinanga acaulis,Pinanga,acaulis,Areceae,Arecoideae,0,1,0,understorey,1,0.1,0,0,0,,0.9,0.9,0.22,1.2,,,0.7,,,small,,,,,,
 Pinanga acuminata,Pinanga,acuminata,Areceae,Arecoideae,0,0,1,understorey,0,5,2,0,0,,0.7,0.7,,1.5,,,0.7,,,small,,red,,,,flora of china
 Pinanga adangensis,Pinanga,adangensis,Areceae,Arecoideae,0,0,1,canopy,0,8,5,0,0,6,2,2,,1.55,1.3,1.8,1.05,0.9,1.2,small,ovoid,purple-black,,,,
@@ -2062,8 +2062,8 @@ Pinanga aristata,Pinanga,aristata,Areceae,Arecoideae,0,0,1,understorey,2,2,2,0,0
 Pinanga arundinacea,Pinanga,arundinacea,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,globose,,,,,
 Pinanga auriculata,Pinanga,auriculata,Areceae,Arecoideae,0,0,1,understorey,1,4,3,0,0,,1,1,,1.55,1.1,2,0.85,0.7,1,small,globose,ripening from white to red to black; burgundy red,,1,,
 Pinanga badia,Pinanga,badia,Areceae,Arecoideae,0,0,1,understorey,0,3,2.5,0,0,6,2.7,1.8,,1.7,,,0.8,,,small,,red or pink,,,,
-Pinanga basilanensis,Pinanga,basilanensis,Areceae,Arecoideae,0,0,1,canopy,1,10,20,0,0,,,,,1.6,,,0.80,,,small,ovoid,,,,,Kew herbaria
-Pinanga batanensis,Pinanga,batanensis,Areceae,Arecoideae,0,0,1,canopy,1,6,,0,0,,2.5,,,2.1,,,1.20,,,small,globose,,,,,Kew herbaria
+Pinanga basilanensis,Pinanga,basilanensis,Areceae,Arecoideae,0,0,1,canopy,1,10,20,0,0,,,,,1.6,,,0.8,,,small,ovoid,,,,,Kew herbaria
+Pinanga batanensis,Pinanga,batanensis,Areceae,Arecoideae,0,0,1,canopy,1,6,,0,0,,2.5,,,2.1,,,1.2,,,small,globose,,,,,Kew herbaria
 Pinanga baviensis,Pinanga,baviensis,Areceae,Arecoideae,0,0,1,understorey,2,5,2.5,0,0,6,1.33,1,0.38,2.5,,,1,,,small,,red,,,,
 Pinanga bicolana,Pinanga,bicolana,Areceae,Arecoideae,0,0,1,understorey,1,3,4,0,0,6,1,0.75,0.27,2.2,,,1.4,,,small,,reddish orange tunring purplish-black,,,,Kew herbaria
 Pinanga borneensis,Pinanga,borneensis,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,ovoid,,,,,
@@ -2073,9 +2073,9 @@ Pinanga caesia,Pinanga,caesia,Areceae,Arecoideae,0,0,1,understorey,1,3,10,0,0,,3
 Pinanga capitata,Pinanga,capitata,Areceae,Arecoideae,0,0,1,understorey,0,2,5,0,0,8,2.4,2,0.45,1.2,,,0.7,,,small,ovoid,purplish-black,,,,Dransfield 198
 Pinanga cattienensis,Pinanga,cattienensis,Areceae,Arecoideae,0,0,1,understorey,0,1.5,2,0,0,,2.11,,1.21,1.9,1.8,2,0.55,0.5,0.6,small,globose,red-pink,,,,palmweb
 Pinanga celebica,Pinanga,celebica,Areceae,Arecoideae,0,0,1,understorey,1,5,6,0,0,,2,,0.45,1.5,,,0.9,,,small,globose,"purple, pulp as well",,,,Kew herbaria
-Pinanga chaiana,Pinanga,chaiana,Areceae,Arecoideae,0,0,1,canopy,1,5.5,2.5,0,0,7,2,1.82,0.2,1.35,1,1.7,0.60,,,small,globose,almost mature fruit greenish yellow,,,,Dransfield 198
+Pinanga chaiana,Pinanga,chaiana,Areceae,Arecoideae,0,0,1,canopy,1,5.5,2.5,0,0,7,2,1.82,0.2,1.35,1,1.7,0.6,,,small,globose,almost mature fruit greenish yellow,,,,Dransfield 198
 Pinanga cleistantha,Pinanga,cleistantha,Areceae,Arecoideae,0,0,1,understorey,0,3,0.7,0,0,8,0.3,,,1.5,,,1,,,small,globose,purplish brown,,,,Kew herbaria
-Pinanga copelandii,Pinanga,copelandii,Areceae,Arecoideae,0,0,1,canopy,1,10,20,0,0,,3,,,2.00,1.5,2.5,1,,,small,elongate,red turning deep purplish-black,,,,Kew herbaria
+Pinanga copelandii,Pinanga,copelandii,Areceae,Arecoideae,0,0,1,canopy,1,10,20,0,0,,3,,,2,1.5,2.5,1,,,small,elongate,red turning deep purplish-black,,,,Kew herbaria
 Pinanga coronata,Pinanga,coronata,Areceae,Arecoideae,0,0,1,canopy,0,10,10,0,0,7,3,2,0.95,1.3,1.1,1.5,0.8,0.6,1,small,ovoid,"yellow pink to black, on red rachis",,,,"palmweb, kew herbaria"
 Pinanga crassipes,Pinanga,crassipes,Areceae,Arecoideae,0,0,1,understorey,1,2,7,0,0,,3.5,,2.1,1.6,,,0.9,,,small,ovoid,pinkish red to black,,,,palmpedia
 Pinanga cucullata,Pinanga,cucullata,Areceae,Arecoideae,0,0,1,understorey,0,0.6,0.8,0,0,8,0.5,,,1.3,,,0.5,,,small,,black,,,,palmweb
@@ -2093,7 +2093,7 @@ Pinanga fractiflexa,Pinanga,fractiflexa,Areceae,Arecoideae,0,0,1,understorey,0,5
 Pinanga furfuracea,Pinanga,furfuracea,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,ovoid,,,,,
 Pinanga geonomiformis,Pinanga,geonomiformis,Areceae,Arecoideae,0,0,1,understorey,2,5,3,0,0,,1,,0.29,1,,,0.8,,,small,,pink to purplish black,,,,Kew herbaria
 Pinanga glauca,Pinanga,glauca,Areceae,Arecoideae,0,0,1,understorey,0,3.5,1.5,0,0,5,0.56,,0.13,1.2,,,0.9,,,small,,,,,,
-Pinanga glaucescens,Pinanga,glaucescens,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.7,,,1.00,,,small,,black,,,,Kew herbaria
+Pinanga glaucescens,Pinanga,glaucescens,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.7,,,1,,,small,,black,,,,Kew herbaria
 Pinanga glaucifolia,Pinanga,glaucifolia,Areceae,Arecoideae,0,0,1,understorey,1,3,6,0,0,8,1.23,1,0.25,2,,,1.8,,,small,ovoid,"ripening yellow then red, but ultimately satiny purplish-black",,,,palmweb
 Pinanga globulifera,Pinanga,globulifera,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,globose,,,,,
 Pinanga gracilis,Pinanga,gracilis,Areceae,Arecoideae,0,0,1,understorey,0,4,1.5,0,0,6,0.73,0.6,0.15,1.8,0.8,,1,,,small,globose,red,,,,
@@ -2151,11 +2151,11 @@ Pinanga porrecta,Pinanga,porrecta,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,,,
 Pinanga pulchella,Pinanga,pulchella,Areceae,Arecoideae,0,0,1,understorey,1,1.5,1.5,0,0,,,,,,,,,,,,globose,,,,,
 Pinanga purpurea,Pinanga,purpurea,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,ovoid,,,,,
 Pinanga quadrijuga,Pinanga,quadrijuga,Areceae,Arecoideae,0,0,1,understorey,0,3,2,0,0,6,1.07,,0.22,1.3,,,0.7,,,small,,pink or red,,,,
-Pinanga ridleyana,Pinanga,ridleyana,Areceae,Arecoideae,0,0,1,understorey,1,1,1,0,0,8,0.5,,,1.7,,,0.50,,,small,globose,deep red to black,,,,Kew herbaria
+Pinanga ridleyana,Pinanga,ridleyana,Areceae,Arecoideae,0,0,1,understorey,1,1,1,0,0,8,0.5,,,1.7,,,0.5,,,small,globose,deep red to black,,,,Kew herbaria
 Pinanga rigida,Pinanga,rigida,Areceae,Arecoideae,0,0,1,understorey,1,5,2,0,0,,1,,,1,,,0.7,,,small,,red,,,,Kew herbaria
 Pinanga riparia,Pinanga,riparia,Areceae,Arecoideae,0,0,1,understorey,0,5,3,0,0,6,0.9,0.8,0.12,1.3,,,0.7,,,small,ovoid,ripening red to black,,1,,
 Pinanga rivularis,Pinanga,rivularis,Areceae,Arecoideae,0,0,1,understorey,0,1.5,1.5,0,0,,0.5,,,0.65,,,0.5,,,small,elongate,"bright green, yellow cream",,,,"palmpedia, Kew herbaria"
-Pinanga rumphiana,Pinanga,rumphiana,Areceae,Arecoideae,0,0,1,canopy,1,15,15,0,0,7,3.1,2.75,0.4,1.5,,,0.90,,,small,ovoid,bright red to blackish,,,,"palmpedia, Kew herbaria"
+Pinanga rumphiana,Pinanga,rumphiana,Areceae,Arecoideae,0,0,1,canopy,1,15,15,0,0,7,3.1,2.75,0.4,1.5,,,0.9,,,small,ovoid,bright red to blackish,,,,"palmpedia, Kew herbaria"
 Pinanga rupestris,Pinanga,rupestris,Areceae,Arecoideae,0,0,1,understorey,0,0.6,0.6,0,0,6,0.67,0.5,0.19,1.7,,,0.9,,,small,ovoid,,,,,
 Pinanga salicifolia,Pinanga,salicifolia,Areceae,Arecoideae,0,0,1,understorey,1,4,4,0,0,6,1.5,,0.45,1.5,,,0.5,,,small,globose,"pale green, brown",,,,Kew herbaria
 Pinanga samarana,Pinanga,samarana,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,,,,,,,,globose,,,,,
@@ -2166,7 +2166,7 @@ Pinanga sessilifolia,Pinanga,sessilifolia,Areceae,Arecoideae,0,0,1,understorey,1
 Pinanga sibuyanensis,Pinanga,sibuyanensis,Areceae,Arecoideae,0,0,1,canopy,,9,15,0,0,,1.2,,,2.1,,,1.5,,,small,,green?,,,,Kew herbaria
 Pinanga sierramadreana,Pinanga,sierramadreana,Areceae,Arecoideae,0,0,1,understorey,1,5,2.5,0,0,5,0.9,0.6,0.33,1.3,,,0.8,,,small,globose,green ripening red then purplish-black,,,,palmpedia
 Pinanga simplicifrons,Pinanga,simplicifrons,Areceae,Arecoideae,0,0,1,understorey,0,1.5,1.5,0,0,7,0.8,,,1.9,1.8,2,1,,,small,,red,,,,
-Pinanga singaporensis,Pinanga,singaporensis,Areceae,Arecoideae,0,0,1,,0,,,0,0,,,,,1.6,,,0.90,,,small,globose,,,,,Kew herbaria
+Pinanga singaporensis,Pinanga,singaporensis,Areceae,Arecoideae,0,0,1,,0,,,0,0,,,,,1.6,,,0.9,,,small,globose,,,,,Kew herbaria
 Pinanga sobolifera,Pinanga,sobolifera,Areceae,Arecoideae,0,0,1,understorey,0,2,2.5,0,0,5,1.1,1.02,0.11,1.2,,,0.8,,,small,ovoid,ripening pinkish then purplish-black,,,,palmweb
 Pinanga speciosa,Pinanga,speciosa,Areceae,Arecoideae,0,0,1,,1,,12,0,0,,2.5,,,0.4,,,,,,small,ovoid,red black,,,,palmpedia
 Pinanga stricta,Pinanga,stricta,Areceae,Arecoideae,0,0,1,understorey,1,1.5,1.5,0,0,,0.75,,,1.5,,,0.6,,,small,ovoid,,,,,
@@ -2215,7 +2215,7 @@ Podococcus barteri,Podococcus,barteri,Podococceae,Arecoideae,0,0,1,understorey,1
 Pogonotium divaricatum,Pogonotium,divaricatum,Calameae,Calamoideae,2,0,2,understorey,1,4,2,0,1,,1.2,,,1.55,1.4,1.7,1.7,,,small,,dull red-brown,,,,palmweb
 Pogonotium moorei,Pogonotium,moorei,Calameae,Calamoideae,0,0,1,understorey,1,2,1.8,0,1,,1.1,,,1.3,,,0.9,,,small,,pinkish-brown,,,,palmweb
 Pogonotium ursinum,Pogonotium,ursinum,Calameae,Calamoideae,2,0,2,understorey,1,4,2,0,1,,1.2,,,1.7,,,1.4,,,small,globose,dull red-brown,,,,palmweb
-Ponapea hentyi,Ponapea,hentyi,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,1.6,,,1.00,,,small,,red,,,,"palmpedia, Kew herbaria"
+Ponapea hentyi,Ponapea,hentyi,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,1.6,,,1,,,small,,red,,,,"palmpedia, Kew herbaria"
 Ponapea hosinoi,Ponapea,hosinoi,Areceae,Arecoideae,0,0,1,canopy,1,15,20,0,0,,3,,,3,2.8,3.2,1.8,1.7,1.9,small,elongate,red,,,,
 Ponapea ledermanniana,Ponapea,ledermanniana,Areceae,Arecoideae,0,0,1,canopy,1,15,12,0,0,,3,3,,4,3.6,4.4,1.65,1.6,1.7,large,globose,red,,,,
 Ponapea palauensis,Ponapea,palauensis,Areceae,Arecoideae,0,0,1,,1,,,0,0,,2,,,2.25,2.2,2.3,1.15,1.1,1.2,small,globose,,,,,
@@ -2223,14 +2223,14 @@ Prestoea acuminata,Prestoea,acuminata,Euterpeae,Arecoideae,0,0,1,canopy,2,15,20,
 Prestoea carderi,Prestoea,carderi,Euterpeae,Arecoideae,0,0,1,understorey,2,4,10,0,0,10,4.9,2.4,2.6,0.85,,,0.85,0.7,1,small,ovoid,purple-black,,,Color change: flowering branches change color from white at flowering time to reddish at fruiting time,
 Prestoea decurrens,Prestoea,decurrens,Euterpeae,Arecoideae,0,0,1,canopy,2,10,12,0,0,10,4.67,3.12,1.65,0.9,,,0.9,0.7,1.1,small,globose,purple-black,,,Color change: flowering branches change color from white at flowering time to reddish at fruiting time,
 Prestoea ensiformis,Prestoea,ensiformis,Euterpeae,Arecoideae,0,0,1,canopy,2,10,13,0,0,14,3.4,2.3,1.15,0.85,,,0.85,0.7,1,small,globose,purple-black,,,Color change: flowering branches change color from white at flowering time to reddish at fruiting time,
-Prestoea longepetiolata,Prestoea,longepetiolata,Euterpeae,Arecoideae,0,0,1,,,,,0,0,,,,,1.05,1,1.1,1.05,1.00,1.10,small,,purple,,,,Kew herbaria
+Prestoea longepetiolata,Prestoea,longepetiolata,Euterpeae,Arecoideae,0,0,1,,,,,0,0,,,,,1.05,1,1.1,1.05,1,1.1,small,,purple,,,,Kew herbaria
 Prestoea pubens,Prestoea,pubens,Euterpeae,Arecoideae,0,0,1,understorey,2,3.5,5,0,0,10,2.8,1.8,,0.9,,,0.9,0.8,1,small,ovoid,purple-black,,,Color change: flowering branches change color from white at flowering time to reddish at fruiting time,
 Prestoea pubigera,Prestoea,pubigera,Euterpeae,Arecoideae,0,0,1,understorey,1,4,3.5,0,0,9,1.53,0.8,0.78,1,,,1,0.8,1.2,small,globose,purple-black,,,Color change: flowering branches change color from white at flowering time to reddish at fruiting time,
 Prestoea schultzeana,Prestoea,schultzeana,Euterpeae,Arecoideae,0,0,1,understorey,2,5,5.5,0,0,10,3.8,2.2,1.7,0.85,,,0.85,0.7,1,small,elongate,purple-black,,,Color change: flowering branches change color from white at flowering time to reddish at fruiting time,
 Prestoea simplicifolia,Prestoea,simplicifolia,Euterpeae,Arecoideae,0,0,1,canopy,2,8,7,0,0,12,1.9,1.8,0.12,1.15,,,1.15,0.9,1.4,small,globose,purple-black,,,Color change: flowering branches change color from white at flowering time to reddish at fruiting time,
 Prestoea tenuiramosa,Prestoea,tenuiramosa,Euterpeae,Arecoideae,0,0,1,canopy,2,10,20,0,0,15,2.2,1.8,0.45,1.1,,,1.1,1,1.2,small,ovoid,purple-black,,,Color change: flowering branches change color from white at flowering time to reddish at fruiting time,
 Pritchardia arecina,Pritchardia,arecina,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,15,50,0,0,15,1.8,,0.02,4.5,,,3.9,3.8,4,large,,brown to black,,,,
-Pritchardia bakeri,Pritchardia,bakeri,Trachycarpeae,Coryphoideae,0,0,1,,1,,,0,0,,,,,4,,,3.50,,,large,,green to brown to black,,,,palmpedia
+Pritchardia bakeri,Pritchardia,bakeri,Trachycarpeae,Coryphoideae,0,0,1,,1,,,0,0,,,,,4,,,3.5,,,large,,green to brown to black,,,,palmpedia
 Pritchardia beccariana,Pritchardia,beccariana,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,20,30,0,0,,,,,4,,,3.5,3,4,large,,brown to black,,,,
 Pritchardia flynnii,Pritchardia,flynnii,Trachycarpeae,Coryphoideae,0,0,1,understorey,1,5,,0,0,26,1,,,3,2.5,3.5,2.05,1.8,2.3,small,elongate,brown to black,with felt-like hairs,,,
 Pritchardia forbesiana,Pritchardia,forbesiana,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,10,,0,0,,,,,4.25,4,4.5,3.35,3.2,3.5,large,ovoid,brown to black,glabrous,,,
@@ -2271,7 +2271,7 @@ Ptychosperma cuneatum,Ptychosperma,cuneatum,Areceae,Arecoideae,0,0,1,understorey
 Ptychosperma elegans,Ptychosperma,elegans,Areceae,Arecoideae,0,0,1,canopy,1,12,8,0,0,11,3.3,2.3,,1.2,0.9,1.5,0.9,0.8,1,small,globose,red,"smooth, semi-glossy",,,
 Ptychosperma furcatum,Ptychosperma,furcatum,Areceae,Arecoideae,0,0,1,understorey,2,5,5,0,0,,1.7,1.7,,1.3,1.2,1.4,0.7,,,small,,red,,,,
 Ptychosperma gracile,Ptychosperma,gracile,Areceae,Arecoideae,0,0,1,canopy,1,12,8,0,0,10,2.5,2.5,,1.55,1.4,1.7,0.8,0.7,0.9,small,,red,,,,
-Ptychosperma halmaherense,Ptychosperma,halmaherense,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.4,1.3,1.5,1.00,,,small,,purple and becoming bright yellow or light orange when mature,,,,palmpedia
+Ptychosperma halmaherense,Ptychosperma,halmaherense,Areceae,Arecoideae,0,0,1,,,,,0,0,,,,,1.4,1.3,1.5,1,,,small,,purple and becoming bright yellow or light orange when mature,,,,palmpedia
 Ptychosperma hartmannii,Ptychosperma,hartmannii,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,,,,,,,,ovoid,,,,,
 Ptychosperma lauterbachii,Ptychosperma,lauterbachii,Areceae,Arecoideae,0,0,1,canopy,2,14,9,0,0,,2.8,2.8,,1.6,1.4,1.8,0.8,0.7,0.9,small,ovoid,pale orange or orange-red,,,,
 Ptychosperma lineare,Ptychosperma,lineare,Areceae,Arecoideae,0,0,1,canopy,2,15,4,0,0,,2.5,2.5,,1.3,1.1,1.5,0.75,0.7,0.8,small,ovoid,"yellow-green, turning rose-colored, then black-purple",,1,,
@@ -2280,7 +2280,7 @@ Ptychosperma macrocerum,Ptychosperma,macrocerum,Areceae,Arecoideae,0,0,1,,1,,,0,
 Ptychosperma mambare,Ptychosperma,mambare,Areceae,Arecoideae,0,0,1,canopy,0,6,5,0,0,,2.1,2.1,,1.4,,,,,,small,,purple,,,,
 Ptychosperma microcarpum,Ptychosperma,microcarpum,Areceae,Arecoideae,0,0,1,canopy,2,9,13,0,0,8,2.5,2.5,,1.3,1.2,1.4,0.8,0.7,0.9,small,globose,red,,,,
 Ptychosperma mooreanum,Ptychosperma,mooreanum,Areceae,Arecoideae,0,0,1,canopy,1,8,4,0,0,8,,,,,,,,,,,,,,,,
-Ptychosperma nicolai,Ptychosperma,nicolai,Areceae,Arecoideae,0,0,1,canopy,2,8,,0,0,,,,,1,,,0.50,,,small,,red,,,,palmpedia
+Ptychosperma nicolai,Ptychosperma,nicolai,Areceae,Arecoideae,0,0,1,canopy,2,8,,0,0,,,,,1,,,0.5,,,small,,red,,,,palmpedia
 Ptychosperma praemorsum,Ptychosperma,praemorsum,Areceae,Arecoideae,0,0,1,understorey,2,4,,0,0,,,,,,,,,,,,globose,,,,,
 Ptychosperma propinquum,Ptychosperma,propinquum,Areceae,Arecoideae,0,0,1,canopy,2,8,5,0,0,9,1.6,,0.35,1.85,1.7,2,0.8,,,small,,red,,,,
 Ptychosperma pullenii,Ptychosperma,pullenii,Areceae,Arecoideae,0,0,1,canopy,1,6,2,0,0,6,2.26,1.87,0.44,1.2,,,0.8,,,small,ovoid,black-purple,,,,
@@ -2347,15 +2347,15 @@ Rhapis gracilis,Rhapis,gracilis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,2
 Rhapis humilis,Rhapis,humilis,Trachycarpeae,Coryphoideae,0,0,1,canopy,0,6,4,0,0,10,0.9,0.9,,0.7,,,0.71,,,small,ovoid,,,,,
 Rhapis micrantha,Rhapis,micrantha,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,2,1.8,0,0,14,0.91,,0.46,0.75,0.61,0.85,0.715,0.63,0.8,small,,white,,,,
 Rhapis multifida,Rhapis,multifida,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,3,2.5,0,0,,1.2,0.56,0.69,0.8,,,0.8,,,small,globose,yellow,,,,
-Rhapis puhuongensis,Rhapis,puhuongensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,1,0.5,0,0,,,,,2.95,2.6,3.3,0.80,,,small,elongate,yellow-white,overlapping scales,,Fruits: on long swollen stalks,"palmpedia, Kew herbaria"
+Rhapis puhuongensis,Rhapis,puhuongensis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,1,0.5,0,0,,,,,2.95,2.6,3.3,0.8,,,small,elongate,yellow-white,overlapping scales,,Fruits: on long swollen stalks,"palmpedia, Kew herbaria"
 Rhapis robusta,Rhapis,robusta,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,2,2,0,0,,0.6,0.29,0.34,2,1.5,2.5,0.5,,,small,,green,,,,Hastings 23
 Rhapis subtilis,Rhapis,subtilis,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,3,2.5,0,0,18,0.5,0.34,0.18,0.775,0.6,0.95,0.79,0.63,0.95,small,globose,whitish,,,,
 Rhapis vidalii,Rhapis,vidalii,Trachycarpeae,Coryphoideae,0,0,1,understorey,0,2,0.5,0,0,,,,,0.91,0.89,0.93,0.76,0.7,0.82,small,ovoid,white,,,,
-Rhopaloblaste augusta,Rhopaloblaste,augusta,Areceae,Arecoideae,0,0,1,canopy,1,25,30,0,0,11,4.1,4,0.12,2.40,2.2,2.6,1.6,1,2.2,small,,orange-red,,,,palmweb
-Rhopaloblaste ceramica,Rhopaloblaste,ceramica,Areceae,Arecoideae,0,0,1,canopy,1,35,35,0,0,17,4.05,4,0.07,3.25,3,3.5,1.70,1.6,1.8,small,ovoid,red,,,,palmweb
+Rhopaloblaste augusta,Rhopaloblaste,augusta,Areceae,Arecoideae,0,0,1,canopy,1,25,30,0,0,11,4.1,4,0.12,2.4,2.2,2.6,1.6,1,2.2,small,,orange-red,,,,palmweb
+Rhopaloblaste ceramica,Rhopaloblaste,ceramica,Areceae,Arecoideae,0,0,1,canopy,1,35,35,0,0,17,4.05,4,0.07,3.25,3,3.5,1.7,1.6,1.8,small,ovoid,red,,,,palmweb
 Rhopaloblaste elegans,Rhopaloblaste,elegans,Areceae,Arecoideae,0,0,1,canopy,1,12,20,0,0,14,3.5,3.5,,2.55,2.5,2.6,2.15,2,2.3,small,globose,orange,,,,palmweb
-Rhopaloblaste gideonii,Rhopaloblaste,gideonii,Areceae,Arecoideae,0,0,1,canopy,1,25,20,0,0,,4.1,4,0.12,1.7,1.6,1.8,0.70,0.6,0.8,small,ovoid,,,,,palmweb
-Rhopaloblaste ledermanniana,Rhopaloblaste,ledermanniana,Areceae,Arecoideae,0,0,1,canopy,1,30,19,0,0,13,4,3.8,0.22,1.83,1.55,2.1,1.00,0.8,1.2,small,globose,orange-red,,,,palmweb
+Rhopaloblaste gideonii,Rhopaloblaste,gideonii,Areceae,Arecoideae,0,0,1,canopy,1,25,20,0,0,,4.1,4,0.12,1.7,1.6,1.8,0.7,0.6,0.8,small,ovoid,,,,,palmweb
+Rhopaloblaste ledermanniana,Rhopaloblaste,ledermanniana,Areceae,Arecoideae,0,0,1,canopy,1,30,19,0,0,13,4,3.8,0.22,1.83,1.55,2.1,1,0.8,1.2,small,globose,orange-red,,,,palmweb
 Rhopaloblaste singaporensis,Rhopaloblaste,singaporensis,Areceae,Arecoideae,0,0,1,understorey,0,5,4,0,0,8,2.5,1.8,0.75,1.1,1,1.2,0.85,0.8,0.9,small,,yellowish orange to red,,,,palmweb
 Rhopalostylis baueri,Rhopalostylis,baueri,Areceae,Arecoideae,0,0,1,canopy,1,18,35,0,0,12,4.2,4,0.22,1.4,1.1,1.7,1,,,small,elongate,red,smooth,,,
 Rhopalostylis sapida,Rhopalostylis,sapida,Areceae,Arecoideae,0,0,1,canopy,1,15,25,0,0,,3,,,1.3,,,0.9,,,small,,red,,,,palmpedia
@@ -2404,7 +2404,7 @@ Salacca sarawakensis,Salacca,sarawakensis,Calameae,Calamoideae,0,1,0,understorey
 Salacca secunda,Salacca,secunda,Calameae,Calamoideae,0,1,0,understorey,0,0,0,0,1,,6,6,3.75,6,,,6.25,6,6.5,large,elongate,brown,"with numerous overlapping, flattened, spinelike scales",,,
 Salacca stolonifera,Salacca,stolonifera,Calameae,Calamoideae,0,1,0,understorey,0,0.7,8,0,1,9,2.5,2.5,,,,,,,,,globose,brown,with numerous overlapping spinelike scales,,,
 Salacca sumatrana,Salacca,sumatrana,Calameae,Calamoideae,0,1,0,understorey,0,0,0,0,1,8,8,,2.1,7,,,4.5,,,large,globose,green,with numerous overlapping scales,,,http://tropicalfruitforum.com/index.php?action=profile;u=2238;area=showposts;start=275
-Salacca vermicularis,Salacca,vermicularis,Calameae,Calamoideae,0,1,0,understorey,0,0,0,0,1,,7.5,,3.25,5.6,,,2.60,,,large,elongate,black with red/brown spines,with numerous overlapping scales,,,Kew herbaria
+Salacca vermicularis,Salacca,vermicularis,Calameae,Calamoideae,0,1,0,understorey,0,0,0,0,1,,7.5,,3.25,5.6,,,2.6,,,large,elongate,black with red/brown spines,with numerous overlapping scales,,,Kew herbaria
 Salacca wallichiana,Salacca,wallichiana,Calameae,Calamoideae,0,0,1,understorey,0,5,30,0,1,18,7,,,7.5,7,8,4,,,large,globose,reddish brown,with numerous overlapping flattened spinelike scales,,,
 Salacca zalacca,Salacca,zalacca,Calameae,Calamoideae,0,1,0,understorey,0,0,15,0,1,,7,4,2.75,4.35,4,4.7,2.95,2,3.9,large,globose,"brown, scaly",with numerous overlapping scales,,,Kew herbaria
 Saribus brevifolius,Saribus,brevifolius,Corypheae,Coryphoideae,0,0,1,canopy,1,22,12,0,1,40,0.62,,1.1,1.2,,,1.2,,,small,,,,,,
@@ -2414,13 +2414,13 @@ Saribus merrillii,Saribus,merrillii,Corypheae,Coryphoideae,0,0,1,canopy,1,20,30,
 Saribus papuanus,Saribus,papuanus,Corypheae,Coryphoideae,0,0,1,canopy,1,30,30,0,1,40,,,2,1.95,1.4,2.5,1.25,0.5,2,small,,orange-red,,,,Dowe 212
 Saribus rotundifolius,Saribus,rotundifolius,Corypheae,Coryphoideae,0,0,1,canopy,1,45,25,0,1,50,,,2.1,1.8,1.1,2.5,,,,small,,orange-red to red or to dark violet or bluish-black,,,,Dowe 213
 Saribus surru,Saribus,surru,Corypheae,Coryphoideae,0,0,1,canopy,1,20,25,0,1,29,,,1.8,6,5.5,6.5,5.25,5,5.5,large,,orange-red,,,,Dowe 214
-Saribus tothur,Saribus,tothur,Corypheae,Coryphoideae,0,0,1,canopy,1,20,20,0,1,40,,,2,3.90,3.5,4.3,,,,small,,semi-glossy orange-red,,,,Dowe 215
+Saribus tothur,Saribus,tothur,Corypheae,Coryphoideae,0,0,1,canopy,1,20,20,0,1,40,,,2,3.9,3.5,4.3,,,,small,,semi-glossy orange-red,,,,Dowe 215
 Saribus woodfordii,Saribus,woodfordii,Corypheae,Coryphoideae,0,0,1,canopy,1,16,20,0,1,60,,,1.1,1.08,0.95,1.2,,,,small,,reddish orange to reddish brown,,,,Dowe 216
 Satakentia liukiuensis,Satakentia,liukiuensis,Areceae,Arecoideae,0,0,1,canopy,1,30,30,0,0,,3,3,,1.3,,,0.715,0.7,0.73,small,globose,black,,,,
 Satranala decussilvae,Satranala,decussilvae,Borasseae,Coryphoideae,0,0,1,canopy,1,15,18,0,0,24,4.5,1.8,2.8,5.6,,,5,,,large,ovoid,"purple-black, shiny",smooth,,,
 Schippia concolor,Schippia,concolor,Cryosophileae,Coryphoideae,0,0,1,canopy,1,10,10,0,0,15,1.2,1.2,2.1,2.5,,,2.5,,,small,elongate,white,,,,
 Sclerosperma mannii,Sclerosperma,mannii,Sclerospermeae,Arecoideae,0,2,2,understorey,0,0,,0,0,,5,5,2.6,3,2.5,3.5,2.55,2.2,2.9,small,globose,purplish to black,,,,palmweb
-Sclerosperma profizianum,Sclerosperma,profizianum,Sclerospermeae,Arecoideae,0,2,2,understorey,0,2,,0,0,,8.5,4.5,3.75,3.75,2.5,4.5,3.50,3,4,small,globose,purplish to black,,,,palmweb
+Sclerosperma profizianum,Sclerosperma,profizianum,Sclerospermeae,Arecoideae,0,2,2,understorey,0,2,,0,0,,8.5,4.5,3.75,3.75,2.5,4.5,3.5,3,4,small,globose,purplish to black,,,,palmweb
 Sclerosperma walkeri,Sclerosperma,walkeri,Sclerospermeae,Arecoideae,0,1,0,understorey,0,0,,0,0,,6,2,3.75,4.5,4,5,3.25,3,3.5,large,globose,purplish to black,,,,palmweb
 Serenoa repens,Serenoa,repens,Trachycarpeae,Coryphoideae,0,0,1,canopy,0,7.5,,0,1,,1.5,0.9,0.65,2.05,1.6,2.5,1.55,1.2,1.9,small,ovoid,dark blue to black,,,,
 Socratea exorrhiza,Socratea,exorrhiza,Irarteeae,Arecoideae,0,0,1,canopy,1,20,20,0,0,7,3.5,2.8,0.75,3,2.5,3.5,1.75,1.5,2,small,,yellowish,smooth; splitting irregulaly from the apex,,,
@@ -2482,7 +2482,7 @@ Syagrus schizophylla,Syagrus,schizophylla,Cocoseae,Arecoideae,0,0,1,understorey,
 Syagrus smithii,Syagrus,smithii,Cocoseae,Arecoideae,0,0,1,canopy,1,10,10,0,0,18,3.56,3,0.1,6.5,5,8,3.6,3,4.2,large,ellipsoid,dark brown or yellowish,,,,
 Syagrus stenopetala,Syagrus,stenopetala,Cocoseae,Arecoideae,0,0,1,canopy,2,15,18,0,0,18,,2.4,0.15,3.5,3,4,2.2,1.8,2.6,small,ellipsoid,yellow to orange,,,,"Kew herbaria, immature"
 Syagrus stratincola,Syagrus,stratincola,Cocoseae,Arecoideae,0,0,1,canopy,0,14,10,0,0,12,4,2.5,0.1,4.25,4,4.5,3.85,3.7,4,large,ovoid,yellowish green,,,,
-Syagrus teixeiriana,Syagrus,teixeiriana,Cocoseae,Arecoideae,0,,,,,,,0,,,,,,3.4,,,1.80,,,small,,,,,,Kew herbaria
+Syagrus teixeiriana,Syagrus,teixeiriana,Cocoseae,Arecoideae,0,,,,,,,0,,,,,,3.4,,,1.8,,,small,,,,,,Kew herbaria
 Syagrus tostana,Syagrus,tostana,Cocoseae,Arecoideae,0,0,1,canopy,1,7.5,15,0,0,,2.14,2.14,,4,,,2.3,,,large,,orange,,,,
 Syagrus vagans,Syagrus,vagans,Cocoseae,Arecoideae,0,1,0,understorey,2,0.3,15,0,0,30,3,1.9,0.45,3.25,2.8,3.7,1.65,1.5,1.8,small,ellipsoid,yellowish green,,,,
 Syagrus vermicularis,Syagrus,vermicularis,Cocoseae,Arecoideae,0,0,1,canopy,1,15,20,0,0,15,3.5,2.5,0.08,5.5,5,6,4,,,large,ovoid,orange when mature,,,,
@@ -2490,8 +2490,8 @@ Syagrus werdermannii,Syagrus,werdermannii,Cocoseae,Arecoideae,0,1,0,understorey,
 Syagrus yungasensis,Syagrus,yungasensis,Cocoseae,Arecoideae,0,0,1,understorey,1,6,15,0,0,18,2.2,1.6,0.4,4,3.5,4.5,2.75,2.5,3,small,ellipsoid,green when mature,,,,
 Synechanthus fibrosus,Synechanthus,fibrosus,Chamaedoreeae,Arecoideae,0,0,1,canopy,1,6,3,0,0,12,3.6,2.5,1.15,1.75,1.4,2.1,1.2,1,1.4,small,elongate,orange-red,,,,
 Synechanthus warscewiczianus,Synechanthus,warscewiczianus,Chamaedoreeae,Arecoideae,0,0,1,canopy,0,6,5,0,0,10,2.5,1.5,,2.35,1.5,3.2,,,,small,ovoid,yellow to orange turning bright red when ripe,,1,,
-Tahina spectabilis,Tahina,spectabilis,Chuniophoeniceae,Coryphoideae,0,0,1,canopy,1,18,60,0,0,18,2,,3.55,3.25,3,3.5,2.50,2.3,2.7,small,globose,green yellowish,,,,palmweb
-Tectiphiala ferox,Tectiphiala,ferox,Areceae,Arecoideae,0,0,1,canopy,1,9,15,1,1,,2,,,1.1,,,0.60,,,small,,dark blue black,,,,palmpedia
+Tahina spectabilis,Tahina,spectabilis,Chuniophoeniceae,Coryphoideae,0,0,1,canopy,1,18,60,0,0,18,2,,3.55,3.25,3,3.5,2.5,2.3,2.7,small,globose,green yellowish,,,,palmweb
+Tectiphiala ferox,Tectiphiala,ferox,Areceae,Arecoideae,0,0,1,canopy,1,9,15,1,1,,2,,,1.1,,,0.6,,,small,,dark blue black,,,,palmpedia
 Thrinax excelsa,Thrinax,excelsa,Cryosophileae,Coryphoideae,0,0,1,canopy,1,11,20,0,0,,1.4,1.2,0.85,0.95,,,0.95,0.8,1.1,small,ovoid,white,,,,
 Thrinax parviflora,Thrinax,parviflora,Cryosophileae,Coryphoideae,0,0,1,canopy,1,13,15,0,0,15,1,1.4,1.7,0.7,,,0.7,0.65,0.75,small,ovoid,white,,,,
 Thrinax radiata,Thrinax,radiata,Cryosophileae,Coryphoideae,0,0,1,canopy,1,12,13,0,0,22,1.36,1.5,2.26,0.75,0.7,0.8,0.75,0.7,0.8,small,,white,,,,
@@ -2504,7 +2504,7 @@ Trachycarpus oreophilus,Trachycarpus,oreophilus,Trachycarpeae,Coryphoideae,0,0,1
 Trachycarpus princeps,Trachycarpus,princeps,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,10,20,0,0,26,1.2,,,0.8,,,1,,,small,ovoid,black with a waxy bloom,,,,
 Trachycarpus takil,Trachycarpus,takil,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,15,18,0,0,,1.2,,,0.8,,,1.2,,,small,ovoid,black with a waxy bloom,,,,
 Trachycarpus ukhrulensis,Trachycarpus,ukhrulensis,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,15,4,0,1,28,1,,,,,,,,,,,yellow to blackish brown,,,,Stevens 21
-Trithrinax biflabellata,Trithrinax,biflabellata,Cryosophileae,Coryphoideae,0,0,1,,2,,,,1,,,,,0.8,,,0.80,,,small,,yellow green,,,,palmpedia
+Trithrinax biflabellata,Trithrinax,biflabellata,Cryosophileae,Coryphoideae,0,0,1,,2,,,,1,,,,,0.8,,,0.8,,,small,,yellow green,,,,palmpedia
 Trithrinax brasiliensis,Trithrinax,brasiliensis,Cryosophileae,Coryphoideae,0,0,1,canopy,2,15,35,1,1,35,1.2,1.2,,1.1,,1.3,1.15,0.8,1.5,small,elongate,yellowish,,,,
 Trithrinax campestris,Trithrinax,campestris,Cryosophileae,Coryphoideae,0,0,1,canopy,2,6,25,1,1,35,1,1.4,0.65,0.8,,1,1.15,0.8,1.5,small,,yellowish,,,,
 Trithrinax schizophylla,Trithrinax,schizophylla,Cryosophileae,Coryphoideae,0,0,1,canopy,2,6,20,1,1,25,1.5,1,0.55,1.05,,1.2,1.15,0.8,1.5,small,ovoid,yellowish white,,,,
@@ -2513,8 +2513,8 @@ Veitchia filifera,Veitchia,filifera,Areceae,Arecoideae,0,0,1,canopy,1,15,20,0,0,
 Veitchia joannis,Veitchia,joannis,Areceae,Arecoideae,0,0,1,canopy,1,35,40,0,0,12,3,,,5,4,6,,,,large,ovoid,bright red,,,,palmpedia
 Veitchia lepidota,Veitchia,lepidota,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,,,,,,,,,,,,,
 Veitchia metiti,Veitchia,metiti,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,,,,,,,,,,,,,
-Veitchia pachyclada,Veitchia,pachyclada,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.4,,,1.00,,,small,,orange,,,,Kew herbaria
-Veitchia simulans,Veitchia,simulans,Areceae,Arecoideae,0,0,1,canopy,1,15,17,0,0,,3,,,2.20,1.9,2.50,1.4,,,small,globose,red,,,,pacsoa
+Veitchia pachyclada,Veitchia,pachyclada,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,2.4,,,1,,,small,,orange,,,,Kew herbaria
+Veitchia simulans,Veitchia,simulans,Areceae,Arecoideae,0,0,1,canopy,1,15,17,0,0,,3,,,2.2,1.9,2.5,1.4,,,small,globose,red,,,,pacsoa
 Veitchia spiralis,Veitchia,spiralis,Areceae,Arecoideae,0,0,1,canopy,1,15,25,0,0,,3.65,,,3.2,,,2.2,,,small,,yellow to red,,,,palmpedia
 Veitchia subdisticha,Veitchia,subdisticha,Areceae,Arecoideae,0,0,1,,1,,,0,0,,,,,1.9,,,1.05,,,small,,orange,,,,Kew herbaria
 Veitchia vitiensis,Veitchia,vitiensis,Areceae,Arecoideae,0,0,1,canopy,1,20,20,0,0,10,3,,,1.5,1.1,1.9,0.6,0.5,0.7,small,,,,,,palmpedia
@@ -2526,8 +2526,8 @@ Wallichia disticha,Wallichia,disticha,Caryoteae,Coryphoideae,0,0,1,canopy,1,9,30
 Wallichia gracilis,Wallichia,gracilis,Caryoteae,Coryphoideae,0,0,1,understorey,0,2.5,3,0,0,,2.9,1.2,1.8,1.5,,,1,,,small,,reddish brown; yellow,,,Fruits: mesocarp contains irritating crystals,
 Wallichia lidiae,Wallichia,lidiae,Caryoteae,Coryphoideae,0,0,1,understorey,0,4,4,0,0,6,3,1,2.1,,,,,,,,,,,,"Fruits: mesocarp contains irritating crystals. Stem: male stems to 4m tall, female stems to 1 m tall",
 Wallichia marianneae,Wallichia,marianneae,Caryoteae,Coryphoideae,0,0,1,understorey,0,1.6,10,0,0,6,2.8,1.3,1.55,1.1,,,0.8,,,small,globose,reddish purple,,,Fruits: mesocarp contains irritating crystals,
-Wallichia nana,Wallichia,nana,Caryoteae,Coryphoideae,0,0,1,,,,,0,0,,,,,1.2,,,1.00,,,small,,white,,,,Henderson 27
-Wallichia oblongifolia,Wallichia,oblongifolia,Caryoteae,Coryphoideae,0,0,1,,,,,0,0,,,,,1.5,,,0.80,,,small,,greenish brown to reddish,,,,palmpedia
+Wallichia nana,Wallichia,nana,Caryoteae,Coryphoideae,0,0,1,,,,,0,0,,,,,1.2,,,1,,,small,,white,,,,Henderson 27
+Wallichia oblongifolia,Wallichia,oblongifolia,Caryoteae,Coryphoideae,0,0,1,,,,,0,0,,,,,1.5,,,0.8,,,small,,greenish brown to reddish,,,,palmpedia
 Wallichia triandra,Wallichia,triandra,Caryoteae,Coryphoideae,0,0,1,understorey,0,3,5,0,0,,2.5,2.5,,1.3,,,0.7,,,small,,reddish; red,,,Fruits: mesocarp contains irritating crystals,palmweb
 Washingtonia filifera,Washingtonia,filifera,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,18.3,150,0,1,,2.2,4.2,2.1,0.6,,,1,,,small,ovoid,black,,,,
 Washingtonia robusta,Washingtonia,robusta,Trachycarpeae,Coryphoideae,0,0,1,canopy,1,30.5,80,0,1,35,2,2.9,1.02,1,,,1,,,small,,black,,,,

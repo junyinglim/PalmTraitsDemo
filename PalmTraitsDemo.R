@@ -9,25 +9,27 @@ rm(list=ls())
 
 ## DIRECTORIES ====================
 main.dir <- "~/Dropbox/Projects/2019/palms/projects/palmTraits/repo/PalmTraitsDemo/"
+#getwd()
 fig.dir <- file.path(main.dir, "figs")
 data.dir <- file.path(main.dir, "data")
 
 ## LOAD PACKAGES ====================
+# You will need to install ggtree which is crucial for the plotting in this script, run the following code to ensure that all dependent packages are also installed and updated
+install.packages(c("devtools", "rgdal", "rgeos", "ape", "plyr", "wesanderson", "cowplot", 
+                   "scatterpie", "ggrepel", "ggplot2"), dependencies = TRUE)
+devtools::install_github('GuangchuangYu/ggtree', force = TRUE)
+
 # spatial packages for maps
 library(rgdal); library(rgeos)
 
 # tidy packages for data handling and summary statistics
-library(reshape2); library(plyr)
+library(plyr)
 
 # phylogenetic package
 library(ape)
 
 # general plotting packages
-library(viridis); library(ggplot2);library(wesanderson); library(cowplot); library(ggrepel); library(scatterpie); library(ggtree)
-
-# You will need to install ggtree which is crucial for the plotting in this script, run the following code to ensure that all dependent packages are also installed and updated
-# devtools::install_github('GuangchuangYu/ggtree', force = TRUE)
-
+library(ggplot2);library(wesanderson); library(cowplot); library(ggrepel); library(scatterpie); library(ggtree)
 
 ## IMPORT DATA ====================
 # Load spatial data
@@ -48,7 +50,7 @@ shape_fort <- fortify(shape, id = id)
 shape_gg <- merge(shape_fort, shape@data, by = "id")
 
 # Load palm trait data
-traitData <- read.csv(file.path(data.dir, "PalmTraits_19.csv"), stringsAsFactors = FALSE)
+traitData <- read.table(file.path(data.dir, "PalmTraits_1.0.txt"), stringsAsFactors = FALSE, sep= "\t", header = TRUE)
 
 # Load palm occurence data
 #     These are palm species occurrences within TDWG level 3 units ('botanical countries')
@@ -156,37 +158,40 @@ ggsave(growthform_plot_wleg, filename = file.path(fig.dir, "growthform_piechart.
 ## FIGURE 3b from Kissling et al.: MAPPING GROWTH FORM ONTO PHYLOGENY
 # Convert trait values into binary values for plotting
 rownames(traitDataSubset) <- traitDataSubset$SpecName
-traitDataSubset_PA <- as.data.frame(ifelse( is.na(traitDataSubset), NA,  ifelse(traitDataSubset >= 1, 1, NA )))
-traitDataSubset_PA[,1:3] <- traitDataSubset[,1:3] # restore the taxonomic classifications
-
 traitListToPlot <- c("Acaulescent", "Climbing", "Erect")
+
 for(i in 1:length(traitListToPlot)){
-  traitDataSubset_PA[traitListToPlot[i]] <- factor(ifelse(is.na(traitDataSubset_PA[traitListToPlot[i]]), NA, i))
+  traitDataSubset[traitListToPlot[i]] <- factor(ifelse(traitDataSubset[traitListToPlot[i]] >= 1, i, NA ))
 }
 
-
-# Plot phylogeny with growth forms highlighted
+# Plot phylogeny with growth forms highlighted (uncomment lines if you would like tip and node labels)
 cladeCol <- c(wes_palette("IsleofDogs2", 5, type = "discrete"), "grey20")
 traitListCols <- c("navyblue",wes_palette("Zissou1", n = 5)[c(5,3)])
-phyloCladePlot <- ggtree(palmPhyloSubset, layout = "circular", size = 0.2)
-traitCoveragePlot <- gheatmap(phyloCladePlot, traitDataSubset_PA[traitListToPlot], colnames = FALSE, width = 0.3, color = "transparent") +
+bs = 2; fs = 3; ofs = 30; cl = c("grey90", "grey20")
+phyloCladePlot <- ggtree(palmPhyloSubset, layout = "circular", size = 0.2) +
+  # geom_text2(aes(subset=!isTip, label=node), hjust=-.3, size = 1) +
+  # geom_tiplab2(size = 1)
+  xlim(c(-10, 190)) +
+  geom_cladelabel(node = 3019, label = "Arecoideae", hjust = 1,
+                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
+  geom_cladelabel(node = 4372, label = "Ceroxyloideae", hjust = 1,
+                  offset = ofs, offset.text = 0.8, barsize = bs, fontsize = fs, color = cl) +
+  geom_cladelabel(node = 4417, label = "Calamoideae", hjust = 0,
+                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
+  geom_cladelabel(node = 2527, label = "Coryphoideae", hjust = 1,
+                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
+  geom_cladelabel(node = 1, label = "Nypoideae", hjust = 0.5, extend = 0.5,
+                  offset = ofs, offset.text = 3, barsize = bs, fontsize = fs, color = cl)
+#ggsave("~/Desktop/palmtree.pdf", phyloCladePlot, width = 10, height = 10)
+
+traitCoveragePlot <- gheatmap(phyloCladePlot, traitDataSubset[traitListToPlot], colnames = FALSE, width = 0.2, color = "transparent") +
   scale_fill_manual(values = traitListCols,
                     breaks = c("1", "2", "3"),
                     labels = c("Acaulescent", "Climbing", "Erect"),
                     expand = c(0,0)) + 
   theme(legend.title = element_blank())
-ggsave(plot = traitCoveragePlot, file.path(fig.dir, "phyloTrait.pdf"), height = 10, width = 10)
 # ignore error message, it is due to our code coercing the plotting of different variables in different colours as opposed to a plotting of factor levels across variables
-
-# Alternative phylogeny plot using tip labels
-# traitDataSubset$GrowthForm <- NA
-# traitDataSubset$GrowthForm[traitDataSubset$Acaulescent == 1] <- 1
-# traitDataSubset$GrowthForm[traitDataSubset$Climbing == 1] <- 2
-# traitDataSubset$GrowthForm[traitDataSubset$Erect == 1] <- 3
-# test <- phyloCladePlot %<+% traitDataSubset +
-#   geom_tippoint(aes(colour = factor(GrowthForm))) +
-#   scale_colour_manual(values = traitListCols)
-# ggsave("~/Desktop/asdq.pdf", test)
+ggsave(plot = traitCoveragePlot, file.path(fig.dir, "phyloTrait.pdf"), height = 10, width = 10)
 
 ########################################################################
 ## FIGURE 3c from Kissling et al.: Perform a principal component analysis to explore information of
@@ -237,12 +242,12 @@ growthform_leg <- get_legend(growthform_plot_wleg + theme(legend.justification="
 fig_panel <- plot_grid(growthform_plot_wleg + theme(legend.position = "none"),
                        plot_grid(traitCoveragePlot + theme(legend.position = "none"),
                                  growthformPCA + theme(legend.position = "none"),
-                                 labels= c("b", "c"),
-                    nrow =1, rel_widths = c(0.5, 0.5)),
+                                 labels= c("b", "c"), label_size = 20,
+                    nrow =1, rel_widths = c(0.5, 0.5), scale =c(1,0.8)),
           nrow= 2, labels = "a", 
-          rel_heights = c(1, 1.5))
+          rel_heights = c(1, 1), label_size = 20)
 
 # Add legend
 fig_panel_wleg <- plot_grid(fig_panel, growthform_leg, nrow = 2, rel_heights = c(0.95, 0.05))
-ggsave(fig_panel_wleg, filename = file.path(fig.dir, "fig3_combined.pdf"), width = 10, height = 10)
+ggsave(fig_panel_wleg, filename = file.path(fig.dir, "fig3_combined.pdf"), width = 10, height = 9)
 
