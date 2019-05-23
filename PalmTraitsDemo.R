@@ -60,12 +60,6 @@ traitData <- read.table(file.path(data.dir, "PalmTraits_1.0.txt"), stringsAsFact
 occ <- read.csv(file.path(data.dir, "palms_in_tdwg3.csv"), stringsAsFactors = FALSE)
 occ$SpecName <- gsub(occ$SpecName, pattern = "_", replacement = " ")
 
-# Correcting some known spelling errors in the database
-occ$SpecName[occ$SpecName == "Prestoea longepetiolata"] <- "Prestoea longipetiolata"
-occ$SpecName[occ$SpecName == "Coccothrinax victorinii"] <- "Coccothrinax victorini"
-occ$SpecName[occ$SpecName == "Copernicia molinetii"] <- "Copernicia molineti"
-occ$SpecName[occ$SpecName == "Licuala naumannii"] <- "Licuala nauroannii"
-
 # Load phylogeny
 #     This is a Maximum Clade Credibility (MCC) phylogenetic tree as used by Onstein et al. (2017)
 #     Nature Ecology & Evolution 1: 1903-1911.

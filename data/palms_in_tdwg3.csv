@@ -1455,7 +1455,7 @@ CLM,Prestoea_acuminata
 CLM,Prestoea_carderi
 CLM,Prestoea_decurrens
 CLM,Prestoea_ensiformis
-CLM,Prestoea_longepetiolata
+CLM,Prestoea_longipetiolata
 CLM,Prestoea_pubens
 CLM,Prestoea_schultzeana
 CLM,Prestoea_simplicifolia
@@ -1657,7 +1657,7 @@ COS,Pholidostachys_pulchra
 COS,Prestoea_acuminata
 COS,Prestoea_decurrens
 COS,Prestoea_ensiformis
-COS,Prestoea_longepetiolata
+COS,Prestoea_longipetiolata
 COS,Prestoea_schultzeana
 COS,Raphia_taedigera
 COS,Reinhardtia_gracilis
@@ -1726,7 +1726,7 @@ CUB,Coccothrinax_salvatoris
 CUB,Coccothrinax_saxicola
 CUB,Coccothrinax_torrida
 CUB,Coccothrinax_trinitensis
-CUB,Coccothrinax_victorinii
+CUB,Coccothrinax_victorini
 CUB,Coccothrinax_yunquensis
 CUB,Coccothrinax_yuraguana
 CUB,Colpothrinax_wrightii
@@ -1743,7 +1743,7 @@ CUB,Copernicia_hospita
 CUB,Copernicia_humicola
 CUB,Copernicia_longiglossa
 CUB,Copernicia_macroglossa
-CUB,Copernicia_molinetii
+CUB,Copernicia_molineti
 CUB,Copernicia_occidentalis
 CUB,Copernicia_oxycalyx
 CUB,Copernicia_rigida
@@ -3520,7 +3520,7 @@ NIC,Neonicholsonia_watsonii
 NIC,Pholidostachys_pulchra
 NIC,Prestoea_acuminata
 NIC,Prestoea_decurrens
-NIC,Prestoea_longepetiolata
+NIC,Prestoea_longipetiolata
 NIC,Prestoea_schultzeana
 NIC,Raphia_taedigera
 NIC,Reinhardtia_gracilis
@@ -3989,7 +3989,7 @@ PAN,Phytelephas_seemannii
 PAN,Prestoea_acuminata
 PAN,Prestoea_decurrens
 PAN,Prestoea_ensiformis
-PAN,Prestoea_longepetiolata
+PAN,Prestoea_longipetiolata
 PAN,Prestoea_pubens
 PAN,Prestoea_schultzeana
 PAN,Raphia_taedigera
@@ -4453,7 +4453,7 @@ SOL,Heterospathe_woodfordiana
 SOL,Hydriastele_hombronii
 SOL,Hydriastele_macrospadix
 SOL,Licuala_lauterbachii
-SOL,Licuala_naumannii
+SOL,Licuala_nauroannii
 SOL,Metroxylon_salomonense
 SOL,Nypa_fruticans
 SOL,Physokentia_dennisii
@@ -5148,7 +5148,7 @@ VEN,Oenocarpus_bataua
 VEN,Oenocarpus_mapora
 VEN,Prestoea_acuminata
 VEN,Prestoea_carderi
-VEN,Prestoea_longepetiolata
+VEN,Prestoea_longipetiolata
 VEN,Prestoea_pubigera
 VEN,Prestoea_tenuiramosa
 VEN,Roystonea_oleracea
