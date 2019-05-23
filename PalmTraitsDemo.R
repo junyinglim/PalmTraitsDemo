@@ -9,14 +9,12 @@ rm(list=ls())
 
 ## DIRECTORIES ====================
 main.dir <- "~/Dropbox/Projects/2019/palms/projects/palmTraits/repo/PalmTraitsDemo/"
-#getwd()
 fig.dir <- file.path(main.dir, "figs")
 data.dir <- file.path(main.dir, "data")
 
 ## LOAD PACKAGES ====================
 # You will need to install ggtree which is crucial for the plotting in this script, run the following code to ensure that all dependent packages are also installed and updated
-install.packages(c("devtools", "rgdal", "rgeos", "ape", "plyr", "wesanderson", "cowplot", 
-                   "scatterpie", "ggrepel", "ggplot2"), dependencies = TRUE)
+install.packages(c("devtools", "rgdal", "rgeos", "ape", "plyr", "wesanderson", "cowplot", "scatterpie", "ggrepel", "ggplot2", "BiocManager"), dependencies = TRUE)
 devtools::install_github('GuangchuangYu/ggtree', force = TRUE)
 
 # spatial packages for maps
@@ -62,6 +60,12 @@ traitData <- read.table(file.path(data.dir, "PalmTraits_1.0.txt"), stringsAsFact
 occ <- read.csv(file.path(data.dir, "palms_in_tdwg3.csv"), stringsAsFactors = FALSE)
 occ$SpecName <- gsub(occ$SpecName, pattern = "_", replacement = " ")
 
+# Correcting some known spelling errors in the database
+occ$SpecName[occ$SpecName == "Prestoea longepetiolata"] <- "Prestoea longipetiolata"
+occ$SpecName[occ$SpecName == "Coccothrinax victorinii"] <- "Coccothrinax victorini"
+occ$SpecName[occ$SpecName == "Copernicia molinetii"] <- "Copernicia molineti"
+occ$SpecName[occ$SpecName == "Licuala naumannii"] <- "Licuala nauroannii"
+
 # Load phylogeny
 #     This is a Maximum Clade Credibility (MCC) phylogenetic tree as used by Onstein et al. (2017)
 #     Nature Ecology & Evolution 1: 1903-1911.
@@ -87,7 +91,12 @@ palmPhyloSubset <- drop.tip(palmPhylo,
 occ_trait <- merge(occ, traitData[c("SpecName", "Climbing", "Acaulescent", "Erect")], by = "SpecName", all.x = TRUE)
 
 # Only include species with are mono-morphic (i.e., unambiguously a specific growth form )
-occ_trait_subset <- subset(occ_trait, !(Climbing > 1 | Acaulescent > 1 | Erect > 1))
+occ_trait_subset <- subset(occ_trait, !(is.na(Climbing) & is.na(Acaulescent) & is.na(Erect)))
+
+# Species with more than 1 growth form are coded as 0.5s so they will contribute to both growth forms categories when calculating proportions
+occ_trait_subset$Climbing[occ_trait_subset$Climbing >1] <- 0.5
+occ_trait_subset$Acaulescent[occ_trait_subset$Acaulescent > 1] <- 0.5
+occ_trait_subset$Erect[occ_trait_subset$Erect > 1] <- 0.5
 
 # Some minor changes to original geom_scatterpie_legend function (original source code from ggtree) so labels and size of pies can be more easily modified
 geom_scatterpie_legend2 <- function (radius, x, y, n = 5, labeller) {
@@ -131,9 +140,8 @@ tdwg_growthform2 <- merge(x = tdwg_growthform, y = shape@data, all.x = TRUE,
                           by.x = "Area_code_L3",
                           by.y = "LEVEL3_COD")
 
-
 # Plot map
-tdwg_growthform2$radius <- log10(tdwg_growthform2$Nsp) * 2.5 # plotting parameter
+tdwg_growthform2$radius <- log(tdwg_growthform2$Nsp+1) # plotting parameter
 traitCols <- c("navyblue",wes_palette("Zissou1", n = 5)[c(5,3)])
 growthform_plot <- ggplot() +
   # Plot base world map polygons (Antarctica excluded for clarity)
@@ -150,7 +158,7 @@ growthform_plot <- ggplot() +
         axis.text = element_blank(),
         axis.ticks = element_blank(),
         axis.line = element_blank()) 
-growthform_plot_wleg <- growthform_plot + geom_scatterpie_legend2(radius = tdwg_growthform2$radius, x=-130, y=-50, n = 3, labeller = function(x) round(10^(x / 2.5), digits = 0)  ) + geom_text(aes(x = -130, y = -50, label = "No. of species    "), hjust  = 1)
+growthform_plot_wleg <- growthform_plot + geom_scatterpie_legend2(radius = tdwg_growthform2$radius, x=-130, y=-50, n = 3, labeller = function(x) round(exp( (x / 1) - 1), digits = 0)  ) + geom_text(aes(x = -130, y = -50, label = "No. of species    "), hjust  = 1)
 
 ggsave(growthform_plot_wleg, filename = file.path(fig.dir, "growthform_piechart.pdf"), width = 9, height = 4.8)
 
@@ -171,18 +179,20 @@ bs = 2; fs = 3; ofs = 30; cl = c("grey90", "grey20")
 phyloCladePlot <- ggtree(palmPhyloSubset, layout = "circular", size = 0.2) +
   # geom_text2(aes(subset=!isTip, label=node), hjust=-.3, size = 1) +
   # geom_tiplab2(size = 1)
-  xlim(c(-10, 190)) +
-  geom_cladelabel(node = 3019, label = "Arecoideae", hjust = 1,
-                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
-  geom_cladelabel(node = 4372, label = "Ceroxyloideae", hjust = 1,
-                  offset = ofs, offset.text = 0.8, barsize = bs, fontsize = fs, color = cl) +
-  geom_cladelabel(node = 4417, label = "Calamoideae", hjust = 0,
-                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
-  geom_cladelabel(node = 2527, label = "Coryphoideae", hjust = 1,
+  xlim(c(-10, 180)) +
+  geom_cladelabel(node = 4421, label = "Calamoideae", hjust = 0,
                   offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
   geom_cladelabel(node = 1, label = "Nypoideae", hjust = 0.5, extend = 0.5,
-                  offset = ofs, offset.text = 3, barsize = bs, fontsize = fs, color = cl)
-#ggsave("~/Desktop/palmtree.pdf", phyloCladePlot, width = 10, height = 10)
+                  offset = ofs, offset.text = 4.5, barsize = bs, fontsize = fs, color = cl) +
+  geom_cladelabel(node = 3021, label = "Arecoideae", hjust = 1,
+                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
+  geom_cladelabel(node = 4376, label = "Ceroxyloideae", hjust = 1,
+                  offset = ofs, offset.text = 0.8, barsize = bs, fontsize = fs, color = cl) +
+  geom_cladelabel(node = 2529, label = "Coryphoideae", hjust = 1,
+                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
+  theme(plot.margin = unit(c(0,0,0,0), "cm"),
+        panel.background = element_rect(fill = "transparent"))
+#ggsave("~/Desktop/palmtree.pdf", phyloCladePlot, width = 20, height = 20)
 
 traitCoveragePlot <- gheatmap(phyloCladePlot, traitDataSubset[traitListToPlot], colnames = FALSE, width = 0.2, color = "transparent") +
   scale_fill_manual(values = traitListCols,
@@ -243,11 +253,10 @@ fig_panel <- plot_grid(growthform_plot_wleg + theme(legend.position = "none"),
                        plot_grid(traitCoveragePlot + theme(legend.position = "none"),
                                  growthformPCA + theme(legend.position = "none"),
                                  labels= c("b", "c"), label_size = 20,
-                    nrow =1, rel_widths = c(0.5, 0.5), scale =c(1,0.8)),
+                                 nrow =1, rel_widths = c(0.5, 0.5), scale =c(1.3, 0.95)),
           nrow= 2, labels = "a", 
-          rel_heights = c(1, 1), label_size = 20)
+          rel_heights = c(1, 0.8), label_size = 20)
 
 # Add legend
 fig_panel_wleg <- plot_grid(fig_panel, growthform_leg, nrow = 2, rel_heights = c(0.95, 0.05))
 ggsave(fig_panel_wleg, filename = file.path(fig.dir, "fig3_combined.pdf"), width = 10, height = 9)
-
