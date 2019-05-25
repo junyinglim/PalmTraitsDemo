@@ -177,7 +177,7 @@ phyloCladePlot <- ggtree(palmPhyloSubset, layout = "circular", size = 0.2) +
   geom_cladelabel(node = 4421, label = "Calamoideae", hjust = 0,
                   offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
   geom_cladelabel(node = 1, label = "Nypoideae", hjust = 0.5, extend = 0.5,
-                  offset = ofs, offset.text = 4.5, barsize = bs, fontsize = fs, color = cl) +
+                  offset = 35, offset.text = 4.5, barsize = bs, fontsize = fs, color = cl) +
   geom_cladelabel(node = 3021, label = "Arecoideae", hjust = 1,
                   offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
   geom_cladelabel(node = 4376, label = "Ceroxyloideae", hjust = 1,
