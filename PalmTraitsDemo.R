@@ -177,7 +177,7 @@ traitDataSubset_PA[,1:3] <- traitDataSubset[,1:3] # restore the taxonomic classi
 
 # Plot phylogeny and label clades
 cladeCol <- c(wes_palette("IsleofDogs2", 5, type = "discrete"), "grey20")
-bs = 2; fs = 10; ofs = 22; cl = c("grey80", "grey20")
+bs = 4; fs = 10; ofs = 22; cl = c("grey80", "grey20")
 phyloCladePlot <- ggtree(palmPhyloSubset, layout = "circular", size = 0.2) +
   geom_cladelabel(node = 4421, label = "Calamoideae", hjust = 0,
                   offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
@@ -260,7 +260,7 @@ phylo_compl_plot <- plot_grid(phyloCoveragePlotGridTitle,
                               phylotraitCoveragePlot, ncol = 1, rel_heights = c(0.05, 0.95))
 
 trait_combined_plot <- plot_grid(trait_compl_plot, trait_var_plot, phylo_compl_plot,
-                                 ncol = 3, labels = "auto", label_size = 30,
+                                 ncol = 3, labels = "auto", label_size = 40,
                                  rel_widths = c(1,1,2.1))
 ggsave(trait_combined_plot,
        filename = file.path(fig.dir, "fig2_traitcoverage.pdf"), width = 36, height = 20)
