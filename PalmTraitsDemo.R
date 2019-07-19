@@ -14,14 +14,14 @@ data.dir <- file.path(main.dir, "data")
 
 ## LOAD PACKAGES ====================
 # You will need to install ggtree which is crucial for the plotting in this script, run the following code to ensure that all dependent packages are also installed and updated
-# install.packages(c("devtools", "rgdal", "rgeos", "ape", "plyr", "wesanderson", "cowplot", "scatterpie", "ggrepel", "ggplot2", "BiocManager", "viridis"), dependencies = TRUE)
+# install.packages(c("devtools", "rgdal", "rgeos", "ape", "plyr", "wesanderson", "cowplot", "scatterpie", "ggrepel", "ggplot2", "BiocManager", "viridis", "reshape2"), dependencies = TRUE)
 # devtools::install_github('GuangchuangYu/ggtree', force = TRUE)
 
 # spatial packages for maps
 library(rgdal); library(rgeos)
 
 # tidy packages for data handling and summary statistics
-library(plyr)
+library(plyr); library(reshape2)
 
 # phylogenetic package
 library(ape)
@@ -128,7 +128,8 @@ for(i in 1:length(traitList)){
     theme(legend.position = "right",
           plot.title = element_text(size = 20, color = "grey20", hjust = 0),
           axis.line = element_blank(), axis.ticks = element_blank(),
-          axis.text = element_blank(), axis.title = element_blank()) +
+          axis.text = element_blank(), axis.title = element_blank(),
+          panel.background = element_blank()) +
     scale_fill_viridis(limits = c(0,1), name = "Proportion\ncomplete", direction = 1)
 }
 
@@ -159,7 +160,8 @@ for(i in 1:length(traitList)){
           plot.title = element_text(size = 20, color = "white", hjust = 0),
           axis.line = element_blank(),
           axis.ticks = element_blank(),
-          axis.text = element_blank(), axis.title = element_blank())
+          axis.text = element_blank(), axis.title = element_blank(),
+          panel.background = element_blank())
   
   if(i %in% c(3,4,5)){
     traitMeanPlotList[[i]] <- traitMeanPlotList[[i]] + scale_fill_viridis(name = legendKey[i], discrete = discrete, na.value="grey", breaks = breaks, direction = 1)
@@ -227,9 +229,9 @@ legendGrob <- get_legend(legendPlot)
 # Combine plots
 phylotraitCoveragePlot <- plot_grid(traitCoveragePlot,
                                     legendGrob, 
-                                    nrow = 2,
-                                    rel_heights = c(0.8, 0.2),
-                                    scale = c(1.5, 3))
+                                    ncol = 2,
+                                    rel_widths = c(0.8, 0.2),
+                                    scale = c(1.5, 2.5))
 
 completenessPlotGrid <- plot_grid(completenessPlotList[[1]],
                                   completenessPlotList[[2]],
@@ -259,11 +261,19 @@ trait_var_plot <- plot_grid(traitMeanPlotGridTitle,
 phylo_compl_plot <- plot_grid(phyloCoveragePlotGridTitle,
                               phylotraitCoveragePlot, ncol = 1, rel_heights = c(0.05, 0.95))
 
-trait_combined_plot <- plot_grid(trait_compl_plot, trait_var_plot, phylo_compl_plot,
-                                 ncol = 3, labels = "auto", label_size = 40,
-                                 rel_widths = c(1,1,2.1))
+trait_combined_plot <- plot_grid(plot_grid(trait_compl_plot, trait_var_plot, ncol = 2,
+                                           labels = c("a", "b"), label_size = 40),
+                                 phylo_compl_plot,
+                                 nrow = 2, labels = c("", "c"), label_size = 40)
+fig2ab <- plot_grid(trait_compl_plot, trait_var_plot, ncol = 2,
+                    labels = c("a", "b"), label_size = 40)
+
+ggsave(fig2ab,
+      filename = file.path(fig.dir, "fig2ab_traitcoverage.pdf"), width = 20, height = 20)
+ggsave(phylo_compl_plot,
+       filename = file.path(fig.dir, "fig2c_traitcoverage.pdf"), width = 20, height = 15)
 ggsave(trait_combined_plot,
-       filename = file.path(fig.dir, "fig2_traitcoverage.pdf"), width = 36, height = 20)
+      filename = file.path(fig.dir, "fig2_traitcoverage.pdf"), width = 20, height = 40)
 
 ################################################################
 ## FIGURE 3a from Kissling et al.: MAPPING GROWTH FORM PROPORTION ONTO WORLD MAP
