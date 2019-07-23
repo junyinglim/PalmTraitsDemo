@@ -170,8 +170,38 @@ for(i in 1:length(traitList)){
   }
 }
 
+
+completenessPlotGrid <- plot_grid(completenessPlotList[[1]],
+                                  completenessPlotList[[2]],
+                                  completenessPlotList[[3]],
+                                  completenessPlotList[[4]],
+                                  completenessPlotList[[5]],
+                                  align = "v", nrow = 5, ncol = 1)
+
+traitMeanPlotGrid  <- plot_grid(traitMeanPlotList[[1]],
+                                traitMeanPlotList[[2]],
+                                traitMeanPlotList[[3]],
+                                traitMeanPlotList[[4]],
+                                traitMeanPlotList[[5]],
+                                align = "v", nrow = 5, ncol = 1)
+
+completenessPlotGridTitle <- ggdraw() + draw_label("Geographic completeness", size = 30)
+traitMeanPlotGridTitle <- ggdraw() + draw_label("Trait variation", size = 30)
+
+trait_compl_plot <- plot_grid(completenessPlotGridTitle,
+                              completenessPlotGrid, ncol = 1, rel_heights = c(0.05, 0.95))
+trait_var_plot <- plot_grid(traitMeanPlotGridTitle,
+                            traitMeanPlotGrid, ncol = 1, rel_heights = c(0.05, 0.95))
+
+fig2_combined <- plot_grid(trait_compl_plot, trait_var_plot, ncol = 2,
+                           labels = c("a", "b"), label_size = 40)
+
+ggsave(fig2_combined,
+       filename = file.path(fig.dir, "fig2_traitcoverage.pdf"), width = 20, height = 20)
+
+
 ################################################################
-## FIGURE 2c from Kissling et al.: PLOTTING COMPLETENESS ONTO PHYLOGENY
+## FIGURE 3 from Kissling et al.: PLOTTING COMPLETENESS ONTO PHYLOGENY
 # Convert trait values into binary values (data present or absent)
 rownames(traitDataSubset) <- traitDataSubset$SpecName
 traitDataSubset_PA <- as.data.frame(ifelse(is.na(traitDataSubset), NA,  1))
@@ -182,15 +212,15 @@ cladeCol <- c(wes_palette("IsleofDogs2", 5, type = "discrete"), "grey20")
 bs = 4; fs = 10; ofs = 22; cl = c("grey80", "grey20")
 phyloCladePlot <- ggtree(palmPhyloSubset, layout = "circular", size = 0.2) +
   geom_cladelabel(node = 4421, label = "Calamoideae", hjust = 0,
-                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
+                  offset = ofs, offset.text = 1.9, barsize = bs, fontsize = fs, color = cl) +
   geom_cladelabel(node = 1, label = "Nypoideae", hjust = 0.5, extend = 0.5,
-                  offset = ofs, offset.text = 4.7, barsize = bs, fontsize = fs, color = cl) +
+                  offset = ofs, offset.text = 6.0, barsize = bs, fontsize = fs, color = cl) +
   geom_cladelabel(node = 3022, label = "Arecoideae", hjust = 1,
-                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
+                  offset = ofs, offset.text = 2, barsize = bs, fontsize = fs, color = cl) +
   geom_cladelabel(node = 4376, label = "Ceroxyloideae", hjust = 1,
-                  offset = ofs, offset.text = 0.8, barsize = bs, fontsize = fs, color = cl) +
+                  offset = ofs, offset.text = 1.3, barsize = bs, fontsize = fs, color = cl) +
   geom_cladelabel(node = 2529, label = "Coryphoideae", hjust = 1,
-                  offset = ofs, offset.text = 1.2, barsize = bs, fontsize = fs, color = cl) +
+                  offset = ofs, offset.text = 2.5, barsize = bs, fontsize = fs, color = cl) +
   scale_x_continuous(limits = c(0, 200)) +
   theme(panel.background = element_blank())
 
@@ -229,54 +259,18 @@ legendGrob <- get_legend(legendPlot)
 # Combine plots
 phylotraitCoveragePlot <- plot_grid(traitCoveragePlot,
                                     legendGrob, 
-                                    ncol = 2,
-                                    rel_widths = c(0.8, 0.2),
+                                    nrow = 2,
+                                    rel_heights= c(0.8, 0.2),
                                     scale = c(1.5, 2.5))
-
-completenessPlotGrid <- plot_grid(completenessPlotList[[1]],
-                                  completenessPlotList[[2]],
-                                  completenessPlotList[[3]],
-                                  completenessPlotList[[4]],
-                                  completenessPlotList[[5]],
-                                  align = "v", nrow = 5, ncol = 1)
-
-traitMeanPlotGrid  <- plot_grid(traitMeanPlotList[[1]],
-                                traitMeanPlotList[[2]],
-                                traitMeanPlotList[[3]],
-                                traitMeanPlotList[[4]],
-                                traitMeanPlotList[[5]],
-                                align = "v", nrow = 5, ncol = 1)
-
-# Add labels
-completenessPlotGridTitle <- ggdraw() + draw_label("Geographic completeness", size = 30)
-
-traitMeanPlotGridTitle <- ggdraw() + draw_label("Trait variation", size = 30)
-
 phyloCoveragePlotGridTitle <- ggdraw() + draw_label("Phylogenetic coverage", size = 30)
-
-trait_compl_plot <- plot_grid(completenessPlotGridTitle,
-                              completenessPlotGrid, ncol = 1, rel_heights = c(0.05, 0.95))
-trait_var_plot <- plot_grid(traitMeanPlotGridTitle,
-                            traitMeanPlotGrid, ncol = 1, rel_heights = c(0.05, 0.95))
 phylo_compl_plot <- plot_grid(phyloCoveragePlotGridTitle,
                               phylotraitCoveragePlot, ncol = 1, rel_heights = c(0.05, 0.95))
 
-trait_combined_plot <- plot_grid(plot_grid(trait_compl_plot, trait_var_plot, ncol = 2,
-                                           labels = c("a", "b"), label_size = 40),
-                                 phylo_compl_plot,
-                                 nrow = 2, labels = c("", "c"), label_size = 40)
-fig2ab <- plot_grid(trait_compl_plot, trait_var_plot, ncol = 2,
-                    labels = c("a", "b"), label_size = 40)
-
-ggsave(fig2ab,
-      filename = file.path(fig.dir, "fig2ab_traitcoverage.pdf"), width = 20, height = 20)
 ggsave(phylo_compl_plot,
-       filename = file.path(fig.dir, "fig2c_traitcoverage.pdf"), width = 20, height = 15)
-ggsave(trait_combined_plot,
-      filename = file.path(fig.dir, "fig2_traitcoverage.pdf"), width = 20, height = 40)
+       filename = file.path(fig.dir, "fig3_traitcoverage.pdf"), width = 20, height = 15)
 
 ################################################################
-## FIGURE 3a from Kissling et al.: MAPPING GROWTH FORM PROPORTION ONTO WORLD MAP
+## FIGURE 4a from Kissling et al.: MAPPING GROWTH FORM PROPORTION ONTO WORLD MAP
 # Merge palm occurrences at the TDWG unit scale with trait data
 occ_trait <- merge(occ, traitData[c("SpecName", "Climbing", "Acaulescent", "Erect")], by = "SpecName", all.x = TRUE)
 
@@ -291,7 +285,7 @@ occ_trait_subset$Erect[occ_trait_subset$Erect > 1] <- 0.5
 # Some minor changes to original geom_scatterpie_legend function (original source code from ggtree) so labels and size of pies can be more easily modified
 geom_scatterpie_legend2 <- function (radius, x, y, n = 5, labeller) {
   if (length(radius) > n) {
-    radius <- unique(sapply(seq(min(radius), max(radius),
+    radius <- unique(sapply(seq(min(radius, na.rm = T), max(radius, na.rm = T),
                                 length.out = n), round))
   }
   label <- FALSE
@@ -326,7 +320,7 @@ tdwg_growthform <- ddply(.data = occ_trait_subset, .variable = .(Area_code_L3),
                          Nsp = length(unique(SpecName)) )
 
 # Merge growth form proportion with botanical country polygons
-tdwg_growthform2 <- merge(x = tdwg_growthform, y = shape@data, all.x = TRUE,
+tdwg_growthform2 <- merge(x = tdwg_growthform, y = shape@data, all = TRUE,
                           by.x = "Area_code_L3")
 
 # Plot map
@@ -335,7 +329,7 @@ traitCols <- c("navyblue",wes_palette("Zissou1", n = 5)[c(5,3)])
 growthform_plot <- ggplot() +
   # Plot base world map polygons (Antarctica excluded for clarity)
   geom_polygon(aes(y = lat, x = long, group = group),
-               data = subset(shape_gg, !LEVEL3_COD == "ANT"), fill = "grey40") +
+              data = subset(shape_gg, !LEVEL3_COD == "ANT"), fill = "grey40") +
   geom_scatterpie(aes(y = centroid_lat, x= centroid_long, group = Area_code_L3, r = radius),
                   data = tdwg_growthform2,
                   cols = c("Climber","Acaulescent","Erect"),
@@ -346,13 +340,14 @@ growthform_plot <- ggplot() +
         axis.title = element_blank(),
         axis.text = element_blank(),
         axis.ticks = element_blank(),
-        axis.line = element_blank()) 
-growthform_plot_wleg <- growthform_plot + geom_scatterpie_legend2(radius = tdwg_growthform2$radius, x=-130, y=-50, n = 3, labeller = function(x) round(exp( (x / 1) - 1), digits = 0)  ) + geom_text(aes(x = -130, y = -50, label = "No. of species    "), hjust  = 1)
+        axis.line = element_blank(),
+        panel.background = element_blank()) 
+growthform_plot_wleg <- growthform_plot + geom_scatterpie_legend2(radius = tdwg_growthform2$radius, x=-130, y=-50, n = 3, labeller = function(x) round( exp( (x / 1) - 1), digits = 0)  ) + geom_text(aes(x = -130, y = -50, label = "No. of species    "), hjust  = 1)
 
 ggsave(growthform_plot_wleg, filename = file.path(fig.dir, "growthform_piechart.pdf"), width = 9, height = 4.8)
 
 ########################################################################
-## FIGURE 3b from Kissling et al.: MAPPING GROWTH FORM ONTO PHYLOGENY
+## FIGURE 4b from Kissling et al.: MAPPING GROWTH FORM ONTO PHYLOGENY
 # Convert trait values into binary values for plotting
 rownames(traitDataSubset) <- traitDataSubset$SpecName
 traitListToPlot <- c("Acaulescent", "Climbing", "Erect")
@@ -393,7 +388,7 @@ traitCoveragePlot <- gheatmap(phyloCladePlot, traitDataSubset[traitListToPlot], 
 ggsave(plot = traitCoveragePlot, file.path(fig.dir, "phyloTrait.pdf"), height = 10, width = 10)
 
 ########################################################################
-## FIGURE 3c from Kissling et al.: Perform a principal component analysis to explore information of
+## FIGURE 4c from Kissling et al.: Perform a principal component analysis to explore information of
 ## continuous traits in the context of growth forms
 # Standardize variables
 traitData$logBladeLength <- log(traitData$Max_Blade_Length_m)
